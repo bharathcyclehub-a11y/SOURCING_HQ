@@ -1,0 +1,91 @@
+# IBRAHIM SOURCING HQ — MASTER INDEX
+**Owner:** Syed Ibrahim | **Business:** BCH + D2C Ventures
+**Core Model:** Positioning Arbitrage — same product, different context = different price
+
+---
+
+## WHAT THIS FOLDER IS
+
+One place for all positioning arbitrage research, vendor intelligence, sourcing plans, and product findings. Every research output lives here.
+
+---
+
+## FILES IN THIS FOLDER
+
+| File | Status | What's In It |
+|------|--------|-------------|
+| [SURAT_KATARGAM_VENDOR_INTELLIGENCE.md](../SURAT_KATARGAM_VENDOR_INTELLIGENCE.md) | COMPLETE | 26 vendors, contacts, 7-zone map, duty structure, Yiwu supply chain, trip protocol |
+| [HOME_INTERIORS_RESEARCH.md](HOME_INTERIORS_RESEARCH.md) | In Progress (agent running) | Unique home interior products under ₹500, wholesale sources |
+| [KIDS_PRODUCTS_RESEARCH.md](KIDS_PRODUCTS_RESEARCH.md) | In Progress (agent running) | User=kid, buyer=parent products with unique hook |
+| [MENS_FABRIC_RESEARCH.md](MENS_FABRIC_RESEARCH.md) | In Progress (agent running) | Premium fabric sources — Indian + imported, suits/shirts/pants |
+| [AUTO_ACCESSORIES_RESEARCH.md](AUTO_ACCESSORIES_RESEARCH.md) | In Progress (agent running) | Automobile accessories — categories + sourcing |
+| [TIRUPPUR_TSHIRT_RESEARCH.md](TIRUPPUR_TSHIRT_RESEARCH.md) | In Progress (agent running) | Direct manufacturers, 1000 units, under ₹100/piece |
+| [RC_CARS_RESEARCH.md](RC_CARS_RESEARCH.md) | COMPLETE (2026-05-18) | RC cars — Chenghai/Sadar sourcing, 109% duty math, 10 SKU picks, Bangalore field map, 6-month GTM |
+| [RC_CARS_10DAY_LAUNCH_PLAN.md](RC_CARS_10DAY_LAUNCH_PLAN.md) | EXECUTION (D1=2026-05-18 → Launch D11=2026-05-28 → Sunday RC Hour D14=2026-05-31) | Day-by-day task sheet, ₹2.05L launch capex, procurement, store setup, content calendar, 12 outreach scripts, sales SOP |
+| [RC_CARS_INDIAN_VENDOR_DIRECTORY.md](RC_CARS_INDIAN_VENDOR_DIRECTORY.md) | COMPLETE (2026-05-19, cross-validated) | Phone-call-executable master directory: 26 contacts ranked by verification score, A/B/C/Hobby/Importer tiers, all handles corrected, red flags, Year 1 supplier mix |
+| [RC_CARS_BRAND_GUIDE.md](RC_CARS_BRAND_GUIDE.md) | COMPLETE (2026-05-19) | Havoc Hobby brand roster decoded: Kyosho/ARRMA/Futaba/Traxxas/Du-Bro/Pilot/Noch/Colop/Seagull/Havoc Market — India distributors, prices, BCH strategy per brand |
+| [RC_CARS_EXECUTABLE_CONTACTS.md](RC_CARS_EXECUTABLE_CONTACTS.md) | EXECUTION (2026-05-19) | NEW contacts only (deduped vs other RC files): hobby-grade vs toy-grade, South India first, Top 15 calls with scripts. Includes Veva phone +91 98415 74901, Adventure Wheels Tamiya gatekeeper, MRC Hobbies, RC Hyderabad, Hobby Corner Kerala, Modelart, Edall, RCX Cafe Pune, India's Hobby Centre Kolkata 1954 |
+| [RC_CARS_48HR_PO_PLAN.md](RC_CARS_48HR_PO_PLAN.md) | 🔥 EXECUTION READY (2026-05-19) | 48-hour purchase order plan: VidIQ Instagram viral SKU data (4 outlier searches), live catalog audit (90%+ retailers OOS!), Hemani Exim deep dive (legal name = SIMBA HOBBY PVT LTD, directors Vijay+Kalpana Shah, sibling Horizon Mfg), 5-6 SKU PO list with margins, ready-to-send email + WhatsApp templates |
+| [RC_CARS_GRAY_ZONE_BRIDGE.md](RC_CARS_GRAY_ZONE_BRIDGE.md) | 🎯 MARGIN PLAY (2026-05-19) | The "Legend of Toys" gap thesis — bridge products ₹2,500-₹4,500 retail that LOOK like ₹15-25K hobby cars at 60-75% gross margin. 15 verified Indian gray-zone brands (ZUNBELLA/Toofun/Pepstter/Rastar/Maisto), 18-unit ₹17.5K starter assortment, separate @bangalorergarage IG strategy, sourcing via DeoDap/Sadar/IndiaMART |
+| [RC_CARS_LEGEND_OF_TOYS_DEEPDIVE.md](RC_CARS_LEGEND_OF_TOYS_DEEPDIVE.md) | 🔥 #1 PRIORITY (2026-05-19) | **Legend of Toys = Fraternitas Ventures Pvt Ltd, HRBR Layout BENGALURU — same city as BCH.** Founders Afshaan Siddiqui + Vinay Jaisingh. WhatsApp +91 98802 12323. ISI+BIS certified. 10 SKU catalog (Flare 2.0 hero, 238 reviews). 3 sold-out 4x4 hobby SKUs = demand gap. Competitor map: HighGearToys (JDM niche), Tygatec (premium), Mirana (smart toys). 9/10 strategic play. Triple outreach scripts ready. |
+
+**Master research (cities overview):** `/Users/syedibrahim/Desktop/POSITIONING_ARBITRAGE_MASTER_RESEARCH.md`
+
+---
+
+## IBRAHIM'S 4 CATEGORIES
+
+### Category 1: Home Interiors
+- Price point: Under ₹499 retail (fast-moving, pan-India D2C)
+- Channel: D2C Instagram / Reels
+- Key requirement: Visual wow factor, content-friendly
+
+### Category 2: Kids Products (User=Kid, Buyer=Parent)
+- Same model as BCH bikes: kid wants it, parent buys it
+- Price: Under ₹499 (or up to ₹2,000 if justified)
+- Key requirement: Unique hook like pocket bike — kids brag about it
+
+### Category 3: Men's Fashion Fabric
+- Suits, shirts, pants
+- Premium imported + Indian fabric sources
+- Ibrahim has fabric taste — leverage for uniqueness/story
+
+### Category 4: Automobile Accessories
+- Growing market, men love cars/bikes
+- Look for unique angle, not commodity
+
+### Bonus: Tiruppur T-shirts (BCH Community Offer)
+- Round neck sports t-shirts
+- 1,000 units initial MOQ
+- Target: Under ₹100/piece
+- Use: 10 t-shirts for ₹1,000 BCH community offer
+- Film: tear the shirt, show quality, hype the community offer
+
+---
+
+## THE USB RULE
+
+Every product sourced must have at least ONE of:
+- Feature USB: Does something others don't
+- Price USB: Dramatically cheaper than perception
+- Story USB: Origin, material, or process that creates narrative
+- Content USB: Something you can demo on Instagram in 30 seconds
+
+The pocket bike example: Feature (folds small) + Story (imported) + Content (ride it in the store) = 25-30 units/month
+
+---
+
+## ACTIVE CONTACTS (Surat — Call This Week)
+
+| Vendor | Phone | Product |
+|--------|-------|---------|
+| SA Optical | 7942534378 | Sunglasses ₹28/pc |
+| KANAF | 7990991782 | Jewelry + hair accessories |
+| Khodiyar Zone | t.me/khodiyarshoppingzone | Dropship partner |
+| Mahant | 8043866703 | Home/kitchen/beauty |
+| Buyerzone | 7265859850 | Electronics/beauty/car |
+| Cheaperzone | 70960 36586 | Mixed imports |
+
+---
+
+*Last updated: May 2026*
