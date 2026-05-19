@@ -89,5 +89,62 @@ This format becomes the BCH signature. Every reel uses it. Audience starts to re
 
 ---
 
+## IDEA #3 — The "Exposed Chassis" Hero Shot (hobby-grade visual signature)
+
+**Concept:** Every hobby-grade RC car BCH stocks gets a **"body off" hero photo** alongside its normal product shot. This becomes BCH's visual signature for the hobby tier — instantly separating a ₹27,995 HPI Venture from a ₹2,500 toy car in the buyer's eye.
+
+**Why it works:**
+- The Indian audience doesn't know what "2.4GHz brushless 4WD" means in text — but they FEEL the difference between an exposed chassis and a sealed plastic shell.
+- The exposed chassis photo is the universal visual language hobby creators use globally (RCSparks, Kevin Talbot, Tygatec — they all do this).
+- For a layperson, this single photo justifies the price tag without any explanation needed.
+- Once BCH consistently uses this format, customers start to recognize: "BCH chassis photo = real hobby car, not a toy."
+
+**What MUST be visible in the shot:**
+- Aluminum / composite chassis plate (metal, not plastic)
+- Oil-filled shock absorbers with color-coded coils (yellow/orange/blue)
+- Servo + servo horn + steering linkage
+- ESC (electronic speed controller) with heat sink
+- 2.4GHz receiver with antenna
+- LiPo battery with XT60 / XT90 connector visible
+- Drive shafts (4WD evidence — front + rear)
+- Brushless motor (if applicable) with cooling fan
+- Real rubber tires on visible metal hex hubs
+
+**Composition rules:**
+- Clean seamless white or grey background (₹500 paper roll from any art shop)
+- 3/4 angle from front-left or front-right (NOT straight side — looks 2D)
+- Two soft lights (LED panels or window + bounce card)
+- Shadow under the car must be soft (not harsh — that signals "studio amateur")
+- Wheels turned slightly outward (gives the car attitude)
+
+**Where to use the shot:**
+- Hero image on each hobby SKU's BCH store display tag
+- Reel format: "Why is this ₹27,995 and not ₹2,500?" → cut to chassis photo → audience GETS it
+- Side-by-side comparison reels: cheap RC body removed (just empty plastic shell) vs hobby RC body removed (chassis full of components)
+- In-store: blow up to A2 poster behind the hobby shelf — explains the price tier silently
+- Instagram carousel: slide 1 = beauty shot with body on; slide 2 = chassis exposed; slide 3 = price; slide 4 = CTA
+
+**Affordable execution:**
+- iPhone (or any modern Android) with portrait mode
+- ₹500 white seamless paper backdrop
+- 2 × ₹1,500 LED panel lights from Amazon (or window light + bounce reflector)
+- Optional: ₹2,000 photo box on Amazon for small-scale shots
+- Time per SKU: 30 minutes including body removal + re-install
+
+**Series potential:**
+- "Body Off" weekly series — every Wednesday, BCH posts one chassis photo with what each component does
+- Slowly educates BCH's audience on hobby-grade language
+- Customers eventually ask for specific specs ("does it have brushless motor?") instead of just looking at price
+
+---
+
+## QUICK REFERENCE — WHY HOBBY ≠ TOY (in one frame)
+
+A toy car: closed plastic, sealed battery, no spare parts, throw it when it breaks.
+A hobby car: open chassis, replaceable everything, upgradeable, repairable, community-supported.
+**The chassis photo proves it before you say a word.**
+
+---
+
 *Started: 2026-05-20*
 *Format: working notebook. Add new ideas below as they come.*
