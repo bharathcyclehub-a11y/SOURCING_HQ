@@ -8,3 +8,6 @@ __pycache__/
 .env
 .env.local
 *.log
+
+# pipeline secrets
+scripts/keys.json
