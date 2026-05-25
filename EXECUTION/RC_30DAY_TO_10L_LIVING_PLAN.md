@@ -132,6 +132,44 @@ Add new tasks at the bottom of "Active Tasks" or "Backlog". Each task = numbered
 
 ---
 
+### TASK 4 — Validate Dev Narayan Marketing (Surat — NOT Mumbai)
+**Owner:** Syed | **Deadline:** Day 10 (2026-06-04) | **Status:** 🟡 NOT STARTED | **Budget:** ₹0 (call) + ₹2-5K (sample order)
+
+**Source:** Business card received via WhatsApp from a contact.
+
+⚠️ **Location correction:** The business card says **Pal Surat, Gujarat 395009** — NOT Mumbai. Address: C-158 Avadhpuri Society, Near 7 Step School, Canal Road. This is a Surat vendor, useful for any Katargam/Surat trip.
+
+**Cross-reference status:** ✅ Already in our IndiaMART scrape (master file row #36) — this business card confirms + UPGRADES the data:
+
+| Field | IndiaMART (had) | Business card (NEW direct) |
+|-------|----------------|---------------------------|
+| Company | Dev Narayan Marketing | Dev Narayan Marketing ✓ |
+| GSTIN | 24DIQPR1974H1ZP | 24DIQPR1974H1ZP ✓ MATCHES |
+| City | Surat | Pal Surat, Gujarat 395009 (more specific) |
+| Phone | **7942959734** (IndiaMART proxy) | **7226051885** ⭐ DIRECT line (better) |
+| Email | — | **Devnarayanmarketing112@gmail.com** ⭐ NEW |
+| Full address | "Surat, Gujarat" | **C-158 Avadhpuri Society, Near 7 Step School, Canal Road, Pal Surat 395009** ⭐ NEW |
+| Known product | "Plastic Bat-Man Remote Control Spray Car High Speed RC Cars Toys" ₹600 | (verify on call — likely full catalog beyond this) |
+| Established | 2019 (6 years active) | — |
+
+**Why validate them:**
+- They already make RC cars (Bat-Man branded spray RC, ₹600 wholesale)
+- Surat location overlaps BCH's existing [SURAT_KATARGAM_VENDOR_INTELLIGENCE.md](../SURAT_KATARGAM_VENDOR_INTELLIGENCE.md) trip protocol — can visit on next Surat sourcing trip
+- 6-year operating history = credible, not fly-by-night
+- GSTIN verified
+
+**Action items:**
+- [ ] Day 1: Call direct line **+91 72260 51885** — ask for: full product catalog PDF, MOQ per SKU, full price list, payment terms, lead time to Bangalore courier
+- [ ] Day 1: Save GSTIN + email to BCH vendor database (overrides the IndiaMART proxy phone)
+- [ ] Day 2: Email **Devnarayanmarketing112@gmail.com** with BCH GSTIN + asking for opening-order quote (5-unit sample + 50-unit bulk pricing)
+- [ ] Day 3: WhatsApp the same number — request product photos + video of any RC drift/crawler SKUs
+- [ ] Day 5 (if interested): Place sample order — 5 units mixed SKUs, ~₹3,000 budget
+- [ ] Surat trip (whenever next planned): Visit C-158 Avadhpuri Society in person — verify factory/warehouse exists, see catalog firsthand
+
+**Acceptance criteria:** Either (a) BCH has placed a sample order and tested product quality, OR (b) Dev Narayan is dropped from active vendor list with a clear reason logged.
+
+---
+
 ## 🔢 THE ₹10L MATH (how Day 30 looks)
 
 **Target: ₹10,00,000 revenue in 30 days**
