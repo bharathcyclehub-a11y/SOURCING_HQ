@@ -10,6 +10,19 @@ One place for all positioning arbitrage research, vendor intelligence, sourcing 
 
 ---
 
+## 🎯 START HERE (for daily execution)
+
+| File | Purpose |
+|------|---------|
+| **[RC_INDIA_EXECUTABLE_CALL_SHEET.md](RC_INDIA_EXECUTABLE_CALL_SHEET.md)** | 🔥 **SOURCE OF TRUTH** — 740 deduped entities scored by call-confidence; Phase 1 (34 mfr/dist/imp), Phase 2 (20 wholesale), Phase 3 (247 mid), call scripts, LinkedIn priorities. **Tomorrow morning starts here.** |
+| [EXECUTION/RC_30DAY_TO_10L_LIVING_PLAN.md](EXECUTION/RC_30DAY_TO_10L_LIVING_PLAN.md) | 30-day living plan + active tasks |
+| [MARKETING/RC_CARS_BY_AGE_CATEGORY.md](MARKETING/RC_CARS_BY_AGE_CATEGORY.md) | 4-shelf product strategy by buyer age |
+| [MARKETING/data_exports/05_HIERARCHY_categorized.csv](MARKETING/data_exports/05_HIERARCHY_categorized.csv) | All 832 entities in spreadsheet (sort by Tier) |
+
+---
+
+
+
 ## FILES IN THIS FOLDER
 
 | File | Status | What's In It |
