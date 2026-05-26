@@ -14,6 +14,7 @@ One place for all positioning arbitrage research, vendor intelligence, sourcing 
 
 | File | Purpose |
 |------|---------|
+| **[HOBBY_GRADE_SUPPLY_ONLY.md](HOBBY_GRADE_SUPPLY_ONLY.md)** | 🎯 **THE FILE** — Hobby-grade RC SUPPLY-SIDE only (no retailers). 6 Tier A gatekeepers (Hemani Exim, Adventure Wheels, DeoDap, Daddy Drones, Bharat Hobby, Hobby Central) + 5 Indian manufacturers (Mirana, LoT, Tygatec, KV Toys, Webby) + 11 RC component suppliers + 8 brand sub-distributors + 10 LinkedIn decision-makers + China direct path. ~38 supply-side entities total. Outreach scripts ready. |
 | **[RC_INDIA_EXECUTABLE_CALL_SHEET.md](RC_INDIA_EXECUTABLE_CALL_SHEET.md)** | 🔥 **SOURCE OF TRUTH** — 740 deduped entities scored by call-confidence; Phase 1 (34 mfr/dist/imp), Phase 2 (20 wholesale), Phase 3 (247 mid), call scripts, LinkedIn priorities. **Tomorrow morning starts here.** |
 | [EXECUTION/RC_30DAY_TO_10L_LIVING_PLAN.md](EXECUTION/RC_30DAY_TO_10L_LIVING_PLAN.md) | 30-day living plan + active tasks |
 | [MARKETING/RC_CARS_BY_AGE_CATEGORY.md](MARKETING/RC_CARS_BY_AGE_CATEGORY.md) | 4-shelf product strategy by buyer age |

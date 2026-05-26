@@ -1,0 +1,538 @@
+[
+  {
+    "name": "JK Chemicals",
+    "state": "Gujarat",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 4.2,
+    "rating_count": 377,
+    "url": "https://www.indiamart.com/jk-chemicals-gujarat/",
+    "products": [
+      {
+        "name": "Aromatherapy Essential Oil, 99% Pure, For Cosmetic",
+        "price": "\u20b9 300/Kg",
+        "moq": "1 Kg"
+      }
+    ],
+    "queries": "set()"
+  },
+  {
+    "name": "Urban Trendz Retail",
+    "state": "Haryana",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 5,
+    "rating_count": 2,
+    "url": "https://www.indiamart.com/urban-trendz-retail/",
+    "products": [
+      {
+        "name": "Headache Relief Aromatherapy Roll On 10ml",
+        "price": "\u20b9 99/Bottle",
+        "moq": "50 Bottle"
+      }
+    ],
+    "queries": "set()"
+  },
+  {
+    "name": "Swastik Lifesciences",
+    "state": "Haryana",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 4.1,
+    "rating_count": 123,
+    "url": "https://www.indiamart.com/swisschem-healthcare/",
+    "products": [
+      {
+        "name": "Aroma Vaginal Hygiene Cleanser, For Business, Packaging Size: 100ml With Carton",
+        "price": "\u20b9 175/Piece",
+        "moq": "100 Piece"
+      }
+    ],
+    "queries": "set()"
+  },
+  {
+    "name": "Premier Enterprise",
+    "state": "Maharashtra",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 4.4,
+    "rating_count": 532,
+    "url": "https://www.indiamart.com/pmagency/",
+    "products": [
+      {
+        "name": "Powder Isovanillin, For Aroma, 25kg Bag",
+        "price": "\u20b9 4,700/Kg",
+        "moq": "1 Kg"
+      }
+    ],
+    "queries": "set()"
+  },
+  {
+    "name": "Pure Oil & Aroma",
+    "state": "Delhi",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 4.5,
+    "rating_count": 49,
+    "url": "https://www.indiamart.com/pure-oil-aroma/",
+    "products": [
+      {
+        "name": "Flaxseed Carrier Oil Virgin(Linseed), For Aromatherapy",
+        "price": "\u20b9 275/Kg",
+        "moq": "1 Kg"
+      }
+    ],
+    "queries": "set()"
+  },
+  {
+    "name": "Pharmac Engineers",
+    "state": "Maharashtra",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 4.3,
+    "rating_count": 12,
+    "url": "https://www.indiamart.com/pharmac-engineers/",
+    "products": [
+      {
+        "name": "Stainless Steel 500 Litres Fractional Distillation Column, For Essential Oil,Aroma Chemicals",
+        "price": "$undefined",
+        "moq": "1 Unit"
+      }
+    ],
+    "queries": "set()"
+  },
+  {
+    "name": "Shree Beauty Care",
+    "state": "Delhi",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 4.3,
+    "rating_count": 43,
+    "url": "https://www.indiamart.com/shreebeauty-care/",
+    "products": [
+      {
+        "name": "Steam Distillation Jojoba Carrier Oil, For Aromatherapy",
+        "price": "\u20b9 1,450/Kg",
+        "moq": "1 Kg"
+      }
+    ],
+    "queries": "set()"
+  },
+  {
+    "name": "Madhuri Group / Meera Marketing",
+    "state": "Maharashtra",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 4.1,
+    "rating_count": 197,
+    "url": "https://www.indiamart.com/madhurigroup/",
+    "products": [
+      {
+        "name": "Cotton D'aromas Chef Coat",
+        "price": "\u20b9 477/Piece",
+        "moq": "1 Piece"
+      }
+    ],
+    "queries": "set()"
+  },
+  {
+    "name": "Nexalle LLP",
+    "state": "Gujarat",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 3.8,
+    "rating_count": 5,
+    "url": "https://www.indiamart.com/infinity-solution-vapi/",
+    "products": [
+      {
+        "name": "Immersion Oil Aromas",
+        "price": "\u20b9 850/Litre",
+        "moq": "1 Litre"
+      }
+    ],
+    "queries": "set()"
+  },
+  {
+    "name": "Vee Ess Sales Private Limited",
+    "state": "Delhi",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 3.7,
+    "rating_count": 47,
+    "url": "https://www.indiamart.com/vee-esssales/",
+    "products": [
+      {
+        "name": "Organic Mantra Mentha Piperita Peppermint Essential Oil - 100% Pure Aroma, Therapeutic Grade (15 ml)",
+        "price": "\u20b9 249/Bottle",
+        "moq": "1 Bottle"
+      }
+    ],
+    "queries": "set()"
+  },
+  {
+    "name": "Simple Solutions",
+    "state": "Karnataka",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 4.6,
+    "rating_count": 63,
+    "url": "https://www.indiamart.com/simplesolutions-karnataka/",
+    "products": [
+      {
+        "name": "FUTUBA Display VFD FUTABA M202MD15B 2x20 DISPLAY",
+        "price": "\u20b9 17,000/Piece",
+        "moq": "1 Piece"
+      },
+      {
+        "name": "FUTUBA Display VFD FUTABA M202MD15B 2x20 DISPLAY",
+        "price": "\u20b9 17,000/Piece",
+        "moq": "1 Piece"
+      }
+    ],
+    "queries": "set()"
+  },
+  {
+    "name": "Adatronix Private Limited",
+    "state": "Karnataka",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 4.2,
+    "rating_count": 128,
+    "url": "https://www.indiamart.com/adatronix/",
+    "products": [
+      {
+        "name": "Rectangle Flourescent Vfd Display",
+        "price": "\u20b9 15,000/Piece",
+        "moq": "1 Piece"
+      },
+      {
+        "name": "Rectangle Flourescent Vfd Display",
+        "price": "\u20b9 15,000/Piece",
+        "moq": "1 Piece"
+      }
+    ],
+    "queries": "set()"
+  },
+  {
+    "name": "Moxie Supply Private Limited",
+    "state": "Maharashtra",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 3.7,
+    "rating_count": 105,
+    "url": "https://www.indiamart.com/moxiesupply/",
+    "products": [
+      {
+        "name": "Zbotic Futaba S3003 Standard 3.2Kgcm Torque Servo Motor",
+        "price": "\u20b9 201/Piece",
+        "moq": "1 Piece"
+      },
+      {
+        "name": "Zbotic Futaba S3003 Standard 3.2Kgcm Torque Servo Motor",
+        "price": "\u20b9 201/Piece",
+        "moq": "1 Piece"
+      }
+    ],
+    "queries": "set()"
+  },
+  {
+    "name": "Hemal Electronics",
+    "state": "Maharashtra",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 3.9,
+    "rating_count": 141,
+    "url": "https://www.indiamart.com/hemal-electronics/",
+    "products": [
+      {
+        "name": "S3003 Futaba Servo Motor",
+        "price": "$undefined",
+        "moq": "10 Piece"
+      },
+      {
+        "name": "S3003 Futaba Servo Motor",
+        "price": "$undefined",
+        "moq": "10 Piece"
+      }
+    ],
+    "queries": "set()"
+  },
+  {
+    "name": "Embedded Design Solutions",
+    "state": "Delhi",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 4.2,
+    "rating_count": 233,
+    "url": "https://www.indiamart.com/embedded-designsolutions/",
+    "products": [
+      {
+        "name": "1.5 KW Embdessol S3003 Servo Motor Futaba, 4.8-6.0 Volts",
+        "price": "\u20b9 175/Piece",
+        "moq": "1 Piece"
+      },
+      {
+        "name": "1.5 KW Embdessol S3003 Servo Motor Futaba, 4.8-6.0 Volts",
+        "price": "\u20b9 175/Piece",
+        "moq": "1 Piece"
+      }
+    ],
+    "queries": "set()"
+  },
+  {
+    "name": "Ishu Traders",
+    "state": "Delhi",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 4.4,
+    "rating_count": 170,
+    "url": "https://www.indiamart.com/ishu-traders/",
+    "products": [
+      {
+        "name": "Direct Drive Servo Motor",
+        "price": "\u20b9 4,000/Piece",
+        "moq": "1 Piece"
+      },
+      {
+        "name": "Direct Drive Servo Motor",
+        "price": "\u20b9 4,000/Piece",
+        "moq": "1 Piece"
+      }
+    ],
+    "queries": "set()"
+  },
+  {
+    "name": "Pixelpitch",
+    "state": "Telangana",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 4.5,
+    "rating_count": 32,
+    "url": "https://www.indiamart.com/pixel-pitch-hyderabad/",
+    "products": [
+      {
+        "name": "Blackmagic Design Expansion Cable for Micro Cinema Camera",
+        "price": "\u20b9 2,785/Piece",
+        "moq": "1 Piece"
+      },
+      {
+        "name": "Blackmagic Design Expansion Cable for Micro Cinema Camera",
+        "price": "\u20b9 2,785/Piece",
+        "moq": "1 Piece"
+      }
+    ],
+    "queries": "set()"
+  },
+  {
+    "name": "Indian Robo Store",
+    "state": "Delhi",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 4.2,
+    "rating_count": 210,
+    "url": "https://www.indiamart.com/indianrobostore/",
+    "products": [
+      {
+        "name": "Turnigy 9XR PRO Radio Transmitter Mode 1 (without module)",
+        "price": "\u20b9 6,499/Piece",
+        "moq": "1 Piece"
+      },
+      {
+        "name": "Turnigy 9XR PRO Radio Transmitter Mode 1 (without module)",
+        "price": "\u20b9 6,499/Piece",
+        "moq": "1 Piece"
+      }
+    ],
+    "queries": "set()"
+  },
+  {
+    "name": "Robotskull",
+    "state": "Gujarat",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 4.4,
+    "rating_count": 310,
+    "url": "https://www.indiamart.com/robotskull/",
+    "products": [
+      {
+        "name": "TowerPro MG995 Servo Motor, 4.8 ~ 6.6 V",
+        "price": "\u20b9 2,200/Piece",
+        "moq": "1 Piece"
+      },
+      {
+        "name": "TowerPro MG995 Servo Motor, 4.8 ~ 6.6 V",
+        "price": "\u20b9 2,200/Piece",
+        "moq": "1 Piece"
+      }
+    ],
+    "queries": "set()"
+  },
+  {
+    "name": "E-Sourcing Solutions",
+    "state": "Tamil Nadu",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 4,
+    "rating_count": 40,
+    "url": "https://www.indiamart.com/e-sourcing-solutions/",
+    "products": [
+      {
+        "name": "KF301-4P PCB Mount Screw Terminal Block Connector",
+        "price": "\u20b9 80/Piece",
+        "moq": "1000 Piece"
+      },
+      {
+        "name": "KF301-4P PCB Mount Screw Terminal Block Connector",
+        "price": "\u20b9 80/Piece",
+        "moq": "1000 Piece"
+      }
+    ],
+    "queries": "set()"
+  },
+  {
+    "name": "Indial Premium Products",
+    "state": "Delhi",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 4.1,
+    "rating_count": 683,
+    "url": "https://www.indiamart.com/indial-premium-products/",
+    "products": [
+      {
+        "name": "Plastic Gel Shooter Rc Car, Scale: 1:12",
+        "price": "\u20b9 650/Piece",
+        "moq": "36 Piece"
+      }
+    ],
+    "queries": "set()"
+  },
+  {
+    "name": "JDM Technologies Private Limited",
+    "state": "Delhi",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 3.9,
+    "rating_count": 299,
+    "url": "https://www.indiamart.com/jdmtechnologiesmeerut/",
+    "products": [
+      {
+        "name": "APC Make Smart-UPS RC Paralleling Kit for 5 & 6 KVA",
+        "price": "\u20b9 21,712/Piece",
+        "moq": "1 Piece"
+      }
+    ],
+    "queries": "set()"
+  },
+  {
+    "name": "JAIN INFO - SOLUTION",
+    "state": "Assam",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 4.2,
+    "rating_count": 197,
+    "url": "https://www.indiamart.com/jaininfosolution/",
+    "products": [
+      {
+        "name": "Ultra Glossy Paper Roll 240 GSM",
+        "price": "\u20b9 3,300/Roll",
+        "moq": "2 Roll"
+      }
+    ],
+    "queries": "set()"
+  },
+  {
+    "name": "Kagaj Digital Retail",
+    "state": "Maharashtra",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 3.9,
+    "rating_count": 18,
+    "url": "https://www.indiamart.com/kagaj-digital-retail/",
+    "products": [
+      {
+        "name": "Nice Color Rc Glossy Inkjet Photo Paper A4 260gsm 50 Sheets",
+        "price": "\u20b9 350/Pack",
+        "moq": "1 Pack"
+      }
+    ],
+    "queries": "set()"
+  },
+  {
+    "name": "Radiant Info Solutions Pvt. Ltd.",
+    "state": "Delhi",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 5,
+    "rating_count": 3,
+    "url": "https://www.indiamart.com/radiant-infosoln-pvtltd/",
+    "products": [
+      {
+        "name": "Facility Management And It Outsourcing",
+        "price": "$undefined",
+        "moq": "1 Unit"
+      }
+    ],
+    "queries": "set()"
+  },
+  {
+    "name": "Digital Solutions",
+    "state": "Maharashtra",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 4.4,
+    "rating_count": 64,
+    "url": "https://www.indiamart.com/arihantinfotech/",
+    "products": [
+      {
+        "name": "APC Smart UPS RC 1000VA, 200 kVA",
+        "price": "\u20b9 24,000/Piece",
+        "moq": "1 Piece"
+      }
+    ],
+    "queries": "set()"
+  },
+  {
+    "name": "Honestattva IT Solutions Private Limited",
+    "state": "Gujarat",
+    "city": null,
+    "phone": null,
+    "gst": null,
+    "rating": 4.2,
+    "rating_count": 170,
+    "url": "https://www.indiamart.com/honestattvaitsolutions/",
+    "products": [
+      {
+        "name": "Warehouse Management System, in In India",
+        "price": "\u20b9 2 Lakh/Month",
+        "moq": "1 Month"
+      }
+    ],
+    "queries": "set()"
+  }
+]
