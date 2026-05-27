@@ -2,6 +2,8 @@
 **Owner:** Syed Ibrahim | **Business:** BCH + D2C Ventures
 **Core Model:** Positioning Arbitrage — same product, different context = different price
 
+*Last reorganized: 2026-05-27*
+
 ---
 
 ## WHAT THIS FOLDER IS
@@ -14,53 +16,128 @@ One place for all positioning arbitrage research, vendor intelligence, sourcing 
 
 | File | Purpose |
 |------|---------|
-| **[HOBBY_GRADE_SUPPLY_ONLY.md](HOBBY_GRADE_SUPPLY_ONLY.md)** | 🎯 **THE FILE** — Hobby-grade RC SUPPLY-SIDE only (no retailers). 6 Tier A gatekeepers (Hemani Exim, Adventure Wheels, DeoDap, Daddy Drones, Bharat Hobby, Hobby Central) + 5 Indian manufacturers (Mirana, LoT, Tygatec, KV Toys, Webby) + 11 RC component suppliers + 8 brand sub-distributors + 10 LinkedIn decision-makers + China direct path. ~38 supply-side entities total. Outreach scripts ready. |
+| **[HOBBY_GRADE_SUPPLY_ONLY.md](HOBBY_GRADE_SUPPLY_ONLY.md)** | 🎯 **THE FILE** — Hobby-grade RC SUPPLY-SIDE only (no retailers). 6 Tier-A gatekeepers (Hemani Exim, Adventure Wheels, DeoDap, Daddy Drones, Bharat Hobby, Hobby Central) + 5 Indian manufacturers (Mirana, LoT, Tygatec, KV Toys, Webby) + 11 RC component suppliers + 8 brand sub-distributors + 10 LinkedIn decision-makers + China direct paths. ~38 supply-side entities total. Outreach scripts ready. |
 | **[RC_INDIA_EXECUTABLE_CALL_SHEET.md](RC_INDIA_EXECUTABLE_CALL_SHEET.md)** | 🔥 **SOURCE OF TRUTH** — 740 deduped entities scored by call-confidence; Phase 1 (34 mfr/dist/imp), Phase 2 (20 wholesale), Phase 3 (247 mid), call scripts, LinkedIn priorities. **Tomorrow morning starts here.** |
+| **[BCH_RC_BUILD_SPEC.md](BCH_RC_BUILD_SPEC.md)** | 🏗️ **BUILD SPEC** — RC vertical store + content + ops build specification |
 | [EXECUTION/RC_30DAY_TO_10L_LIVING_PLAN.md](EXECUTION/RC_30DAY_TO_10L_LIVING_PLAN.md) | 30-day living plan + active tasks |
 | [MARKETING/RC_CARS_BY_AGE_CATEGORY.md](MARKETING/RC_CARS_BY_AGE_CATEGORY.md) | 4-shelf product strategy by buyer age |
 | [MARKETING/data_exports/05_HIERARCHY_categorized.csv](MARKETING/data_exports/05_HIERARCHY_categorized.csv) | All 832 entities in spreadsheet (sort by Tier) |
 
 ---
 
+## 📁 FOLDER MAP
 
-
-## FILES IN THIS FOLDER
-
-| File | Status | What's In It |
-|------|--------|-------------|
-| [SURAT_KATARGAM_VENDOR_INTELLIGENCE.md](../SURAT_KATARGAM_VENDOR_INTELLIGENCE.md) | COMPLETE | 26 vendors, contacts, 7-zone map, duty structure, Yiwu supply chain, trip protocol |
-| [HOME_INTERIORS_RESEARCH.md](HOME_INTERIORS_RESEARCH.md) | In Progress (agent running) | Unique home interior products under ₹500, wholesale sources |
-| [KIDS_PRODUCTS_RESEARCH.md](KIDS_PRODUCTS_RESEARCH.md) | In Progress (agent running) | User=kid, buyer=parent products with unique hook |
-| [MENS_FABRIC_RESEARCH.md](MENS_FABRIC_RESEARCH.md) | In Progress (agent running) | Premium fabric sources — Indian + imported, suits/shirts/pants |
-| [AUTO_ACCESSORIES_RESEARCH.md](AUTO_ACCESSORIES_RESEARCH.md) | In Progress (agent running) | Automobile accessories — categories + sourcing |
-| [TIRUPPUR_TSHIRT_RESEARCH.md](TIRUPPUR_TSHIRT_RESEARCH.md) | In Progress (agent running) | Direct manufacturers, 1000 units, under ₹100/piece |
-| [RC_CARS_RESEARCH.md](RC_CARS_RESEARCH.md) | COMPLETE (2026-05-18) | RC cars — Chenghai/Sadar sourcing, 109% duty math, 10 SKU picks, Bangalore field map, 6-month GTM |
-| [RC_CARS_10DAY_LAUNCH_PLAN.md](RC_CARS_10DAY_LAUNCH_PLAN.md) | EXECUTION (D1=2026-05-18 → Launch D11=2026-05-28 → Sunday RC Hour D14=2026-05-31) | Day-by-day task sheet, ₹2.05L launch capex, procurement, store setup, content calendar, 12 outreach scripts, sales SOP |
-| [RC_CARS_INDIAN_VENDOR_DIRECTORY.md](RC_CARS_INDIAN_VENDOR_DIRECTORY.md) | COMPLETE (2026-05-19, cross-validated) | Phone-call-executable master directory: 26 contacts ranked by verification score, A/B/C/Hobby/Importer tiers, all handles corrected, red flags, Year 1 supplier mix |
-| [RC_CARS_BRAND_GUIDE.md](RC_CARS_BRAND_GUIDE.md) | COMPLETE (2026-05-19) | Havoc Hobby brand roster decoded: Kyosho/ARRMA/Futaba/Traxxas/Du-Bro/Pilot/Noch/Colop/Seagull/Havoc Market — India distributors, prices, BCH strategy per brand |
-| [RC_CARS_EXECUTABLE_CONTACTS.md](RC_CARS_EXECUTABLE_CONTACTS.md) | EXECUTION (2026-05-19) | NEW contacts only (deduped vs other RC files): hobby-grade vs toy-grade, South India first, Top 15 calls with scripts. Includes Veva phone +91 98415 74901, Adventure Wheels Tamiya gatekeeper, MRC Hobbies, RC Hyderabad, Hobby Corner Kerala, Modelart, Edall, RCX Cafe Pune, India's Hobby Centre Kolkata 1954 |
-| [RC_CARS_48HR_PO_PLAN.md](RC_CARS_48HR_PO_PLAN.md) | 🔥 EXECUTION READY (2026-05-19) | 48-hour purchase order plan: VidIQ Instagram viral SKU data (4 outlier searches), live catalog audit (90%+ retailers OOS!), Hemani Exim deep dive (legal name = SIMBA HOBBY PVT LTD, directors Vijay+Kalpana Shah, sibling Horizon Mfg), 5-6 SKU PO list with margins, ready-to-send email + WhatsApp templates |
-| [RC_CARS_GRAY_ZONE_BRIDGE.md](RC_CARS_GRAY_ZONE_BRIDGE.md) | 🎯 MARGIN PLAY (2026-05-19) | The "Legend of Toys" gap thesis — bridge products ₹2,500-₹4,500 retail that LOOK like ₹15-25K hobby cars at 60-75% gross margin. 15 verified Indian gray-zone brands (ZUNBELLA/Toofun/Pepstter/Rastar/Maisto), 18-unit ₹17.5K starter assortment, separate @bangalorergarage IG strategy, sourcing via DeoDap/Sadar/IndiaMART |
-| [RC_CARS_LEGEND_OF_TOYS_DEEPDIVE.md](RC_CARS_LEGEND_OF_TOYS_DEEPDIVE.md) | 🔥 #1 PRIORITY (2026-05-19) | **Legend of Toys = Fraternitas Ventures Pvt Ltd, HRBR Layout BENGALURU — same city as BCH.** Founders Afshaan Siddiqui + Vinay Jaisingh. WhatsApp +91 98802 12323. ISI+BIS certified. 10 SKU catalog (Flare 2.0 hero, 238 reviews). 3 sold-out 4x4 hobby SKUs = demand gap. Competitor map: HighGearToys (JDM niche), Tygatec (premium), Mirana (smart toys). 9/10 strategic play. Triple outreach scripts ready. |
-| [MARKETING/RC_CARS_TG_PERSONAS.md](MARKETING/RC_CARS_TG_PERSONAS.md) | 🎯 STRATEGY (2026-05-20) | What makes a hobby car a hobby car (9 differentiators). 5+2 refined TG personas with full ICPs: P1 Geeky Teen / P2 Returning Hobbyist / P3 Gifting Partner (the underserved goldmine) / P4 Bridge Parent / P5 BCH Loyalist / P6 Club Racer / P7 Birthday Gifter. Channel × persona matrix, tone-of-voice rules, 90-day activation sequence, ~₹22L revenue model. Focus: P5 → P3 → P1. |
-| [MARKETING/RC_CARS_LOT_INSTAGRAM_DEEPDIVE.md](MARKETING/RC_CARS_LOT_INSTAGRAM_DEEPDIVE.md) | 📱 COMPETITIVE INTEL (2026-05-20) | Legend of Toys Instagram (@legendoftoys, 60.4K verified) deep-dive via VidIQ. 6 reels analyzed: full transcripts + visual breakdown + audio + Five Forces scoring (Stop/Gap/Momentum/Feeling/Reach). Confirms LOT targets P3 Gifting Partner verbatim. Patterns: LOT activates Bellandur (south BLR) = north BLR open for BCH. UGC creator @helden.__ identified. BCH steal-with-style content blueprint. |
-| [CONTENT_IDEAS/RC_CARS_CONTENT_IDEAS.md](CONTENT_IDEAS/RC_CARS_CONTENT_IDEAS.md) | 📝 NOTEBOOK | Living content concepts notebook. Idea #1 painted steel container unboxing prop. Idea #2 red cloth reveal. Idea #3 exposed-chassis hero shot (hobby-grade visual signature). Combined 15-sec BCH unboxing formula. |
-| [MARKETING/MJX_INDIA_DISTRIBUTOR_HUNT.md](MARKETING/MJX_INDIA_DISTRIBUTOR_HUNT.md) | 🔍 SOURCING (2026-05-23) | Conclusion: NO exclusive MJX India distributor exists. MJX uses "anyone can be a distributor" model via Alibaba/1688 — every India retailer imports independently. 4 known India retailers mapped (Daddy Drones, Hobby Central, Bharat Hobby, DeoDap). 3 paths: (A) direct China + BIS ₹3-5L, (B) sub-wholesale via Daddy Drones, (C) MJX HQ preferred-buyer. |
-| [MARKETING/RC_CARS_10K_15K_BRACKET.md](MARKETING/RC_CARS_10K_15K_BRACKET.md) | 🎯 PORTFOLIO GAP (2026-05-23) | The ₹10K-15K bracket with India distribution is structurally scarce. Hemani Exim brands start ₹22K+; MJX/WL/Rlaarlo have no exclusive India arm; HPI is ₹26K+. The 5 real candidates ranked: #1 Legend of Toys 4x4 line (same-city Bengaluru), #2 Tygatec Supersonic ₹10,499 direct, #3 Mirana premium tier, #4 MJX direct-China (Path B), #5 Daddy Drones sub-wholesale. 30-day execution plan included. |
-| [MARKETING/INDIAN_TOY_MANUFACTURERS_DIRECTORY.md](MARKETING/INDIAN_TOY_MANUFACTURERS_DIRECTORY.md) | 🏭 SUPPLY CHAIN (2026-05-23) | Indian toy manufacturer call list to find hobby-grade RC makers (or referrals). 5 tiers: industry bodies (TAITMA + DPIIT Toy Cell), funded D2C peers (PlayShifu/Skillmatics/Imagimake/Smartivity), established manufacturers (OK Play listed/KV Toys/Centy/Toyzone/Veva), 5 toy clusters (Noida = priority), OEM partners (Veva is the unlock). Call script + 30-day roadmap + supply chain due-diligence checklist. |
-| [MARKETING/APIFY_LINKEDIN_INDUSTRY_SCAN.md](MARKETING/APIFY_LINKEDIN_INDUSTRY_SCAN.md) | 🔗 NETWORK (2026-05-23) | LinkedIn industry scan via Apify (harvestapi/linkedin-post-search, 108 posts, 53 unique authors classified). **BREAKING: Legend of Toys raised ₹21 Cr Pre-Series A** — Singularity / Veltis / Enzia. Top finds: Kunal Patil (linkedin.com/in/kunal-rc, "Building India's #1 RC Ecosystem · Founder"), Mrinmoy Sinha ("Building Mirana Toys", hiring), journalists Vedanti Kohli + Gyan Vardhan (Entrackr). Reusable Python script at scripts/apify_linkedin_industry_scan.py. |
-| [MARKETING/APIFY_LINKEDIN_DEEP_SCAN_R2.md](MARKETING/APIFY_LINKEDIN_DEEP_SCAN_R2.md) | 🔗 NETWORK R2 (2026-05-23) | 3-scan deep dive (companies + VCs + OEMs). 9 brand LinkedIn pages with employee counts (Mirana=119, PlayShifu=118/22K followers, Skillmatics=268, LoT=25). 5 critical new finds: **Karan Narang CMD KV Toys** (linkedin.com/in/karan-narang-587589351 — "Toy Man of India"); **Hiren Bhungaliya** (Surat OEM founder, MiniCubs/Galaxy Industries, actively soliciting partners); **Minali Agarwal** (PepPlay private-label expert); **Haryana 250-acre toy manufacturing cluster** policy intel; **DeVC** confirmed as 4th LoT investor. |
-| [MARKETING/RC_SUPPLIERS_AND_CREATORS_DEEP_SCAN.md](MARKETING/RC_SUPPLIERS_AND_CREATORS_DEEP_SCAN.md) | 🎯 BIG PICTURE (2026-05-25) | Apify IndiaMART scrape + YouTube Data API mining. **35 IndiaMART RC suppliers with full GSTINs + phones** (Chennai dominates 63%). **53 Indian RC YouTube channels mapped**. CRITICAL DISCOVERY: 4 biggest Indian RC retailers each have YouTube creator partner (Bharat Hobby↔Happy Here Films 779K, Hobby Central↔chatpat toy tv 10.1M, Tygatec↔HACKER JP 3M, Daddy Drones own channel 569K). **Shamshad Maker 4.9M is the unclaimed RC YouTube influencer** = BCH's #1 partnership target. Same-city find: **Ratnaakar Impex Bengaluru MOQ 1 ₹2,300**. |
-| [MARKETING/RC_TOYS_INDIA_MASTER_CONTACTS.md](MARKETING/RC_TOYS_INDIA_MASTER_CONTACTS.md) | 🏆 V2 MEGA-SCAN (2026-05-25) | **483 verified unique entities** (up from 155 in v1). 10 parallel Apify scans across 10 keys (~$10 of $45 pool used). GMaps 6 cities = 360 RC-relevant places with phones (Bengaluru + Mumbai + Delhi + Chennai + Hyderabad + Pune). IndiaMART 63 unique suppliers with GSTINs (+28 NEW). YouTube 53 channels. LinkedIn 30+. **NEW: Zauba market intel** — India RC import market $257M/year, 7,662 active Indian importers, China dominates 55%. Critical chain discovery: **rcbazaar.com runs stores in BLR + Mumbai + Pune = real national competitor**. |
-| [MARKETING/RC_CONTACTS_HIERARCHY.md](MARKETING/RC_CONTACTS_HIERARCHY.md) | 📊 HIERARCHY (2026-05-25) | **All 511 entities classified into 8-tier supply chain hierarchy:** MANUFACTURER (13) → DISTRIBUTOR (8) → IMPORTER (8) → WHOLESALER (106) → TRADER_RETAIL (13) → RETAILER (293) → VENUE_CLUB (10) → CREATOR (60). Top of pyramid = best margin. Includes CSV export at data_exports/05_HIERARCHY_categorized.csv for spreadsheet review. |
-| [MARKETING/RC_CARS_BY_AGE_CATEGORY.md](MARKETING/RC_CARS_BY_AGE_CATEGORY.md) | 🎯 AGE-CATEGORIZED (2026-05-25) | RC-only suppliers split into 4 age segments: Pre-school (3-6 yrs, ₹100-1,500) / Kids (7-12 yrs, ₹1-4.5K) / Teens (13-17 yrs, ₹4.5-15K) / Hobbyist (18+ ₹15K+). Each tier mapped to BCH shelf strategy. |
-| [EXECUTION/RC_30DAY_TO_10L_LIVING_PLAN.md](EXECUTION/RC_30DAY_TO_10L_LIVING_PLAN.md) | 🔥 LIVING (2026-05-25) | **The 0→₹10L in 30 days battleplan (LIVING file).** All future tasks Syed throws go in here, not new files. Currently 3 active tasks: (1) Build premium display rack inspired by @diecast_hub_757 Anuj Patil 777 reference photo, ₹15-25K, Day 5 deadline. (2) Build 3 RC tracks for content (drift indoor + crawler outdoor + drag strip parking), Day 7. (3) Buy ~₹20K of props (LED panels, fog machine, steel container, red velvet, backdrops, cones). Includes ₹10L revenue math, 30-day daily sprint template, KPI tracker, backlog, done log. Cross-references all other research files. |
-
-**Master research (cities overview):** `/Users/syedibrahim/Desktop/POSITIONING_ARBITRAGE_MASTER_RESEARCH.md`
+```
+SOURCING_HQ/
+├── 📌 ROOT — Active source-of-truth files
+│   ├── HOBBY_GRADE_SUPPLY_ONLY.md     ← #1 file
+│   ├── RC_INDIA_EXECUTABLE_CALL_SHEET.md
+│   ├── BCH_RC_BUILD_SPEC.md
+│   └── INDEX.md
+├── 📂 RC_RESEARCH/        — All RC vendor/brand research files
+├── 📂 LANDING_PAGE/       — RC landing-page briefs + copy + competitor intel
+├── 📂 MARKETING/          — TG personas, deep scans, LinkedIn intel, age categorization
+├── 📂 EXECUTION/          — Living 30-day plan + active task tracking
+├── 📂 CONTENT_IDEAS/      — Content concepts notebook
+├── 📂 OTHER_CATEGORIES/   — Non-RC research (home/kids/fabric/auto/Surat/Tiruppur)
+├── 📂 REFERENCE/          — Reference material (Krishna Rathi marketing transcripts)
+└── 📂 scripts/            — Apify Python scripts + API keys (gitignored)
+```
 
 ---
 
-## IBRAHIM'S 4 CATEGORIES
+## 📂 RC_RESEARCH/ — All RC vendor / brand research
+
+| File | Status | What's In It |
+|------|--------|-------------|
+| [RC_RESEARCH/RC_CARS_RESEARCH.md](RC_RESEARCH/RC_CARS_RESEARCH.md) | COMPLETE (2026-05-18) | RC cars — Chenghai/Sadar sourcing, 109% duty math, 10 SKU picks, Bangalore field map, 6-month GTM |
+| [RC_RESEARCH/RC_CARS_10DAY_LAUNCH_PLAN.md](RC_RESEARCH/RC_CARS_10DAY_LAUNCH_PLAN.md) | EXECUTION (D1=2026-05-18 → Launch D11=2026-05-28) | Day-by-day task sheet, ₹2.05L launch capex, procurement, store setup, content calendar, 12 outreach scripts, sales SOP |
+| [RC_RESEARCH/RC_CARS_INDIAN_VENDOR_DIRECTORY.md](RC_RESEARCH/RC_CARS_INDIAN_VENDOR_DIRECTORY.md) | COMPLETE (2026-05-19) | Phone-call-executable master directory: 26 contacts ranked by verification score, A/B/C/Hobby/Importer tiers, all handles corrected, red flags, Year 1 supplier mix |
+| [RC_RESEARCH/RC_CARS_BRAND_GUIDE.md](RC_RESEARCH/RC_CARS_BRAND_GUIDE.md) | COMPLETE (2026-05-19) | Havoc Hobby brand roster decoded: Kyosho/ARRMA/Futaba/Traxxas/Du-Bro/Pilot/Noch/Colop/Seagull/Havoc Market — India distributors, prices, BCH strategy per brand |
+| [RC_RESEARCH/RC_CARS_BRAND_BIBLE.md](RC_RESEARCH/RC_CARS_BRAND_BIBLE.md) | COMPLETE | Complete brand bible: positioning, voice, visual language |
+| [RC_RESEARCH/RC_CARS_EXECUTABLE_CONTACTS.md](RC_RESEARCH/RC_CARS_EXECUTABLE_CONTACTS.md) | EXECUTION (2026-05-19) | NEW contacts only: hobby-grade vs toy-grade, South India first, Top 15 calls with scripts. Veva +91 98415 74901, Adventure Wheels, MRC Hobbies, RC Hyderabad, Hobby Corner Kerala, Modelart, Edall, RCX Cafe Pune, India's Hobby Centre Kolkata |
+| [RC_RESEARCH/RC_CARS_48HR_PO_PLAN.md](RC_RESEARCH/RC_CARS_48HR_PO_PLAN.md) | 🔥 EXECUTION READY (2026-05-19) | 48-hour purchase order plan: VidIQ Instagram viral SKU data, live catalog audit (90%+ retailers OOS!), Hemani Exim deep dive (legal name = SIMBA HOBBY PVT LTD, directors Vijay+Kalpana Shah), 5-6 SKU PO list with margins, ready-to-send email + WhatsApp templates |
+| [RC_RESEARCH/RC_CARS_GRAY_ZONE_BRIDGE.md](RC_RESEARCH/RC_CARS_GRAY_ZONE_BRIDGE.md) | 🎯 MARGIN PLAY (2026-05-19) | The "Legend of Toys" gap thesis — bridge products ₹2,500-₹4,500 retail that LOOK like ₹15-25K hobby cars at 60-75% gross margin. 15 verified Indian gray-zone brands, 18-unit ₹17.5K starter assortment, @bangalorergarage IG strategy |
+| [RC_RESEARCH/RC_CARS_LEGEND_OF_TOYS_DEEPDIVE.md](RC_RESEARCH/RC_CARS_LEGEND_OF_TOYS_DEEPDIVE.md) | 🔥 #1 PRIORITY (2026-05-19) | **Legend of Toys = Fraternitas Ventures Pvt Ltd, HRBR Layout BENGALURU.** Founders Afshaan Siddiqui + Vinay Jaisingh. WhatsApp +91 98802 12323. 10 SKU catalog (Flare 2.0 hero, 238 reviews). 3 sold-out 4x4 hobby SKUs = demand gap. Competitor map. 9/10 strategic play. Triple outreach scripts |
+| [RC_RESEARCH/RC_CARS_MINI_SKU_BATTLEPLAN.md](RC_RESEARCH/RC_CARS_MINI_SKU_BATTLEPLAN.md) | 🎯 SKU LAUNCH | Finalized SKU: Mini RC Drift Car. 0→₹10L month-1 target. ~12 IG accounts content-flooding play |
+| [RC_RESEARCH/RC_CARS_MUMBAI_DOSSIER.md](RC_RESEARCH/RC_CARS_MUMBAI_DOSSIER.md) | DOSSIER | Mumbai RC market — vendors, clubs, retail |
+| [RC_RESEARCH/RC_CARS_GLOBAL_CREATORS.md](RC_RESEARCH/RC_CARS_GLOBAL_CREATORS.md) | DISCOVERY | Global RC YouTube/Instagram creators |
+| [RC_RESEARCH/RC_CARS_GLOBAL_DISCOVERY_BACKLOG.md](RC_RESEARCH/RC_CARS_GLOBAL_DISCOVERY_BACKLOG.md) | BACKLOG | Global discovery — unprocessed leads |
+| [RC_RESEARCH/RC_CARS_GLOBAL_RETAILERS.md](RC_RESEARCH/RC_CARS_GLOBAL_RETAILERS.md) | DISCOVERY | Global RC retailers — reference only |
+| [RC_RESEARCH/INDIA_TOY_EXPO_INTELLIGENCE.md](RC_RESEARCH/INDIA_TOY_EXPO_INTELLIGENCE.md) | INTEL | India Toy Expo — exhibitor list, booth contacts |
+| [RC_RESEARCH/NOIDA_TOY_CITY_VALIDATION.md](RC_RESEARCH/NOIDA_TOY_CITY_VALIDATION.md) | INTEL | Noida Toy City cluster validation |
+
+---
+
+## 📂 LANDING_PAGE/ — RC landing-page briefs + copy
+
+| File | Status | What's In It |
+|------|--------|-------------|
+| [LANDING_PAGE/RC_LANDING_PAGE_BRIEF_V2.md](LANDING_PAGE/RC_LANDING_PAGE_BRIEF_V2.md) | 🏗️ BUILD-READY (v2) | 818 lines, 11-section spec, 15-component manifest, retailer login + wholesale flow, tech stack (Vercel + Razorpay + Shiprocket + Judge.me) |
+| [LANDING_PAGE/RC_LANDING_PAGE_COPY.md](LANDING_PAGE/RC_LANDING_PAGE_COPY.md) | COPY | 744 lines — every literal string ready to paste, 5 UTM-source hero variants |
+| [LANDING_PAGE/RC_CARS_LANDING_PAGE_BRIEF.md](LANDING_PAGE/RC_CARS_LANDING_PAGE_BRIEF.md) | v1 | Original 135-line brief (superseded by v2; keep for context) |
+| [LANDING_PAGE/RC_COMPETITOR_BIO_URLS.md](LANDING_PAGE/RC_COMPETITOR_BIO_URLS.md) | INTEL | Competitor Instagram bio URLs catalog |
+| [LANDING_PAGE/RC_CONVERSION_INTELLIGENCE_BRIEF.md](LANDING_PAGE/RC_CONVERSION_INTELLIGENCE_BRIEF.md) | INTEL | Conversion intelligence — what makes RC pages convert |
+
+---
+
+## 📂 MARKETING/ — TG personas, deep scans, age categorization
+
+| File | Status | What's In It |
+|------|--------|-------------|
+| [MARKETING/RC_CARS_TG_PERSONAS.md](MARKETING/RC_CARS_TG_PERSONAS.md) | 🎯 STRATEGY (2026-05-20) | What makes a hobby car a hobby car (9 differentiators). 5+2 refined TG personas with full ICPs. Channel × persona matrix, tone-of-voice rules, 90-day activation sequence, ~₹22L revenue model. Focus: P5 → P3 → P1 |
+| [MARKETING/RC_CARS_LOT_INSTAGRAM_DEEPDIVE.md](MARKETING/RC_CARS_LOT_INSTAGRAM_DEEPDIVE.md) | 📱 COMPETITIVE INTEL (2026-05-20) | Legend of Toys Instagram (@legendoftoys, 60.4K verified) deep-dive via VidIQ. 6 reels analyzed: full transcripts + visual breakdown + audio + Five Forces scoring. Confirms LOT targets P3 Gifting Partner |
+| [MARKETING/MJX_INDIA_DISTRIBUTOR_HUNT.md](MARKETING/MJX_INDIA_DISTRIBUTOR_HUNT.md) | 🔍 SOURCING (2026-05-23) | NO exclusive MJX India distributor exists. MJX uses "anyone can be a distributor" model via Alibaba/1688. 4 known India retailers mapped. 3 paths: (A) direct China + BIS ₹3-5L, (B) sub-wholesale via Daddy Drones, (C) MJX HQ preferred-buyer |
+| [MARKETING/RC_CARS_10K_15K_BRACKET.md](MARKETING/RC_CARS_10K_15K_BRACKET.md) | 🎯 PORTFOLIO GAP (2026-05-23) | The ₹10K-15K bracket with India distribution is structurally scarce. 5 real candidates ranked: #1 Legend of Toys 4x4 line, #2 Tygatec Supersonic ₹10,499, #3 Mirana premium tier, #4 MJX direct-China, #5 Daddy Drones sub-wholesale. 30-day execution plan |
+| [MARKETING/INDIAN_TOY_MANUFACTURERS_DIRECTORY.md](MARKETING/INDIAN_TOY_MANUFACTURERS_DIRECTORY.md) | 🏭 SUPPLY CHAIN (2026-05-23) | Indian toy manufacturer call list. 5 tiers: industry bodies (TAITMA + DPIIT Toy Cell), funded D2C peers (PlayShifu/Skillmatics/Imagimake/Smartivity), established manufacturers (OK Play/KV Toys/Centy/Toyzone/Veva), 5 toy clusters, OEM partners (Veva is the unlock) |
+| [MARKETING/APIFY_LINKEDIN_INDUSTRY_SCAN.md](MARKETING/APIFY_LINKEDIN_INDUSTRY_SCAN.md) | 🔗 NETWORK (2026-05-23) | LinkedIn industry scan via Apify (108 posts, 53 unique authors). **BREAKING: Legend of Toys raised ₹21 Cr Pre-Series A** — Singularity / Veltis / Enzia. Top finds: Kunal Patil ("Building India's #1 RC Ecosystem"), Mrinmoy Sinha (Mirana Toys, hiring) |
+| [MARKETING/APIFY_LINKEDIN_DEEP_SCAN_R2.md](MARKETING/APIFY_LINKEDIN_DEEP_SCAN_R2.md) | 🔗 NETWORK R2 (2026-05-23) | 3-scan deep dive (companies + VCs + OEMs). 9 brand LinkedIn pages with employee counts. 5 critical finds: **Karan Narang CMD KV Toys** ("Toy Man of India"); **Hiren Bhungaliya** (Surat OEM founder, actively soliciting); **Minali Agarwal** (PepPlay PL expert); **Haryana 250-acre toy cluster**; **DeVC** as 4th LoT investor |
+| [MARKETING/RC_SUPPLIERS_AND_CREATORS_DEEP_SCAN.md](MARKETING/RC_SUPPLIERS_AND_CREATORS_DEEP_SCAN.md) | 🎯 BIG PICTURE (2026-05-25) | Apify IndiaMART + YouTube Data API mining. **35 IndiaMART RC suppliers with full GSTINs** (Chennai 63%). **53 Indian RC YouTube channels**. CRITICAL: 4 biggest Indian RC retailers each have YouTube creator partner. **Shamshad Maker 4.9M is unclaimed = BCH's #1 partnership target**. Same-city: **Ratnaakar Impex Bengaluru MOQ 1 ₹2,300** |
+| [MARKETING/RC_TOYS_INDIA_MASTER_CONTACTS.md](MARKETING/RC_TOYS_INDIA_MASTER_CONTACTS.md) | 🏆 V2 MEGA-SCAN (2026-05-25) | **483 verified unique entities**. 10 parallel Apify scans (~$10 of $45 pool). GMaps 6 cities = 360 RC places. IndiaMART 63 unique suppliers. YouTube 53 channels. **Zauba market intel** — India RC import market $257M/year, 7,662 active importers. Critical: **rcbazaar.com is real national competitor** (BLR + Mumbai + Pune) |
+| [MARKETING/RC_CONTACTS_HIERARCHY.md](MARKETING/RC_CONTACTS_HIERARCHY.md) | 📊 HIERARCHY (2026-05-25) | **All 511 entities classified into 8-tier supply chain hierarchy:** MANUFACTURER (13) → DISTRIBUTOR (8) → IMPORTER (8) → WHOLESALER (106) → TRADER_RETAIL (13) → RETAILER (293) → VENUE_CLUB (10) → CREATOR (60). CSV export at `data_exports/05_HIERARCHY_categorized.csv` |
+| [MARKETING/RC_CARS_BY_AGE_CATEGORY.md](MARKETING/RC_CARS_BY_AGE_CATEGORY.md) | 🎯 AGE-CATEGORIZED (2026-05-25) | RC-only suppliers split into 4 age segments: Pre-school (3-6 yrs, ₹100-1,500) / Kids (7-12 yrs, ₹1-4.5K) / Teens (13-17 yrs, ₹4.5-15K) / Hobbyist (18+ ₹15K+). Each tier mapped to BCH shelf strategy |
+
+---
+
+## 📂 EXECUTION/ — Living plan + active task tracking
+
+| File | Status | What's In It |
+|------|--------|-------------|
+| [EXECUTION/RC_30DAY_TO_10L_LIVING_PLAN.md](EXECUTION/RC_30DAY_TO_10L_LIVING_PLAN.md) | 🔥 LIVING (2026-05-25) | **The 0→₹10L in 30 days battleplan.** All future tasks go here, not new files. Active tasks: (1) Build premium display rack inspired by @diecast_hub_757, Day 5. (2) Build 3 RC tracks (drift indoor + crawler outdoor + drag strip parking), Day 7. (3) Buy ~₹20K of props. Includes ₹10L revenue math, 30-day daily sprint template, KPI tracker, backlog, done log |
+
+---
+
+## 📂 CONTENT_IDEAS/ — Content concepts
+
+| File | Status | What's In It |
+|------|--------|-------------|
+| [CONTENT_IDEAS/RC_CARS_CONTENT_IDEAS.md](CONTENT_IDEAS/RC_CARS_CONTENT_IDEAS.md) | 📝 NOTEBOOK | Living content concepts notebook. Idea #1 painted steel container unboxing prop. Idea #2 red cloth reveal. Idea #3 exposed-chassis hero shot. Combined 15-sec BCH unboxing formula |
+
+---
+
+## 📂 OTHER_CATEGORIES/ — Non-RC research (reference for future categories)
+
+| File | Status | What's In It |
+|------|--------|-------------|
+| [OTHER_CATEGORIES/POSITIONING_ARBITRAGE_MASTER_RESEARCH.md](OTHER_CATEGORIES/POSITIONING_ARBITRAGE_MASTER_RESEARCH.md) | MASTER REF | Cities overview, master positioning arbitrage thesis |
+| [OTHER_CATEGORIES/SURAT_KATARGAM_VENDOR_INTELLIGENCE.md](OTHER_CATEGORIES/SURAT_KATARGAM_VENDOR_INTELLIGENCE.md) | COMPLETE | 26 vendors, contacts, 7-zone map, duty structure, Yiwu supply chain, trip protocol |
+| [OTHER_CATEGORIES/HOME_INTERIORS_RESEARCH.md](OTHER_CATEGORIES/HOME_INTERIORS_RESEARCH.md) | Research | Unique home interior products under ₹500, wholesale sources |
+| [OTHER_CATEGORIES/KIDS_PRODUCTS_RESEARCH.md](OTHER_CATEGORIES/KIDS_PRODUCTS_RESEARCH.md) | Research | User=kid, buyer=parent products with unique hook |
+| [OTHER_CATEGORIES/MENS_FABRIC_RESEARCH.md](OTHER_CATEGORIES/MENS_FABRIC_RESEARCH.md) | Research | Premium fabric sources — Indian + imported, suits/shirts/pants |
+| [OTHER_CATEGORIES/AUTO_ACCESSORIES_RESEARCH.md](OTHER_CATEGORIES/AUTO_ACCESSORIES_RESEARCH.md) | Research | Automobile accessories — categories + sourcing |
+| [OTHER_CATEGORIES/TIRUPPUR_TSHIRT_RESEARCH.md](OTHER_CATEGORIES/TIRUPPUR_TSHIRT_RESEARCH.md) | Research | Direct manufacturers, 1000 units, under ₹100/piece |
+
+---
+
+## 📂 REFERENCE/ — Reference material
+
+| File | Status | What's In It |
+|------|--------|-------------|
+| [REFERENCE/krishna_rathi_marketing_transcripts.md](REFERENCE/krishna_rathi_marketing_transcripts.md) | TRANSCRIPT | Krishna Rathi marketing video transcripts |
+
+---
+
+## IBRAHIM'S 4 CATEGORIES (non-RC backlog)
 
 ### Category 1: Home Interiors
 - Price point: Under ₹499 retail (fast-moving, pan-India D2C)
@@ -86,17 +163,16 @@ One place for all positioning arbitrage research, vendor intelligence, sourcing 
 - 1,000 units initial MOQ
 - Target: Under ₹100/piece
 - Use: 10 t-shirts for ₹1,000 BCH community offer
-- Film: tear the shirt, show quality, hype the community offer
 
 ---
 
 ## THE USB RULE
 
 Every product sourced must have at least ONE of:
-- Feature USB: Does something others don't
-- Price USB: Dramatically cheaper than perception
-- Story USB: Origin, material, or process that creates narrative
-- Content USB: Something you can demo on Instagram in 30 seconds
+- **Feature USB:** Does something others don't
+- **Price USB:** Dramatically cheaper than perception
+- **Story USB:** Origin, material, or process that creates narrative
+- **Content USB:** Something you can demo on Instagram in 30 seconds
 
 The pocket bike example: Feature (folds small) + Story (imported) + Content (ride it in the store) = 25-30 units/month
 
@@ -115,4 +191,4 @@ The pocket bike example: Feature (folds small) + Story (imported) + Content (rid
 
 ---
 
-*Last updated: May 2026*
+*Last updated: 2026-05-27 — reorganized into RC_RESEARCH / LANDING_PAGE / OTHER_CATEGORIES / REFERENCE subfolders*
