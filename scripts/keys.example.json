@@ -1,0 +1,10 @@
+{
+  "_comment": "Copy this file to keys.json and fill in real keys. keys.json is gitignored. The script rotates within each pool: it uses one key until that key returns a 429 / quota-exhausted error, then advances to the next.",
+  "apify": [
+    "apify_api_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "apify_api_yyyyyyyyyyyyyyyyyyyyyyyyyyyyyy"
+  ],
+  "gemini": [
+    "AIzaSy_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  ]
+}
