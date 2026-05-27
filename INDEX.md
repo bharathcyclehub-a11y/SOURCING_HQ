@@ -34,9 +34,9 @@ SOURCING_HQ/
 │   ├── RC_INDIA_EXECUTABLE_CALL_SHEET.md
 │   ├── BCH_RC_BUILD_SPEC.md
 │   └── INDEX.md
-├── 📂 RC_RESEARCH/        — All RC vendor/brand research files
+├── 📂 RC_RESEARCH/        — All RC vendor/brand/sourcing research files
 ├── 📂 LANDING_PAGE/       — RC landing-page briefs + copy + competitor intel
-├── 📂 MARKETING/          — TG personas, deep scans, LinkedIn intel, age categorization
+├── 📂 MARKETING/          — TG personas, content/competitive intel, age categorization
 ├── 📂 EXECUTION/          — Living 30-day plan + active task tracking
 ├── 📂 CONTENT_IDEAS/      — Content concepts notebook
 ├── 📂 OTHER_CATEGORIES/   — Non-RC research (home/kids/fabric/auto/Surat/Tiruppur)
@@ -50,6 +50,14 @@ SOURCING_HQ/
 
 | File | Status | What's In It |
 |------|--------|-------------|
+| [RC_RESEARCH/RC_TOYS_INDIA_MASTER_CONTACTS.md](RC_RESEARCH/RC_TOYS_INDIA_MASTER_CONTACTS.md) | 🏆 V2 MEGA-SCAN (2026-05-25) | **483 verified unique entities**. 10 parallel Apify scans (~$10 of $45 pool). GMaps 6 cities = 360 RC places. IndiaMART 63 unique suppliers. YouTube 53 channels. **Zauba market intel** — India RC import market $257M/year, 7,662 active importers. Critical: **rcbazaar.com is real national competitor** (BLR + Mumbai + Pune) |
+| [RC_RESEARCH/RC_CONTACTS_HIERARCHY.md](RC_RESEARCH/RC_CONTACTS_HIERARCHY.md) | 📊 HIERARCHY (2026-05-25) | **All 511 entities classified into 8-tier supply chain hierarchy:** MANUFACTURER (13) → DISTRIBUTOR (8) → IMPORTER (8) → WHOLESALER (106) → TRADER_RETAIL (13) → RETAILER (293) → VENUE_CLUB (10) → CREATOR (60). CSV export at `MARKETING/data_exports/05_HIERARCHY_categorized.csv` |
+| [RC_RESEARCH/RC_SUPPLIERS_AND_CREATORS_DEEP_SCAN.md](RC_RESEARCH/RC_SUPPLIERS_AND_CREATORS_DEEP_SCAN.md) | 🎯 BIG PICTURE (2026-05-25) | Apify IndiaMART + YouTube Data API mining. **35 IndiaMART RC suppliers with full GSTINs** (Chennai 63%). **53 Indian RC YouTube channels**. CRITICAL: 4 biggest Indian RC retailers each have YouTube creator partner. **Shamshad Maker 4.9M is unclaimed = BCH's #1 partnership target**. Same-city: **Ratnaakar Impex Bengaluru MOQ 1 ₹2,300** |
+| [RC_RESEARCH/INDIAN_TOY_MANUFACTURERS_DIRECTORY.md](RC_RESEARCH/INDIAN_TOY_MANUFACTURERS_DIRECTORY.md) | 🏭 SUPPLY CHAIN (2026-05-23) | Indian toy manufacturer call list. 5 tiers: industry bodies (TAITMA + DPIIT Toy Cell), funded D2C peers (PlayShifu/Skillmatics/Imagimake/Smartivity), established manufacturers (OK Play/KV Toys/Centy/Toyzone/Veva), 5 toy clusters, OEM partners (Veva is the unlock) |
+| [RC_RESEARCH/RC_CARS_10K_15K_BRACKET.md](RC_RESEARCH/RC_CARS_10K_15K_BRACKET.md) | 🎯 PORTFOLIO GAP (2026-05-23) | The ₹10K-15K bracket with India distribution is structurally scarce. 5 real candidates ranked: #1 Legend of Toys 4x4 line, #2 Tygatec Supersonic ₹10,499, #3 Mirana premium tier, #4 MJX direct-China, #5 Daddy Drones sub-wholesale. 30-day execution plan |
+| [RC_RESEARCH/MJX_INDIA_DISTRIBUTOR_HUNT.md](RC_RESEARCH/MJX_INDIA_DISTRIBUTOR_HUNT.md) | 🔍 SOURCING (2026-05-23) | NO exclusive MJX India distributor exists. MJX uses "anyone can be a distributor" model via Alibaba/1688. 4 known India retailers mapped. 3 paths: (A) direct China + BIS ₹3-5L, (B) sub-wholesale via Daddy Drones, (C) MJX HQ preferred-buyer |
+| [RC_RESEARCH/APIFY_LINKEDIN_INDUSTRY_SCAN.md](RC_RESEARCH/APIFY_LINKEDIN_INDUSTRY_SCAN.md) | 🔗 NETWORK (2026-05-23) | LinkedIn industry scan via Apify (108 posts, 53 unique authors). **BREAKING: Legend of Toys raised ₹21 Cr Pre-Series A** — Singularity / Veltis / Enzia. Top finds: Kunal Patil ("Building India's #1 RC Ecosystem"), Mrinmoy Sinha (Mirana Toys, hiring) |
+| [RC_RESEARCH/APIFY_LINKEDIN_DEEP_SCAN_R2.md](RC_RESEARCH/APIFY_LINKEDIN_DEEP_SCAN_R2.md) | 🔗 NETWORK R2 (2026-05-23) | 3-scan deep dive (companies + VCs + OEMs). 9 brand LinkedIn pages with employee counts. 5 critical finds: **Karan Narang CMD KV Toys** ("Toy Man of India"); **Hiren Bhungaliya** (Surat OEM founder, actively soliciting); **Minali Agarwal** (PepPlay PL expert); **Haryana 250-acre toy cluster**; **DeVC** as 4th LoT investor |
 | [RC_RESEARCH/RC_CARS_RESEARCH.md](RC_RESEARCH/RC_CARS_RESEARCH.md) | COMPLETE (2026-05-18) | RC cars — Chenghai/Sadar sourcing, 109% duty math, 10 SKU picks, Bangalore field map, 6-month GTM |
 | [RC_RESEARCH/RC_CARS_10DAY_LAUNCH_PLAN.md](RC_RESEARCH/RC_CARS_10DAY_LAUNCH_PLAN.md) | EXECUTION (D1=2026-05-18 → Launch D11=2026-05-28) | Day-by-day task sheet, ₹2.05L launch capex, procurement, store setup, content calendar, 12 outreach scripts, sales SOP |
 | [RC_RESEARCH/RC_CARS_INDIAN_VENDOR_DIRECTORY.md](RC_RESEARCH/RC_CARS_INDIAN_VENDOR_DIRECTORY.md) | COMPLETE (2026-05-19) | Phone-call-executable master directory: 26 contacts ranked by verification score, A/B/C/Hobby/Importer tiers, all handles corrected, red flags, Year 1 supplier mix |
@@ -81,21 +89,14 @@ SOURCING_HQ/
 
 ---
 
-## 📂 MARKETING/ — TG personas, deep scans, age categorization
+## 📂 MARKETING/ — TG personas, content/competitive intel, age segmentation
 
 | File | Status | What's In It |
 |------|--------|-------------|
 | [MARKETING/RC_CARS_TG_PERSONAS.md](MARKETING/RC_CARS_TG_PERSONAS.md) | 🎯 STRATEGY (2026-05-20) | What makes a hobby car a hobby car (9 differentiators). 5+2 refined TG personas with full ICPs. Channel × persona matrix, tone-of-voice rules, 90-day activation sequence, ~₹22L revenue model. Focus: P5 → P3 → P1 |
 | [MARKETING/RC_CARS_LOT_INSTAGRAM_DEEPDIVE.md](MARKETING/RC_CARS_LOT_INSTAGRAM_DEEPDIVE.md) | 📱 COMPETITIVE INTEL (2026-05-20) | Legend of Toys Instagram (@legendoftoys, 60.4K verified) deep-dive via VidIQ. 6 reels analyzed: full transcripts + visual breakdown + audio + Five Forces scoring. Confirms LOT targets P3 Gifting Partner |
-| [MARKETING/MJX_INDIA_DISTRIBUTOR_HUNT.md](MARKETING/MJX_INDIA_DISTRIBUTOR_HUNT.md) | 🔍 SOURCING (2026-05-23) | NO exclusive MJX India distributor exists. MJX uses "anyone can be a distributor" model via Alibaba/1688. 4 known India retailers mapped. 3 paths: (A) direct China + BIS ₹3-5L, (B) sub-wholesale via Daddy Drones, (C) MJX HQ preferred-buyer |
-| [MARKETING/RC_CARS_10K_15K_BRACKET.md](MARKETING/RC_CARS_10K_15K_BRACKET.md) | 🎯 PORTFOLIO GAP (2026-05-23) | The ₹10K-15K bracket with India distribution is structurally scarce. 5 real candidates ranked: #1 Legend of Toys 4x4 line, #2 Tygatec Supersonic ₹10,499, #3 Mirana premium tier, #4 MJX direct-China, #5 Daddy Drones sub-wholesale. 30-day execution plan |
-| [MARKETING/INDIAN_TOY_MANUFACTURERS_DIRECTORY.md](MARKETING/INDIAN_TOY_MANUFACTURERS_DIRECTORY.md) | 🏭 SUPPLY CHAIN (2026-05-23) | Indian toy manufacturer call list. 5 tiers: industry bodies (TAITMA + DPIIT Toy Cell), funded D2C peers (PlayShifu/Skillmatics/Imagimake/Smartivity), established manufacturers (OK Play/KV Toys/Centy/Toyzone/Veva), 5 toy clusters, OEM partners (Veva is the unlock) |
-| [MARKETING/APIFY_LINKEDIN_INDUSTRY_SCAN.md](MARKETING/APIFY_LINKEDIN_INDUSTRY_SCAN.md) | 🔗 NETWORK (2026-05-23) | LinkedIn industry scan via Apify (108 posts, 53 unique authors). **BREAKING: Legend of Toys raised ₹21 Cr Pre-Series A** — Singularity / Veltis / Enzia. Top finds: Kunal Patil ("Building India's #1 RC Ecosystem"), Mrinmoy Sinha (Mirana Toys, hiring) |
-| [MARKETING/APIFY_LINKEDIN_DEEP_SCAN_R2.md](MARKETING/APIFY_LINKEDIN_DEEP_SCAN_R2.md) | 🔗 NETWORK R2 (2026-05-23) | 3-scan deep dive (companies + VCs + OEMs). 9 brand LinkedIn pages with employee counts. 5 critical finds: **Karan Narang CMD KV Toys** ("Toy Man of India"); **Hiren Bhungaliya** (Surat OEM founder, actively soliciting); **Minali Agarwal** (PepPlay PL expert); **Haryana 250-acre toy cluster**; **DeVC** as 4th LoT investor |
-| [MARKETING/RC_SUPPLIERS_AND_CREATORS_DEEP_SCAN.md](MARKETING/RC_SUPPLIERS_AND_CREATORS_DEEP_SCAN.md) | 🎯 BIG PICTURE (2026-05-25) | Apify IndiaMART + YouTube Data API mining. **35 IndiaMART RC suppliers with full GSTINs** (Chennai 63%). **53 Indian RC YouTube channels**. CRITICAL: 4 biggest Indian RC retailers each have YouTube creator partner. **Shamshad Maker 4.9M is unclaimed = BCH's #1 partnership target**. Same-city: **Ratnaakar Impex Bengaluru MOQ 1 ₹2,300** |
-| [MARKETING/RC_TOYS_INDIA_MASTER_CONTACTS.md](MARKETING/RC_TOYS_INDIA_MASTER_CONTACTS.md) | 🏆 V2 MEGA-SCAN (2026-05-25) | **483 verified unique entities**. 10 parallel Apify scans (~$10 of $45 pool). GMaps 6 cities = 360 RC places. IndiaMART 63 unique suppliers. YouTube 53 channels. **Zauba market intel** — India RC import market $257M/year, 7,662 active importers. Critical: **rcbazaar.com is real national competitor** (BLR + Mumbai + Pune) |
-| [MARKETING/RC_CONTACTS_HIERARCHY.md](MARKETING/RC_CONTACTS_HIERARCHY.md) | 📊 HIERARCHY (2026-05-25) | **All 511 entities classified into 8-tier supply chain hierarchy:** MANUFACTURER (13) → DISTRIBUTOR (8) → IMPORTER (8) → WHOLESALER (106) → TRADER_RETAIL (13) → RETAILER (293) → VENUE_CLUB (10) → CREATOR (60). CSV export at `data_exports/05_HIERARCHY_categorized.csv` |
 | [MARKETING/RC_CARS_BY_AGE_CATEGORY.md](MARKETING/RC_CARS_BY_AGE_CATEGORY.md) | 🎯 AGE-CATEGORIZED (2026-05-25) | RC-only suppliers split into 4 age segments: Pre-school (3-6 yrs, ₹100-1,500) / Kids (7-12 yrs, ₹1-4.5K) / Teens (13-17 yrs, ₹4.5-15K) / Hobbyist (18+ ₹15K+). Each tier mapped to BCH shelf strategy |
+| `MARKETING/data_exports/` | DATA | 19 CSV/JSON exports — entity hierarchies, raw scrape outputs, dedupe tables |
 
 ---
 
