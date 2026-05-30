@@ -1,6 +1,6 @@
 # 03 — Alibaba Factory Outreach (China Direct)
 
-**Swet — your job here:** DM 3 named Chinese factories + run a structured Alibaba search to find 5 more. Goal = a sample order at the same landed cost the top Indian importers pay (~$2.00 CIF per unit). Once we hit that price, we don't need a middleman.
+**Shoaib — your job here:** DM 3 named Chinese factories + run a structured Alibaba search to find 5 more. Goal = a sample order at the same landed cost the top Indian importers pay (~$2.00 CIF per unit). Once we hit that price, we don't need a middleman.
 
 **Why this matters:** Our top 3 Indian competitors — Taiba Technoplast (Mumbai), Itoyy Kiing (Bhiwandi), Fantom Toy (Delhi) — together handle **77% of India's RC car imports** under HS 95030090. They all buy from the SAME small set of Chinese factories in Shantou / Yiwu. If we hit those same factories at sample-and-grow volume, our landed cost matches theirs — and we cut the Indian middleman out of the chain entirely.
 
@@ -15,7 +15,7 @@
 1. **The SKU we're chasing:** 1:14 to 1:18 drift RC car, brushless or brushed, with LEDs + drift wheels + popular car-shell licences (GTR/Supra/BMW M3/Lambo). Retail band ₹800–₹2,500. This is the grey-space SKU between toy and hobby.
 2. **The benchmark price they're paying:** Average **$2.00 CIF Mumbai per RC unit** under HS 95030090 (Volza/Zauba-aggregated, FY24-25). Stunt-car median is even lower ($0.90). That's our cost target.
 3. **The India duty stack:** **~109% total tax on CIF** = BCD 70% + SWS (7% effective) + IGST 18% on (CIF+BCD+SWS). IGST is recoverable as Input Tax Credit since BCH is GST-registered. Real sunk cost = BCD + SWS ≈ 77% of CIF.
-4. **BIS QCO certification:** **₹3–5 lakh one-time per SKU**, takes 3–4 months. Mandatory for electric toys under IS 9873 / IS 15644. This is a Syed-level decision, not a Swet-level worry — but mention it to the factory because they have to share test reports + lab samples.
+4. **BIS QCO certification:** **₹3–5 lakh one-time per SKU**, takes 3–4 months. Mandatory for electric toys under IS 9873 / IS 15644. This is a Syed-level decision, not a Shoaib-level worry — but mention it to the factory because they have to share test reports + lab samples.
 5. **The Chenghai context:** Chenghai District in Shantou (Guangdong) makes ~70% of the world's plastic toys, ~4,000 toy factories. The 3 industrial parks to name-drop on chat: **Xiehe, Lianhua, Wenguan**. Sounding informed gets you better prices.
 
 ---
@@ -34,14 +34,14 @@
 
 **DM template (English — paste into Alibaba chat exactly as below, fill in your phone):**
 
-> "Hello, I'm Swet, sourcing manager at Bharath Cycle Hub India (Bangalore). We are launching a drift RC car SKU in India in the ₹800–₹2,500 retail band (~$10–30).
+> "Hello, I'm Shoaib, sourcing manager at Bharath Cycle Hub India (Bangalore). We are launching a drift RC car SKU in India in the ₹800–₹2,500 retail band (~$10–30).
 >
 > We're interested in your 1:18 and 1:14 drift cars with LED + drift wheels + popular car shells (GTR / Supra / BMW M3 / Lamborghini).
 >
 > Three questions:
 > 1. What is your CIF Nhava Sheva (Mumbai) price for orders of 500 / 1,000 / 5,000 units?
 > 2. What is your minimum order quantity (MOQ) per SKU?
-> 3. Can you ship paid samples (3–5 SKUs) to Bangalore within 2 weeks? My WhatsApp is +91 [Swet's number].
+> 3. Can you ship paid samples (3–5 SKUs) to Bangalore within 2 weeks? My WhatsApp is +91 [Shoaib's number].
 >
 > We have a 12-month forecast in mind once samples meet our quality bar. Looking to build a long-term private-label / OEM relationship. We will also need IS 9873 / IS 15644 (Indian BIS) test reports for certification.
 >
@@ -64,10 +64,10 @@
 > 4. BIS test report availability (IS 9873 / IS 15644)
 > 5. Lead time from PO confirmation to dispatch
 >
-> WhatsApp: +91 [Swet's number]
+> WhatsApp: +91 [Shoaib's number]
 >
 > Regards,
-> Swet
+> Shoaib
 > Sourcing Manager, Bharath Cycle Hub
 > Bangalore, India
 
@@ -95,14 +95,14 @@ ______________________________________________________________
 
 **DM template — paste into Alibaba chat (same as Target 1, just change factory name):**
 
-> "Hello, I'm Swet, sourcing manager at Bharath Cycle Hub India (Bangalore). We are launching a drift RC car SKU in India in the ₹800–₹2,500 retail band (~$10–30).
+> "Hello, I'm Shoaib, sourcing manager at Bharath Cycle Hub India (Bangalore). We are launching a drift RC car SKU in India in the ₹800–₹2,500 retail band (~$10–30).
 >
 > We're interested in your 1:18 and 1:14 drift cars with LED + drift wheels + popular car shells (GTR / Supra / BMW M3 / Lamborghini).
 >
 > Three questions:
 > 1. What is your CIF Nhava Sheva (Mumbai) price for orders of 500 / 1,000 / 5,000 units?
 > 2. What is your minimum order quantity (MOQ) per SKU?
-> 3. Can you ship paid samples (3–5 SKUs) to Bangalore within 2 weeks? My WhatsApp is +91 [Swet's number].
+> 3. Can you ship paid samples (3–5 SKUs) to Bangalore within 2 weeks? My WhatsApp is +91 [Shoaib's number].
 >
 > We have a 12-month forecast in mind once samples meet our quality bar. Looking to build a long-term private-label / OEM relationship. We will also need IS 9873 / IS 15644 (Indian BIS) test reports for certification.
 >
@@ -137,7 +137,7 @@ ______________________________________________________________
 
 **DM template — same as Target 1 + add this clarifier:**
 
-> "Hello, I'm Swet, sourcing manager at Bharath Cycle Hub India (Bangalore). We are launching a drift RC car SKU in India in the ₹800–₹2,500 retail band (~$10–30).
+> "Hello, I'm Shoaib, sourcing manager at Bharath Cycle Hub India (Bangalore). We are launching a drift RC car SKU in India in the ₹800–₹2,500 retail band (~$10–30).
 >
 > We're interested in your 1:18 and 1:14 drift cars with LED + drift wheels + popular car shells (GTR / Supra / BMW M3 / Lamborghini).
 >
@@ -145,7 +145,7 @@ ______________________________________________________________
 > 1. Are you the manufacturer, or an export agent for a partner factory? (Please share the factory name + location.)
 > 2. What is your CIF Nhava Sheva price for 500 / 1,000 / 5,000 units?
 > 3. What is your MOQ per SKU?
-> 4. Can you ship paid samples (3–5 SKUs) to Bangalore within 2 weeks? My WhatsApp is +91 [Swet's number].
+> 4. Can you ship paid samples (3–5 SKUs) to Bangalore within 2 weeks? My WhatsApp is +91 [Shoaib's number].
 > 5. Do you hold or can you produce IS 9873 / IS 15644 BIS test reports?
 >
 > Long-term private-label relationship intended. Thank you."
@@ -344,5 +344,5 @@ Once all boxes are ticked: DM Target 1 today, Target 2 tomorrow, Target 3 the da
 - *`/Users/syedibrahim/Desktop/SOURCING_HQ/RC_RESEARCH/MJX_INDIA_DISTRIBUTOR_HUNT.md` — Alibaba RFQ workflow + BIS ₹3-5L per SKU reality*
 - *`/Users/syedibrahim/Desktop/SOURCING_HQ/RC_RESEARCH/RC_CARS_48HR_PO_PLAN.md` — email + WhatsApp template style*
 
-*Compiled for Swet — BCH Bangalore RC sourcing — 2026-05-30*
+*Compiled for Shoaib — BCH Bangalore RC sourcing — 2026-05-30*
 *For BCH internal use only*

@@ -13,7 +13,7 @@
 2. **Call Tier 1 first** (drift confirmed + phone in hand). Then Tier 2. Then Tier 3.
 3. **Use the call script** (below) every time. Add the per-vendor "specific ask" from each entry.
 4. **Mark status inline** — check boxes, fill in price quoted, next action.
-5. **Send Syed a daily WhatsApp summary** at 7 PM with what you completed (use [`0_FOR_SWET/99_DAILY_STATUS_REPORT.md`](../0_FOR_SWET/99_DAILY_STATUS_REPORT.md) template — same format works for Shoaib).
+5. **Send Syed a daily WhatsApp summary** at 7 PM with what you completed (use [`0_FOR_SHOAIB/99_DAILY_STATUS_REPORT.md`](../0_FOR_SHOAIB/99_DAILY_STATUS_REPORT.md) template — same format works for Shoaib).
 6. **When you find a NEW vendor** (Maps walk-in, vendor introduces another), add to the bottom of the relevant tier with today's date.
 
 ### Hard rules
@@ -688,7 +688,7 @@ These are real supply-side vendors but their phone is gated behind IndiaMART's "
 
 | Factory | Location | Why named | DM template + workflow |
 |---|---|---|---|
-| **Shantou Maxwinning** | Shantou, Guangdong | Named supplier to Fantom Toy (Delhi #3 importer) — IndiaMART disclosure | See [`0_FOR_SWET/03_ALIBABA_FACTORY_OUTREACH.md`](../0_FOR_SWET/03_ALIBABA_FACTORY_OUTREACH.md) — Target 1 |
+| **Shantou Maxwinning** | Shantou, Guangdong | Named supplier to Fantom Toy (Delhi #3 importer) — IndiaMART disclosure | See [`0_FOR_SHOAIB/03_ALIBABA_FACTORY_OUTREACH.md`](../0_FOR_SHOAIB/03_ALIBABA_FACTORY_OUTREACH.md) — Target 1 |
 | **Yiwu Ying Hong** | Yiwu, Zhejiang | Named supplier to Taiba Technoplast (#1 importer) per Volza | See same file — Target 2 |
 | **Tianjin Textiles** | Tianjin | Third major supplier feeding India's top-3 importers | See same file — Target 3 |
 | **Jinhua Zhenhuan Toys** | Jinhua, Zhejiang | Named supplier to Fantom Toy | DM via Alibaba search |
@@ -696,7 +696,7 @@ These are real supply-side vendors but their phone is gated behind IndiaMART's "
 | **Xhy Toy Factory** | China (unspecified) | 1000+ RC car production line visible, brand-new YT | Email outlook.com address in video desc |
 | **Xingfei Toys** | China | Makes sanitation trucks — **WRONG CATEGORY, skip** | — |
 
-**Open-search workflow for 5+ more candidates:** [`0_FOR_SWET/03_ALIBABA_FACTORY_OUTREACH.md`](../0_FOR_SWET/03_ALIBABA_FACTORY_OUTREACH.md) Targets 4-8.
+**Open-search workflow for 5+ more candidates:** [`0_FOR_SHOAIB/03_ALIBABA_FACTORY_OUTREACH.md`](../0_FOR_SHOAIB/03_ALIBABA_FACTORY_OUTREACH.md) Targets 4-8.
 
 Average CIF Mumbai cost per "remote car" (HS-95030030) ≈ **$2.00 / ₹170 landed**. At ₹800-2,500 retail = **5-7× markup with healthy unit economics**.
 

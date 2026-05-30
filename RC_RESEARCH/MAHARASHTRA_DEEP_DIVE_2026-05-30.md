@@ -1,7 +1,7 @@
 # Maharashtra Deep Dive — Drift RC Sourcing
 
 **Compiled:** 2026-05-30 evening
-**For:** Syed + Swet
+**For:** Syed + Shoaib
 **Scope:** All Maharashtra signal — Mumbai, Pune, Thane, Bhiwandi, Mira Road, Navi Mumbai
 **Companion to:** [`DRIFT_RC_INDIA_STATE_HUB_REPORT.md`](DRIFT_RC_INDIA_STATE_HUB_REPORT.md) (state ranking) · [`MAHARASHTRA_TOP5_DEEPDIVE.md`](MAHARASHTRA_TOP5_DEEPDIVE.md) (the 5 brand deep-dives this file builds on)
 
@@ -139,7 +139,7 @@ From today's partial Apify scan. All verified phones + Maps ratings. Sorted by s
 
 **Why this matters:** Mumbai injection-moulding shops are the hidden Make-in-India unlock. If RAJA PLASTIC is a real plastic injection facility (not a retail "plastic items" shop), they could mould the drift-RC shells + chassis + wheel arches locally. That bypasses China import + 70% duty + BIS hassle entirely.
 
-**Action for Swet:** Phone-call to verify what they do. Script:
+**Action for Shoaib:** Phone-call to verify what they do. Script:
 > "Namaste, BCH Bangalore se. Aap plastic injection moulding karte ho? Hum RC car ke body + chassis liye small batch (2-5K pieces) production partner dhoond rahe hain. Aapka MOQ + tooling cost kya hai?"
 
 If they're an actual moulder, this gets escalated to the Phase 3 manufacturing master plan (see [`RC_PHASE3_MASTER_PLAN.md`](RC_PHASE3_MASTER_PLAN.md)).
@@ -229,7 +229,7 @@ The Apify Google Maps actor exhausted all 12 keys mid-run. We have **no Maps dat
 
 Per [`reference_api_keys.md`](../../.claude/projects/-Users-syedibrahim-Desktop-SOURCING-HQ/memory/reference_api_keys.md): the foreseeable_intensity key resets 2026-06-21. Others reset on staggered monthly cycles. Plan to re-run by week of June 5-10.
 
-**Workaround for now:** Swet calls the named anchors above (Mirana / Bharat Hobby / KV Toys India at +91 22 2541 0000 via kvtoys.com). They will tell us who else operates in their cities — vendor-leads-via-vendor is how field sourcing actually works.
+**Workaround for now:** Shoaib calls the named anchors above (Mirana / Bharat Hobby / KV Toys India at +91 22 2541 0000 via kvtoys.com). They will tell us who else operates in their cities — vendor-leads-via-vendor is how field sourcing actually works.
 
 ---
 

@@ -190,7 +190,7 @@ How Syed structures the business. Slowest to learn, highest long-term leverage.
 
 ### Skill 18 — Living plan, not scattered files
 **What it is:** ONE file holds Active / Backlog / Done. Moving a task to Done IS the log.
-**Evidence:** [EXECUTION/RC_30DAY_TO_10L_LIVING_PLAN.md](EXECUTION/).
+**Evidence:** [ARCHIVE/RC_30DAY_TO_10L_LIVING_PLAN.md](EXECUTION/).
 **Drill:** Maintain a living plan for your Week 2-4 onboarding work. No new task files.
 **Success signal:** You can answer "what's the status of X?" in <5 seconds.
 

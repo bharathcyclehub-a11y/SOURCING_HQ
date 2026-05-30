@@ -250,7 +250,7 @@ Same day as phone calls. These don't cost anything — just LinkedIn messages.
 - `MARKETING/RC_TOYS_INDIA_MASTER_CONTACTS.md` — v2 master (pre-R3+R4)
 - `MARKETING/data_exports/05_HIERARCHY_categorized.csv` — all 832 in Excel format
 - `MARKETING/RC_SUPPLIERS_AND_CREATORS_DEEP_SCAN.md` — YouTube/Instagram creator strategy
-- `EXECUTION/RC_30DAY_TO_10L_LIVING_PLAN.md` — overall business plan
+- `ARCHIVE/RC_30DAY_TO_10L_LIVING_PLAN.md` — overall business plan
 
 Other 20+ specific MD files in repo — all consolidated into this one for calling. Reference them only if you need deeper context on a specific brand/supplier.
 

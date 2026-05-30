@@ -1,19 +1,19 @@
 # 01 — Phone Calls This Week
 
-**Swet — start here.** 20 calls. Top of list = call first. Each call should take 5-8 minutes. Update the status checkbox + notes field after each call. When you've done 5, send Syed the daily status (see `99_DAILY_STATUS_REPORT.md`).
+**Shoaib — start here.** 20 calls. Top of list = call first. Each call should take 5-8 minutes. Update the status checkbox + notes field after each call. When you've done 5, send Syed the daily status (see `99_DAILY_STATUS_REPORT.md`).
 
 **What this list is:** 20 verified phone numbers of Indian RC car vendors. Each one was pulled from a research file (cited at the bottom of every entry). Syed has been researching the RC car category for 2 weeks; this list is the action layer of that research.
 
 **Who you're calling FOR:** Bharath Cycle Hub (BCH), Bangalore. 3 cycle stores, owner is Syed Ibrahim. We are entering the RC car market — specifically a 1:18 / 1:24 scale drift RC car at ₹800–2,500 retail price. This is "grey-area" (not pure toy, not full hobby-grade). Your calls are to find out who can supply this SKU at wholesale.
 
-**Your name in the call:** Swet. You work with Syed Ibrahim at BCH Bangalore. You are NOT the buyer — you are the sourcing assistant. If they want to negotiate price, say "Main pricing pe confirm nahi kar sakta, par Syed sir ko bata dunga aur woh seedhe baat karenge."
+**Your name in the call:** Shoaib. You work with Syed Ibrahim at BCH Bangalore. You are NOT the buyer — you are the sourcing assistant. If they want to negotiate price, say "Main pricing pe confirm nahi kar sakta, par Syed sir ko bata dunga aur woh seedhe baat karenge."
 
 ---
 
 ## Master script (use for every call, then add the specific ask below)
 
 **Opening (Hindi-English mix):**
-> "Namaste, main Swet bol raha hoon, Bharath Cycle Hub Bangalore se. Hum Syed Ibrahim ke saath kaam karte hain. Hum cycle ka business chalate hain — 3 stores Bangalore mein — ab RC car category launch kar rahe hain. Aapka product humare drift RC SKU ke liye sahi lag raha hai. 2-3 minute baat ho sakti hai?"
+> "Namaste, main Shoaib bol raha hoon, Bharath Cycle Hub Bangalore se. Hum Syed Ibrahim ke saath kaam karte hain. Hum cycle ka business chalate hain — 3 stores Bangalore mein — ab RC car category launch kar rahe hain. Aapka product humare drift RC SKU ke liye sahi lag raha hai. 2-3 minute baat ho sakti hai?"
 
 **If they ask "kahan se number mila?":**
 > "Google Maps / IndiaMART pe aapki listing dekhi. Achhi rating hai, isliye direct call kar raha hoon."
@@ -23,13 +23,13 @@
 2. Drift RC car, 1:18 ya 1:24 scale, ₹800–2,500 retail band ke liye aapke paas SKU hai?
 3. MOQ kya hai? Wholesale price kya hai per piece in qty 50 / 100 / 500?
 4. Payment terms? (50/50, NET 30, advance?)
-5. Catalog WhatsApp pe bhej sakte ho? Mera number [Swet's number].
+5. Catalog WhatsApp pe bhej sakte ho? Mera number [Shoaib's number].
 
 **Close:**
 > "Bahut shukriya. Main Syed sir ko update de dunga, aur woh agle 48 ghante mein khud aapko call karenge agar fit hua."
 
 **If they don't pick up:** WhatsApp them this message:
-> "Namaste, main Swet, Bharath Cycle Hub Bangalore se. Syed Ibrahim ke liye RC car category sourcing kar raha hoon. 1:18 / 1:24 drift RC SKU chahiye, ₹800–2,500 retail band. Aapke wholesale terms + catalog ke liye baat karni hai. Convenient time bata dijiye."
+> "Namaste, main Shoaib, Bharath Cycle Hub Bangalore se. Syed Ibrahim ke liye RC car category sourcing kar raha hoon. 1:18 / 1:24 drift RC SKU chahiye, ₹800–2,500 retail band. Aapke wholesale terms + catalog ke liye baat karni hai. Convenient time bata dijiye."
 
 **Tracking:** After each call, fill the checkboxes + notes in the entry. Don't skip notes. If you didn't connect, write "No answer — WhatsApp sent" with the time.
 

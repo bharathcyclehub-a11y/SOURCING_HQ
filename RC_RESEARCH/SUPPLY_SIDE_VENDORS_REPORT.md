@@ -116,7 +116,7 @@ Brand-new supply-side find: **Xhy Toy Factory** (rel=9) — 209 subscribers but 
 | **Drift RC present** | ❌ NO (battery toys, dolls, RC cars, toy bats, toy guns) |
 | **Channel** | Business Ke Deewano — 171,000 subscribers · IG @businesskedeewano · IndiaMART storefront |
 | **Video** | https://www.youtube.com/watch?v=qPP8BZospfA |
-| **Verdict** | **Full street address visible on signage** (5409/3 New Market, Ghore Wali Sarai) — Swet can walk in. No phone in frame; need to phone-call or visit Business Ke Deewano's IndiaMART storefront. |
+| **Verdict** | **Full street address visible on signage** (5409/3 New Market, Ghore Wali Sarai) — Shoaib can walk in. No phone in frame; need to phone-call or visit Business Ke Deewano's IndiaMART storefront. |
 
 ---
 
@@ -193,7 +193,7 @@ These are vlog or retail channels — useful for content strategy possibly, but 
 
 ---
 
-## Recommended call sequence for Swet
+## Recommended call sequence for Shoaib
 
 Day 1 AM:
 1. **Sai Trading Company** `+91-79829-28315` — drift confirmed in frame, "LIX MODEL" brand visible. Ask: "Aap LIX MODEL drift RC stock karte ho? Price + MOQ?"
@@ -235,6 +235,6 @@ The retail-channel filter worked: 12 of 24 channels were classified as RETAILER 
 
 - **Searches used:** 20 supply-side YouTube queries (manufacturer/factory/wholesale-area/named-importers) × 25 results each = ~500 raw video matches → 387 unique → 246 channels → 24 frame-extracted (top 25 minus Business Bites which timed out on yt-dlp).
 - **Quota:** ~2,000 YouTube API units + ~24 × 5 = ~120 Gemini calls. Within today's daily budgets.
-- **What we did NOT do:** Manufacturer-direct outreach. That's the next step — these 12 channels feed into Swet's existing `01_PHONE_CALLS_THIS_WEEK.md` plus 3 new high-priority targets above (Sai Trading drift / MITWAA / Xhy Toy Factory).
+- **What we did NOT do:** Manufacturer-direct outreach. That's the next step — these 12 channels feed into Shoaib's existing `01_PHONE_CALLS_THIS_WEEK.md` plus 3 new high-priority targets above (Sai Trading drift / MITWAA / Xhy Toy Factory).
 - **Signal cross-validation:** WLtoys Official scored rel=9 yesterday (different prompt) and rel=10 today (supply-side prompt) — direction is consistent. Crazy Viner went from rel=2 (hobby-grade lens) to rel=7 (supply-side lens) — also consistent (they ARE a wholesaler, just toy-grade not hobby-grade).
 - **What Gemini missed:** A few frames contained mixed retail+wholesale content; Gemini picked the dominant signal. If a frame shows a wholesale godown with retail counter visible, Gemini may classify as WHOLESALER even though the channel also retails. Cross-check with the phone-call before booking.

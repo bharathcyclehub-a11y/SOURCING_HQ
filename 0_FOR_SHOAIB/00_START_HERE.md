@@ -1,4 +1,4 @@
-# 00 — Swet, Start Here
+# 00 — Shoaib, Start Here
 
 **Welcome to the BCH RC Car sourcing team.** You're working with Syed Ibrahim on the Bharath Cycle Hub RC car launch — specifically the grey-space drift RC SKU (retail ₹800–₹2,500).
 

@@ -1,6 +1,6 @@
 # 02 — Field Visits: Mumbai + Delhi
 
-**Swet — these are walk-in visits. Phone-call first if the number exists, otherwise show up cold and ask the manager.** Bring:
+**Shoaib — these are walk-in visits. Phone-call first if the number exists, otherwise show up cold and ask the manager.** Bring:
 
 - Business card / Bharath Cycle Hub letterhead
 - A printout of the BCH RC Mini Drift Car brand brief (Syed will share)
@@ -364,7 +364,7 @@ Newest legal entity (Feb 2024) + widest catalog + 35K IG + founder-led = hungrie
 
 **Approach:**
 
-- **LinkedIn-DM Himanshu BEFORE the trip.** Founder-to-founder. Syed will send the message; you reference it. Script (Syed sends, Swet quotes): "Himanshu, BCH Bangalore launching RC counter; sending my field lead Swet to Thane next week. 15-min meet possible?"
+- **LinkedIn-DM Himanshu BEFORE the trip.** Founder-to-founder. Syed will send the message; you reference it. Script (Syed sends, Shoaib quotes): "Himanshu, BCH Bangalore launching RC counter; sending my field lead Shoaib to Thane next week. 15-min meet possible?"
 - WhatsApp +91 87795 21387 day before — confirm time.
 - Office is also YT studio — they may be filming. Be respectful of camera setups.
 
@@ -581,7 +581,7 @@ RC importer since 1996 = 30 years in the business. Old-school trade entity, simi
 
 ### Visit D1 — Sadar Bazar Teliwara Cluster (3-hr walking circuit, price discovery only)
 
-**Critical brief for Swet:** We have already confirmed via Gemini visual classification (`RC_RESEARCH/YT_DELHI_VENDORS_REPORT.md`) that the Sadar Bazar Teliwara cluster sells **TOY-GRADE product (₹99–₹500 plastic kid RC)**, NOT grey-space drift. We are going for **price-floor intelligence only** — we want to know what the toy-grade competition charges so BCH can position the Mini Drift Car ABOVE them at ₹1,500-2,500. **DO NOT place orders unless you find an actual ₹1,500+ drift SKU at any of these shops (low probability).** Photograph everything; buy ₹500 of the cheapest-of-the-cheap to take back as price benchmark.
+**Critical brief for Shoaib:** We have already confirmed via Gemini visual classification (`RC_RESEARCH/YT_DELHI_VENDORS_REPORT.md`) that the Sadar Bazar Teliwara cluster sells **TOY-GRADE product (₹99–₹500 plastic kid RC)**, NOT grey-space drift. We are going for **price-floor intelligence only** — we want to know what the toy-grade competition charges so BCH can position the Mini Drift Car ABOVE them at ₹1,500-2,500. **DO NOT place orders unless you find an actual ₹1,500+ drift SKU at any of these shops (low probability).** Photograph everything; buy ₹500 of the cheapest-of-the-cheap to take back as price benchmark.
 
 **Start point:** Teliwara Chowk, Sadar Bazar, Delhi
 **Best metro:** Pratap Nagar (Red Line, ~10 min walk) or Sadar Bazar (Green Line)
@@ -814,7 +814,7 @@ Note Syed's brief estimated **₹15-20K all-in.** That excluded sample-buying. I
 
 ## END-OF-TRIP DELIVERABLE (back to Syed)
 
-By the time Swet returns to Bangalore, Syed should have:
+By the time Shoaib returns to Bangalore, Syed should have:
 
 1. **Filled checklists** for all 11 Mumbai entries + the Delhi walk (this file, filled in)
 2. **Photo album** in a shared Google Drive folder — folder per shop, photos labeled by shop
@@ -827,4 +827,4 @@ Send (5) and (6) to Syed within 48 hours of returning. The detail in (1)-(4) can
 
 ---
 
-*Compiled 2026-05-30 for Swet's onboarding. All addresses, phone numbers, GSTINs verified against four source files: DRIFT_RC_INDIA_STATE_HUB_REPORT.md, RC_CARS_MUMBAI_DOSSIER.md, YT_DELHI_VENDORS_REPORT.md, HOBBY_GRADE_SUPPLY_ONLY.md. No fabrication.*
+*Compiled 2026-05-30 for Shoaib's onboarding. All addresses, phone numbers, GSTINs verified against four source files: DRIFT_RC_INDIA_STATE_HUB_REPORT.md, RC_CARS_MUMBAI_DOSSIER.md, YT_DELHI_VENDORS_REPORT.md, HOBBY_GRADE_SUPPLY_ONLY.md. No fabrication.*

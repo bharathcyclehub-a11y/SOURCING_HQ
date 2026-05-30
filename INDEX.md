@@ -3,11 +3,11 @@
 
 ---
 
-## 👋 FIRST TIME HERE? (Swet — start here)
+## 👋 FIRST TIME HERE? (Shoaib — start here)
 
-If you're new to this folder (looking at you, Swet), do not read this index. Go to:
+If you're new to this folder (looking at you, Shoaib), do not read this index. Go to:
 
-**→ [`0_FOR_SWET/00_START_HERE.md`](0_FOR_SWET/00_START_HERE.md)**
+**→ [`0_FOR_SHOAIB/00_START_HERE.md`](0_FOR_SHOAIB/00_START_HERE.md)**
 
 That folder has your full task list, scripts, and a daily status template. Come back to this INDEX only after you've finished files 01–03 and need historical context.
 
@@ -32,7 +32,7 @@ One place for all positioning arbitrage research, vendor intelligence, sourcing 
 | **[HOBBY_GRADE_SUPPLY_ONLY.md](HOBBY_GRADE_SUPPLY_ONLY.md)** | 🎯 **THE FILE** — Hobby-grade RC SUPPLY-SIDE only (no retailers). 6 Tier-A gatekeepers (Hemani Exim, Adventure Wheels, DeoDap, Daddy Drones, Bharat Hobby, Hobby Central) + 5 Indian manufacturers (Mirana, LoT, Tygatec, KV Toys, Webby) + 11 RC component suppliers + 8 brand sub-distributors + 10 LinkedIn decision-makers + China direct paths. ~38 supply-side entities total. Outreach scripts ready. |
 | **[RC_INDIA_EXECUTABLE_CALL_SHEET.md](RC_INDIA_EXECUTABLE_CALL_SHEET.md)** | 🔥 **SOURCE OF TRUTH** — 740 deduped entities scored by call-confidence; Phase 1 (34 mfr/dist/imp), Phase 2 (20 wholesale), Phase 3 (247 mid), call scripts, LinkedIn priorities. **Tomorrow morning starts here.** |
 | **[BCH_RC_BUILD_SPEC.md](BCH_RC_BUILD_SPEC.md)** | 🏗️ **BUILD SPEC** — RC vertical store + content + ops build specification |
-| [EXECUTION/RC_30DAY_TO_10L_LIVING_PLAN.md](EXECUTION/RC_30DAY_TO_10L_LIVING_PLAN.md) | 30-day living plan + active tasks |
+| [ARCHIVE/RC_30DAY_TO_10L_LIVING_PLAN.md](ARCHIVE/RC_30DAY_TO_10L_LIVING_PLAN.md) | 30-day living plan + active tasks |
 | [MARKETING/RC_CARS_BY_AGE_CATEGORY.md](MARKETING/RC_CARS_BY_AGE_CATEGORY.md) | 4-shelf product strategy by buyer age |
 | [MARKETING/data_exports/05_HIERARCHY_categorized.csv](MARKETING/data_exports/05_HIERARCHY_categorized.csv) | All 832 entities in spreadsheet (sort by Tier) |
 
@@ -122,7 +122,7 @@ SOURCING_HQ/
 
 | File | Status | What's In It |
 |------|--------|-------------|
-| [EXECUTION/RC_30DAY_TO_10L_LIVING_PLAN.md](EXECUTION/RC_30DAY_TO_10L_LIVING_PLAN.md) | 🔥 LIVING (2026-05-25) | **The 0→₹10L in 30 days battleplan.** All future tasks go here, not new files. Active tasks: (1) Build premium display rack inspired by @diecast_hub_757, Day 5. (2) Build 3 RC tracks (drift indoor + crawler outdoor + drag strip parking), Day 7. (3) Buy ~₹20K of props. Includes ₹10L revenue math, 30-day daily sprint template, KPI tracker, backlog, done log |
+| [ARCHIVE/RC_30DAY_TO_10L_LIVING_PLAN.md](ARCHIVE/RC_30DAY_TO_10L_LIVING_PLAN.md) | 🔥 LIVING (2026-05-25) | **The 0→₹10L in 30 days battleplan.** All future tasks go here, not new files. Active tasks: (1) Build premium display rack inspired by @diecast_hub_757, Day 5. (2) Build 3 RC tracks (drift indoor + crawler outdoor + drag strip parking), Day 7. (3) Buy ~₹20K of props. Includes ₹10L revenue math, 30-day daily sprint template, KPI tracker, backlog, done log |
 
 ---
 
