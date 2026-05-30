@@ -1,0 +1,643 @@
+{
+  "DRXSzWyOWvU": {
+    "channel": "Xhy Toy Factory",
+    "title": "Toy Factory Daily Life&amp; contact +86 13556485058 contact with toy manufacturer #rc #toy #b2btrading",
+    "verdict": {
+      "vendor_type": "MANUFACTURER",
+      "supply_side": true,
+      "production_signals": [
+        "Factory floor visible with concrete floor and industrial lighting",
+        "Workers at benches assembling units",
+        "Production-line packaging with blue boxes",
+        "Multiple identical RC car units in production stages (dozens lined up)",
+        "Video overlay 'Toy Factory Daily Life' indicating factory operations"
+      ],
+      "scale_visible": "large",
+      "estimated_inventory_pieces_visible": "1000+",
+      "rc_car_present": true,
+      "drift_rc_present": true,
+      "products_seen": [
+        "Black RC cars with blue mecanum wheels",
+        "Blue product boxes"
+      ],
+      "shop_or_facility_signage_text": "Toy Factory Daily Life",
+      "city_or_market_visible": "",
+      "vendor_grade": "toy-grade",
+      "bch_relevance_1_10": 9,
+      "skip_if_retailer": false,
+      "verdict_one_line": "Manufacturer producing toy-grade RC cars with mecanum wheels, highly relevant for BCH's grey-space drift sourcing due to direct factory access and product type."
+    }
+  },
+  "jUFSkY3_AjQ": {
+    "channel": "Niranjan China",
+    "title": "Yiwu wholesale Market full detail China Niranjan",
+    "verdict": {
+      "vendor_type": "RETAILER",
+      "supply_side": false,
+      "production_signals": [],
+      "scale_visible": "small",
+      "estimated_inventory_pieces_visible": "10-100",
+      "rc_car_present": false,
+      "drift_rc_present": false,
+      "products_seen": [
+        "bedding sets",
+        "plush toys"
+      ],
+      "shop_or_facility_signage_text": "特价 288元, 特价 100元",
+      "city_or_market_visible": "",
+      "vendor_grade": "toy-grade",
+      "bch_relevance_1_10": 0,
+      "skip_if_retailer": true,
+      "verdict_one_line": "This vendor is a retailer selling bedding and plush toys, with no relevance to BCH's supply-side sourcing needs for drift RC cars."
+    }
+  },
+  "23sCeLhXAP8": {
+    "channel": "Happy Here Films",
+    "title": "3D printing RC car parts in India 😍",
+    "verdict": {
+      "vendor_type": "HOBBYIST",
+      "supply_side": false,
+      "production_signals": [
+        "RC car being driven outdoors",
+        "RC car chassis being worked on/repaired",
+        "screenshot of an online retail listing for an RC part",
+        "RC car being driven indoors in an office/home setting"
+      ],
+      "scale_visible": "micro",
+      "estimated_inventory_pieces_visible": "<10",
+      "rc_car_present": true,
+      "drift_rc_present": false,
+      "products_seen": [
+        "RC Jeep Wrangler style crawler",
+        "Axial AX31114 Yeti W Drive Shaft"
+      ],
+      "shop_or_facility_signage_text": "Cart2India Online",
+      "city_or_market_visible": "",
+      "vendor_grade": "hobby-grade",
+      "bch_relevance_1_10": 0,
+      "skip_if_retailer": true,
+      "verdict_one_line": "This is a hobbyist showcasing an RC crawler and a retail listing for a part, not a supply-side vendor for BCH's drift RC sourcing."
+    }
+  },
+  "0gSV6mkaMXQ": {
+    "channel": "Industrial Craft",
+    "title": "How RC Cars Are Made in Factory | The Engineering Behind High-Speed Mini Machines",
+    "verdict": {
+      "vendor_type": "CREATOR_REVIEWER",
+      "supply_side": false,
+      "production_signals": [],
+      "scale_visible": "unclear",
+      "estimated_inventory_pieces_visible": "not-counted",
+      "rc_car_present": true,
+      "drift_rc_present": true,
+      "products_seen": [
+        "RC monster trucks",
+        "RC drift car",
+        "nitro RC car chassis",
+        "RC steering assembly with servo"
+      ],
+      "shop_or_facility_signage_text": "Industrial Craft",
+      "city_or_market_visible": "",
+      "vendor_grade": "mixed",
+      "bch_relevance_1_10": 0,
+      "skip_if_retailer": true,
+      "verdict_one_line": "This is a CREATOR_REVIEWER channel showcasing various RC cars and components, not a supply-side vendor relevant to BCH's sourcing needs."
+    }
+  },
+  "sLftNEwhEsE": {
+    "channel": "Xingfei Toys ",
+    "title": "Toys for boys,wireless remote control car,China supplier,manufacturer,factory,wholesale market",
+    "verdict": {
+      "vendor_type": "MANUFACTURER",
+      "supply_side": true,
+      "production_signals": [
+        "XINGFEI brand logo visible",
+        "promotional video for specific product line",
+        "multiple identical finished units demonstrated"
+      ],
+      "scale_visible": "unclear",
+      "estimated_inventory_pieces_visible": "<10",
+      "rc_car_present": false,
+      "drift_rc_present": false,
+      "products_seen": [
+        "toy sanitation trucks",
+        "toy water sprinkler truck",
+        "toy garbage truck"
+      ],
+      "shop_or_facility_signage_text": "XINGFEI",
+      "city_or_market_visible": "",
+      "vendor_grade": "toy-grade",
+      "bch_relevance_1_10": 0,
+      "skip_if_retailer": false,
+      "verdict_one_line": "MANUFACTURER of toy-grade sanitation trucks; not relevant for BCH's drift RC sourcing."
+    }
+  },
+  "hZGO7hKISzQ": {
+    "channel": "Aditi Toys",
+    "title": "India’s Largest Toy Factory | Aditi Toys – Leading Indian Toy Manufacturer &amp; Exporter",
+    "verdict": {
+      "vendor_type": "WHOLESALER",
+      "supply_side": true,
+      "production_signals": [
+        "Product showcase of various toy types (plastic, electric, wooden), office environment with multiple employees, 'Min. Buying Quantity' visible on signage"
+      ],
+      "scale_visible": "medium",
+      "estimated_inventory_pieces_visible": "100-1000",
+      "rc_car_present": false,
+      "drift_rc_present": false,
+      "products_seen": [
+        "Plastic doctor kit, plastic fashion kit, electric toy gun (Dragon Viper), electric toy robot, wooden dollhouse, wooden activity walker, wooden blocks"
+      ],
+      "shop_or_facility_signage_text": "WHITE TOYS, Min. Buying Quantity, CHANAK",
+      "city_or_market_visible": "",
+      "vendor_grade": "toy-grade",
+      "bch_relevance_1_10": 3,
+      "skip_if_retailer": false,
+      "verdict_one_line": "This vendor is a wholesaler of general toy-grade products like plastic kits, electric toys, and wooden toys, making them supply-side but with low relevance to BCH's drift RC sourcing due to product mismatch."
+    }
+  },
+  "o39ph0w5V5k": {
+    "channel": "WLtoys Official",
+    "title": "Inside WLtoys Factory - WLtoys 104072 high speed brushless rc car in production",
+    "verdict": {
+      "vendor_type": "MANUFACTURER",
+      "supply_side": true,
+      "production_signals": [
+        "Factory floor visible (concrete floor, fluorescent tubes)",
+        "Assembly line / workers at benches assembling units",
+        "Multiple identical units in production stages (RC car bodies, assembled chassis)",
+        "Raw materials visible (electronic components, wires, batteries)",
+        "Blue industrial crates for parts/WIP"
+      ],
+      "scale_visible": "large",
+      "estimated_inventory_pieces_visible": "100-1000",
+      "rc_car_present": true,
+      "drift_rc_present": true,
+      "products_seen": [
+        "RC car chassis",
+        "RC car bodies (various designs)",
+        "RC car remote controllers",
+        "LiPo batteries",
+        "Electronic components (ESCs, wiring)"
+      ],
+      "shop_or_facility_signage_text": "",
+      "city_or_market_visible": "",
+      "vendor_grade": "toy-grade",
+      "bch_relevance_1_10": 10,
+      "skip_if_retailer": false,
+      "verdict_one_line": "This is a large-scale manufacturer producing toy-grade drift RC cars, highly relevant for BCH's supply-side sourcing of grey-space drift RC."
+    }
+  },
+  "iFxm9iDPrrk": {
+    "channel": "Deepoo Vlog",
+    "title": "Toy Biz International Expo 2025 best expo for kids business in Delhi, India #toyfactory #toyfestiva",
+    "verdict": {
+      "vendor_type": "CREATOR_REVIEWER",
+      "supply_side": false,
+      "production_signals": [],
+      "scale_visible": "unclear",
+      "estimated_inventory_pieces_visible": "not-counted",
+      "rc_car_present": false,
+      "drift_rc_present": false,
+      "products_seen": [
+        "large teddy bears",
+        "plush toys",
+        "baby play mat",
+        "toy building blocks"
+      ],
+      "shop_or_facility_signage_text": "Toy Biz International Expo 2025",
+      "city_or_market_visible": "",
+      "vendor_grade": "toy-grade",
+      "bch_relevance_1_10": 0,
+      "skip_if_retailer": true,
+      "verdict_one_line": "This is a creator reviewing toys at an expo, not a supply-side vendor for RC cars."
+    }
+  },
+  "COF4V6yTWF8": {
+    "channel": "MITWAA VLOGS",
+    "title": "Toys ही Toys ₹20 से | Imported Toys Wholesale Warehouse Delhi | Toys Importer Sadar Bazar |Fancy Toy",
+    "verdict": {
+      "vendor_type": "WHOLESALER",
+      "supply_side": true,
+      "production_signals": [
+        "shelving units with stacked boxes",
+        "multiple identical units in boxes",
+        "open boxes showing many identical units"
+      ],
+      "scale_visible": "large",
+      "estimated_inventory_pieces_visible": "1000+",
+      "rc_car_present": true,
+      "drift_rc_present": true,
+      "products_seen": [
+        "Bugatti Divo RC car",
+        "other RC cars",
+        "bubble guns",
+        "dolls",
+        "toy trucks",
+        "toy robots"
+      ],
+      "shop_or_facility_signage_text": "Imported Toys\nONLY WHOLESALE\nFor Order : 9625218026 , 8510888855",
+      "city_or_market_visible": "",
+      "vendor_grade": "toy-grade",
+      "bch_relevance_1_10": 7,
+      "skip_if_retailer": false,
+      "verdict_one_line": "This is a large toy wholesaler with a wide range of products including RC cars, relevant for BCH's sourcing needs."
+    }
+  },
+  "GWaX69cmE6E": {
+    "channel": "SoniyaG Vlogs",
+    "title": "Korean Hair Accessories Wholesale Market Mumbai Bhuleshwar Fancy Imported Hair Accessories Hairclip",
+    "verdict": {
+      "vendor_type": "TRADER",
+      "supply_side": true,
+      "production_signals": [
+        "boxes with multi-brand stickers",
+        "open boxes showing many identical units"
+      ],
+      "scale_visible": "medium",
+      "estimated_inventory_pieces_visible": "100-1000",
+      "rc_car_present": false,
+      "drift_rc_present": false,
+      "products_seen": [
+        "hair clips",
+        "scrunchies"
+      ],
+      "shop_or_facility_signage_text": "Manjushree Impex",
+      "city_or_market_visible": "",
+      "vendor_grade": "toy-grade",
+      "bch_relevance_1_10": 3,
+      "skip_if_retailer": false,
+      "verdict_one_line": "Manjushree Impex is a trader selling toy hair accessories, with low relevance to BCH's RC car sourcing needs."
+    }
+  },
+  "Qgyo-R32NXU": {
+    "channel": "FashionTIY - Wholesale and Sourcing Supplier",
+    "title": "Kids Toys Wholesale 2021| Best Toys Manufacturer | Bulk Import Toy from Yiwu, China Factory CHEAPEST",
+    "verdict": {
+      "vendor_type": "RETAILER",
+      "supply_side": false,
+      "production_signals": [],
+      "scale_visible": "medium",
+      "estimated_inventory_pieces_visible": "1000+",
+      "rc_car_present": true,
+      "drift_rc_present": true,
+      "products_seen": [
+        "RC cars",
+        "RC trucks",
+        "RC robots",
+        "RC boats",
+        "RC planes",
+        "toy construction vehicles",
+        "toy robots"
+      ],
+      "shop_or_facility_signage_text": "雅米玩具总汇",
+      "city_or_market_visible": "",
+      "vendor_grade": "toy-grade",
+      "bch_relevance_1_10": 1,
+      "skip_if_retailer": true,
+      "verdict_one_line": "This is a toy retailer with a wide variety of RC cars and toys, not a supply-side vendor for BCH's needs."
+    }
+  },
+  "Qax4x5kRqrA": {
+    "channel": "INFINITY VLOGS",
+    "title": "Starting from ₹12/- | Wholesale Toy Market In Delhi | Drone, Unique Toys, Rc car",
+    "verdict": {
+      "vendor_type": "WHOLESALER",
+      "supply_side": true,
+      "production_signals": [
+        "boxes with multiple identical units",
+        "shelving with stacked cartons of toys",
+        "open boxes showing many identical units"
+      ],
+      "scale_visible": "medium",
+      "estimated_inventory_pieces_visible": "1000+",
+      "rc_car_present": true,
+      "drift_rc_present": false,
+      "products_seen": [
+        "toy cars",
+        "toy dolls",
+        "toy sets",
+        "toy trucks",
+        "toy airplanes",
+        "toy motorcycles",
+        "toy badminton rackets"
+      ],
+      "shop_or_facility_signage_text": "Kamal Enterprises",
+      "city_or_market_visible": "",
+      "vendor_grade": "toy-grade",
+      "bch_relevance_1_10": 7,
+      "skip_if_retailer": false,
+      "verdict_one_line": "Kamal Enterprises is a toy wholesaler with a large inventory of toy cars and other toys, relevant for BCH's sourcing of toy-grade RC cars."
+    }
+  },
+  "bBLjuSUeCPI": {
+    "channel": "Crazy Viner",
+    "title": "RC Cars Wholesale Market in Delhi😱🔥 indias Biggest toys importer in Delhi wholesale market😳🔥",
+    "verdict": {
+      "vendor_type": "WHOLESALER",
+      "supply_side": true,
+      "production_signals": [
+        "shelving with multiple identical units",
+        "open boxes showing many identical units",
+        "signage indicating wholesale pricing"
+      ],
+      "scale_visible": "medium",
+      "estimated_inventory_pieces_visible": "1000+",
+      "rc_car_present": true,
+      "drift_rc_present": false,
+      "products_seen": [
+        "die-cast cars",
+        "RC cars",
+        "toy airplanes",
+        "inflatable pools",
+        "toy guns",
+        "dolls",
+        "toy animals"
+      ],
+      "shop_or_facility_signage_text": "Wholesale - 9899618848 , Retail - 8383083760\nEXTRA 2.5% CHARGES PAYMENT THROUGH DEBIT CARD CREDIT CARD RUPAY CARD RUPAY UPI",
+      "city_or_market_visible": "",
+      "vendor_grade": "toy-grade",
+      "bch_relevance_1_10": 7,
+      "skip_if_retailer": false,
+      "verdict_one_line": "This vendor is a wholesaler selling a variety of toy vehicles and other toys, with potential relevance for BCH's RC car sourcing if drift models are available."
+    }
+  },
+  "fY6zePAgmYg": {
+    "channel": "VLOGSTAN",
+    "title": "सबसे सास्ता Rs,25/- Gadgets Toy&#39;s , Drone Camera , Rc Car | Cheapest Toys Wholesale Market in Delhi",
+    "verdict": {
+      "vendor_type": "RETAILER",
+      "supply_side": false,
+      "production_signals": [],
+      "scale_visible": "small",
+      "estimated_inventory_pieces_visible": "100-1000",
+      "rc_car_present": true,
+      "drift_rc_present": false,
+      "products_seen": [
+        "toy RC cars",
+        "toy bowling set",
+        "various other toys"
+      ],
+      "shop_or_facility_signage_text": "Contact- 9310773535,\nAddress- 192, naharpur, sector-7 rohini, delhi 110085",
+      "city_or_market_visible": "rohini, delhi",
+      "vendor_grade": "toy-grade",
+      "bch_relevance_1_10": 1,
+      "skip_if_retailer": true,
+      "verdict_one_line": "This is a toy retailer in Delhi, not a supply-side vendor for drift RC cars."
+    }
+  },
+  "xMX1fTRtNvc": {
+    "channel": "Uzair Ali ",
+    "title": "Inside China’s Biggest Toys Market 🤯 Yiwu Wholesale Tour",
+    "verdict": {
+      "vendor_type": "CREATOR_REVIEWER",
+      "supply_side": false,
+      "production_signals": [],
+      "scale_visible": "micro",
+      "estimated_inventory_pieces_visible": "100-1000",
+      "rc_car_present": false,
+      "drift_rc_present": false,
+      "products_seen": [
+        "Dolls (various sizes and styles)",
+        "Hello Kitty merchandise",
+        "Decorative lanterns"
+      ],
+      "shop_or_facility_signage_text": "ASSALAM U ALIKUM (overlay)",
+      "city_or_market_visible": "",
+      "vendor_grade": "toy-grade",
+      "bch_relevance_1_10": 0,
+      "skip_if_retailer": true,
+      "verdict_one_line": "This is a CREATOR_REVIEWER touring various retail-like stalls selling dolls and decorative items, which is irrelevant to BCH's supply-side drift RC sourcing."
+    }
+  },
+  "Ra9_Y8J-dhk": {
+    "channel": "Journey Of Deepak",
+    "title": "Toy Biz Expo 2025 International | India’s Largest Toy Fair at Pragati Maidan Delhi | Toy Exhibition!",
+    "verdict": {
+      "vendor_type": "RETAILER",
+      "supply_side": false,
+      "production_signals": [],
+      "scale_visible": "small",
+      "estimated_inventory_pieces_visible": "10-100",
+      "rc_car_present": true,
+      "drift_rc_present": false,
+      "products_seen": [
+        "toy cars in display cases",
+        "ride-on electric toy cars"
+      ],
+      "shop_or_facility_signage_text": "Mooto baby",
+      "city_or_market_visible": "",
+      "vendor_grade": "toy-grade",
+      "bch_relevance_1_10": 1,
+      "skip_if_retailer": true,
+      "verdict_one_line": "This vendor appears to be a retailer selling toy cars and ride-on electric toy cars, with no direct relevance to BCH's supply-side sourcing needs for drift RC cars."
+    }
+  },
+  "cxhYy1rn3fE": {
+    "channel": "Vyapar Guruji  extra ",
+    "title": "सबसे बड़ा International Toys Expo 2024 pragati maidan",
+    "verdict": {
+      "vendor_type": "NA",
+      "supply_side": false,
+      "production_signals": [],
+      "scale_visible": "unclear",
+      "estimated_inventory_pieces_visible": "not-counted",
+      "rc_car_present": false,
+      "drift_rc_present": false,
+      "products_seen": [
+        "children's ride-on toys",
+        "baby walkers",
+        "foosball tables"
+      ],
+      "shop_or_facility_signage_text": "WELCOME 5 15TH TOY BIZ INTERNATIONAL B2B EXHIBITION THE TOY ASSOCIATION OF INDIA",
+      "city_or_market_visible": "",
+      "vendor_grade": "toy-grade",
+      "bch_relevance_1_10": 0,
+      "skip_if_retailer": true,
+      "verdict_one_line": "This is an exhibition for toy manufacturers and distributors, not a specific vendor, and no RC cars are visible."
+    }
+  },
+  "IOj211MIypE": {
+    "channel": "Fun Nation Toys",
+    "title": "Cheapest RC Car market Delhi || Cheapest Toys Market in Delhi || Toys Wholesale Market in Delhi",
+    "verdict": {
+      "vendor_type": "WHOLESALER",
+      "supply_side": true,
+      "production_signals": [
+        "stacks of identical product boxes",
+        "large blue crates",
+        "warehouse setting with industrial lighting"
+      ],
+      "scale_visible": "medium",
+      "estimated_inventory_pieces_visible": "100-1000",
+      "rc_car_present": true,
+      "drift_rc_present": false,
+      "products_seen": [
+        "remote control cars",
+        "RC car track sets"
+      ],
+      "shop_or_facility_signage_text": "RASHU TOYS PVT. LTD.",
+      "city_or_market_visible": "",
+      "vendor_grade": "toy-grade",
+      "bch_relevance_1_10": 7,
+      "skip_if_retailer": false,
+      "verdict_one_line": "Rashu Toys Pvt. Ltd. is a toy wholesaler with a medium-scale inventory of RC cars and track sets, offering potential supply-side relevance for BCH's toy-grade RC sourcing."
+    }
+  },
+  "fZvcMLey33s": {
+    "channel": "Travel With Business",
+    "title": "Trending &amp; Hot-Selling Kids Toys in Canton Fair China 2025 🔥",
+    "verdict": {
+      "vendor_type": "TRADER",
+      "supply_side": true,
+      "production_signals": [
+        "shelving with multiple boxed RC cars",
+        "display of various toy products",
+        "business card with 'International Trade Manager' title"
+      ],
+      "scale_visible": "medium",
+      "estimated_inventory_pieces_visible": "100-1000",
+      "rc_car_present": true,
+      "drift_rc_present": false,
+      "products_seen": [
+        "boxed RC cars (police, urban car)",
+        "toy drawing boards",
+        "dinosaur toys"
+      ],
+      "shop_or_facility_signage_text": "JAKI FINDURIOUS CREATEFUN",
+      "city_or_market_visible": "",
+      "vendor_grade": "toy-grade",
+      "bch_relevance_1_10": 6,
+      "skip_if_retailer": false,
+      "verdict_one_line": "This vendor is a trader with a medium scale of toy products, including RC cars, and is relevant to BCH's supply-side sourcing needs."
+    }
+  },
+  "cdIjehs2JOw": {
+    "channel": "Business Funda",
+    "title": "Sadar Bazar Toy Wholesale Market Delhi | RC Car &amp; Baby Toys Wholesale Price, Sadar Bazar Toy Market",
+    "verdict": {
+      "vendor_type": "TRADER",
+      "supply_side": true,
+      "production_signals": [
+        "shelving with multiple identical boxes of RC cars",
+        "boxes with 'LIX MODEL' branding"
+      ],
+      "scale_visible": "medium",
+      "estimated_inventory_pieces_visible": "100-1000",
+      "rc_car_present": true,
+      "drift_rc_present": true,
+      "products_seen": [
+        "RC cars (various models)",
+        "toy drones",
+        "other electronic toys"
+      ],
+      "shop_or_facility_signage_text": "Sai Trading Company",
+      "city_or_market_visible": "",
+      "vendor_grade": "toy-grade",
+      "bch_relevance_1_10": 7,
+      "skip_if_retailer": false,
+      "verdict_one_line": "Sai Trading Company is a trader of toy-grade RC cars and other electronic toys, with moderate supply-side relevance for BCH's drift RC sourcing."
+    }
+  },
+  "YXrUA5EAS5Q": {
+    "channel": "JourNey WithOut VisA",
+    "title": "Toy Biz Expo 2025 || Toy Expo 2025 || Toy Biz International Expo 2025",
+    "verdict": {
+      "vendor_type": "NA",
+      "supply_side": false,
+      "production_signals": [],
+      "scale_visible": "unclear",
+      "estimated_inventory_pieces_visible": "not-counted",
+      "rc_car_present": false,
+      "drift_rc_present": false,
+      "products_seen": [],
+      "shop_or_facility_signage_text": "",
+      "city_or_market_visible": "",
+      "vendor_grade": "not-a-product",
+      "bch_relevance_1_10": 0,
+      "skip_if_retailer": true,
+      "verdict_one_line": "This video appears to be a vlog or promotional content for an event, not a direct supplier of RC cars."
+    }
+  },
+  "tKGfiinJzgw": {
+    "channel": "Engineer On Road",
+    "title": "चाइनीज खिलौने से बेहतर ये मेड इन इंडिया खिलौने | Indian Toys Manufacturer since 1948 | Toy Biz 2022",
+    "verdict": {
+      "vendor_type": "RETAILER",
+      "supply_side": false,
+      "production_signals": [],
+      "scale_visible": "small",
+      "estimated_inventory_pieces_visible": "100-1000",
+      "rc_car_present": false,
+      "drift_rc_present": false,
+      "products_seen": [
+        "toy train",
+        "toy cars",
+        "toy animals",
+        "building blocks",
+        "toy farm vehicle"
+      ],
+      "shop_or_facility_signage_text": "THE TOY ASSOCIATION OF INDIA",
+      "city_or_market_visible": "",
+      "vendor_grade": "toy-grade",
+      "bch_relevance_1_10": 1,
+      "skip_if_retailer": true,
+      "verdict_one_line": "This is a toy retailer showcasing various toys, not a supply-side vendor for drift RC cars."
+    }
+  },
+  "YH9lhRs2ec4": {
+    "channel": "Gyanvik Business",
+    "title": "Toy Biz International Expo 2025 |  Made in India🇮🇳 खिलौनों की ताक़त! | Toy Expo में दिखा देसी जुगाड़",
+    "verdict": {
+      "vendor_type": "NA",
+      "supply_side": false,
+      "production_signals": [],
+      "scale_visible": "unclear",
+      "estimated_inventory_pieces_visible": "not-counted",
+      "rc_car_present": false,
+      "drift_rc_present": false,
+      "products_seen": [
+        "building block sets",
+        "slides",
+        "UV printer"
+      ],
+      "shop_or_facility_signage_text": "",
+      "city_or_market_visible": "",
+      "vendor_grade": "toy-grade",
+      "bch_relevance_1_10": 0,
+      "skip_if_retailer": true,
+      "verdict_one_line": "This appears to be a trade show or exhibition featuring toy manufacturers and equipment, not a direct supply-side vendor for RC cars."
+    }
+  },
+  "qPP8BZospfA": {
+    "channel": "Business Ke Deewano",
+    "title": "Indian Toys Wholesale Market | Sadar Bazar Toy Market Delhi | Plastic Toys Wholesale In Delhi ",
+    "verdict": {
+      "vendor_type": "WHOLESALER",
+      "supply_side": true,
+      "production_signals": [
+        "signage explicitly stating 'Wholesaler'",
+        "shelving units filled with numerous boxes of toys",
+        "multiple identical units of various toys visible in boxes"
+      ],
+      "scale_visible": "medium",
+      "estimated_inventory_pieces_visible": "1000+",
+      "rc_car_present": true,
+      "drift_rc_present": false,
+      "products_seen": [
+        "battery toys",
+        "dolls",
+        "RC cars",
+        "toy bats",
+        "toy guns",
+        "Barbie dolls"
+      ],
+      "shop_or_facility_signage_text": "ANJU TOYS Wholesaler All Kinds OF BATTERY TOYS, DOLLS & CHINA 5409/3. NEW MARKET, GHORE WALI SARAI S.B. Delhi 6",
+      "city_or_market_visible": "NEW MARKET, GHORE WALI SARAI S.B. Delhi 6",
+      "vendor_grade": "toy-grade",
+      "bch_relevance_1_10": 6,
+      "skip_if_retailer": false,
+      "verdict_one_line": "Anju Toys is a wholesaler of various toys, including RC cars, relevant to BCH's search for supply-side partners."
+    }
+  }
+}
