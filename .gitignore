@@ -11,3 +11,6 @@ __pycache__/
 
 # pipeline secrets
 scripts/keys.json
+
+# pipeline frame dumps (large binary output)
+scripts/yt_rc_output_*/frames/
