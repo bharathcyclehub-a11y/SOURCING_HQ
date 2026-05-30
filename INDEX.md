@@ -1,5 +1,18 @@
 # IBRAHIM SOURCING HQ — MASTER INDEX
 **Owner:** Syed Ibrahim | **Business:** BCH + D2C Ventures
+
+---
+
+## 👋 FIRST TIME HERE? (Swet — start here)
+
+If you're new to this folder (looking at you, Swet), do not read this index. Go to:
+
+**→ [`0_FOR_SWET/00_START_HERE.md`](0_FOR_SWET/00_START_HERE.md)**
+
+That folder has your full task list, scripts, and a daily status template. Come back to this INDEX only after you've finished files 01–03 and need historical context.
+
+---
+
 **Core Model:** Positioning Arbitrage — same product, different context = different price
 
 *Last reorganized: 2026-05-27*

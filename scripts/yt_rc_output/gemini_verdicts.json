@@ -1,0 +1,413 @@
+{
+  "SUObgzwyOU4": {
+    "channel": "INFINITY VLOGS",
+    "title": "Starting from ₹12/- | Wholesale Toy Market In Delhi | Drone, Unique Toys, Rc car | sai trading toy",
+    "verdict": {
+      "products_seen": [
+        "RC tanks with lights",
+        "packaged RC cars (blue, red)",
+        "small packaged toys (e.g., Spider-Man themed)",
+        "plastic construction vehicles (excavators, loaders)",
+        "transforming robot/plane toys",
+        "various other plastic toys"
+      ],
+      "grade": "toy-grade",
+      "scale_visible": "unknown",
+      "rc_present": true,
+      "non_rc_present": [
+        "small packaged toys",
+        "plastic construction vehicles",
+        "transforming robots"
+      ],
+      "shop_signage_visible": false,
+      "shop_name_on_signage": "",
+      "bch_relevance_1_10": 2,
+      "verdict_one_line": "This Delhi-based importer/retailer primarily offers toy-grade RC tanks and cars, along with other plastic toys, providing low relevance for BCH's hobby-grade mini RC drift car sourcing."
+    }
+  },
+  "OtgzSv7F8A4": {
+    "channel": "Happy Here Films",
+    "title": "World’s Fastest RC Car 🔥🔥🔥 #rcindia  #traxxasXO1",
+    "verdict": {
+      "products_seen": [
+        "Hobby-grade Traxxas RC car (red, high-speed model)",
+        "Hobby-grade FPV drone (Speedy Bee brand, with yellow propellers)"
+      ],
+      "grade": "hobby-grade",
+      "scale_visible": "unknown",
+      "rc_present": true,
+      "non_rc_present": [],
+      "shop_signage_visible": false,
+      "shop_name_on_signage": "",
+      "bch_relevance_1_10": 8,
+      "verdict_one_line": "The video showcases a hobby-grade Traxxas RC car and an FPV drone, indicating a market for high-performance RC products, though no retail location or supplier is visible."
+    }
+  },
+  "IOj211MIypE": {
+    "channel": "Fun Nation Toys",
+    "title": "Cheapest RC Car market Delhi || Cheapest Toys Market in Delhi || Toys Wholesale Market in Delhi",
+    "verdict": {
+      "products_seen": [
+        "Small RC sports cars (e.g., '3D Famous Car')",
+        "Small RC Cybertruck-like vehicle",
+        "RC 'stunt' cars with large wheels (red/black, green)",
+        "RC car racing track sets ('Track' brand)"
+      ],
+      "grade": "toy-grade",
+      "scale_visible": "1:24 / 1:18 / unknown",
+      "rc_present": true,
+      "non_rc_present": [],
+      "shop_signage_visible": true,
+      "shop_name_on_signage": "RASHU TOYS PVT. LTD.",
+      "bch_relevance_1_10": 4,
+      "verdict_one_line": "This is a manufacturer/wholesaler, Rashu Toys Pvt. Ltd., specializing in toy-grade RC cars, including small-scale models (1:24-1:18), which could be a low-priority manufacturing lead for BCH's mini RC drift car SKU."
+    }
+  },
+  "bBLjuSUeCPI": {
+    "channel": "Crazy Viner",
+    "title": "RC Cars Wholesale Market in Delhi😱🔥 indias Biggest toys importer in Delhi wholesale market😳🔥",
+    "verdict": {
+      "products_seen": [
+        "1:22 scale toy-grade RC car (Rolls Royce Cullinan style)",
+        "Small toy-grade RC drone/plane"
+      ],
+      "grade": "toy-grade",
+      "scale_visible": "1:22",
+      "rc_present": true,
+      "non_rc_present": [
+        "die-cast toy cars",
+        "toy guns",
+        "inflatable swimming pools",
+        "dolls/plush toys",
+        "small plastic animal toys"
+      ],
+      "shop_signage_visible": false,
+      "shop_name_on_signage": "",
+      "bch_relevance_1_10": 2,
+      "verdict_one_line": "This shop primarily sells toy-grade RC cars (including a 1:22 scale model) and various other children's toys, making it a low-priority lead for hobby-grade RC sourcing."
+    }
+  },
+  "o39ph0w5V5k": {
+    "channel": "WLtoys Official",
+    "title": "Inside WLtoys Factory - WLtoys 104072 high speed brushless rc car in production",
+    "verdict": {
+      "products_seen": [
+        "RC car chassis being assembled",
+        "RC car bodies (truck/rally style with LED front bumper, drift car style with 'PUNCH' branding)",
+        "RC car electronics (ESCs, batteries, wiring harnesses)",
+        "RC remote controllers"
+      ],
+      "grade": "hobby-grade",
+      "scale_visible": "1:10",
+      "rc_present": true,
+      "non_rc_present": [],
+      "shop_signage_visible": false,
+      "shop_name_on_signage": "",
+      "bch_relevance_1_10": 9,
+      "verdict_one_line": "This video depicts an active manufacturing facility assembling hobby-grade RC cars, including chassis, electronics, and various car bodies (some with LED features and drift car aesthetics), making it a highly relevant potential supplier for BCH's private-label SKU."
+    }
+  },
+  "HEcFQ7fyhPo": {
+    "channel": "Karthikeyan Stores",
+    "title": "1:18 Scale Rock Crawler Rc Car 😱 | Metal Alloy 🔥 | Coimbatore| Toy Shop #trending #toys #shorts #yt",
+    "verdict": {
+      "products_seen": [
+        "RC rock crawlers (blue and red)"
+      ],
+      "grade": "toy-grade",
+      "scale_visible": "unknown",
+      "rc_present": true,
+      "non_rc_present": [
+        "unidentifiable retail items on shelves"
+      ],
+      "shop_signage_visible": false,
+      "shop_name_on_signage": "",
+      "bch_relevance_1_10": 2,
+      "verdict_one_line": "This shop appears to sell toy-grade RC rock crawlers, which are not aligned with BCH's hobby-grade drift car sourcing needs."
+    }
+  },
+  "fY6zePAgmYg": {
+    "channel": "VLOGSTAN",
+    "title": "सबसे सास्ता Rs,25/- Gadgets Toy&#39;s , Drone Camera , Rc Car | Cheapest Toys Wholesale Market in Delhi",
+    "verdict": {
+      "products_seen": [
+        "toy construction vehicles",
+        "toy camel",
+        "toy robots",
+        "toy bowling set",
+        "toy cars (small scale)",
+        "toy figures (e.g., Mario)",
+        "toy animals (e.g., bear)",
+        "toy jellyfish-like figures"
+      ],
+      "grade": "toy-grade",
+      "scale_visible": "unknown",
+      "rc_present": false,
+      "non_rc_present": [
+        "toy construction vehicles",
+        "toy camel",
+        "toy robots",
+        "toy bowling set",
+        "toy cars (small scale)",
+        "toy figures",
+        "toy animals",
+        "toy jellyfish-like figures",
+        "real car (Land Rover Defender)",
+        "auto-rickshaw"
+      ],
+      "shop_signage_visible": false,
+      "shop_name_on_signage": "",
+      "bch_relevance_1_10": 1,
+      "verdict_one_line": "The video primarily shows toy-grade RC products and other toys, with no hobby-grade RC cars or relevant spare parts visible for BCH's sourcing needs."
+    }
+  },
+  "9-km0a-lURI": {
+    "channel": "Kevin Talbot",
+    "title": "World&#39;s BIGGEST rc car wheels",
+    "verdict": {
+      "products_seen": [
+        "large RC monster trucks",
+        "large RC monster truck tires",
+        "various RC cars/trucks in background"
+      ],
+      "grade": "hobby-grade",
+      "scale_visible": "1:10",
+      "rc_present": true,
+      "non_rc_present": [],
+      "shop_signage_visible": false,
+      "shop_name_on_signage": "",
+      "bch_relevance_1_10": 3,
+      "verdict_one_line": "This video showcases hobby-grade RC monster trucks and parts in a personal workshop and outdoor setting, but it is not a Delhi retail shop or market, thus providing no direct sourcing leads."
+    }
+  },
+  "_gzMZ2b9b6w": {
+    "channel": "Srv Vlogs",
+    "title": "Cheapest Toys Market in Delhi | Battery Operated Cars &amp; Bikes in Rs 2500 | All India Delivery |",
+    "verdict": {
+      "products_seen": [
+        "ride-on jeeps",
+        "ride-on motorcycle"
+      ],
+      "grade": "toy-grade",
+      "scale_visible": "unknown",
+      "rc_present": false,
+      "non_rc_present": [
+        "ride-on jeeps",
+        "ride-on motorcycle"
+      ],
+      "shop_signage_visible": false,
+      "shop_name_on_signage": "",
+      "bch_relevance_1_10": 1,
+      "verdict_one_line": "The video shows toy-grade ride-on vehicles, which are not relevant for BCH's hobby-grade RC drift car SKU."
+    }
+  },
+  "Wi2GasuCVns": {
+    "channel": "Manish Dilliwala",
+    "title": "झंडेवाला खिलौना मार्केट 🔥😍 Online से 80% Discount 😱 #toys #diecast #diecastcars #rccar #toys #shorts",
+    "verdict": {
+      "products_seen": [
+        "red die-cast car with opening doors and trunk",
+        "boxed RC cars (various models, some appear to be crawlers or off-road)",
+        "boxed toy cars"
+      ],
+      "grade": "mixed",
+      "scale_visible": "unknown",
+      "rc_present": true,
+      "non_rc_present": [],
+      "shop_signage_visible": false,
+      "shop_name_on_signage": "",
+      "bch_relevance_1_10": 3,
+      "verdict_one_line": "The shop appears to sell a mix of die-cast cars and RC toys, with some potential hobby-grade RC cars visible in boxes, but no clear leads for mini RC drift car suppliers."
+    }
+  },
+  "S3OnTcicrtk": {
+    "channel": "Peephole View Toys",
+    "title": "RC Defender Car Unboxing and Testing #rccar #rctoys #remotecontrolcar",
+    "verdict": {
+      "products_seen": [
+        "RC Sport Utility Vehicle (SUV) cars"
+      ],
+      "grade": "toy-grade",
+      "scale_visible": "1:16",
+      "rc_present": true,
+      "non_rc_present": [
+        "other boxed toys"
+      ],
+      "shop_signage_visible": false,
+      "shop_name_on_signage": "",
+      "bch_relevance_1_10": 1,
+      "verdict_one_line": "This video showcases a toy-grade 1:16 scale RC SUV, which is not relevant for BCH's hobby-grade mini RC drift car sourcing or manufacturing needs."
+    }
+  },
+  "KIY_CKHVD9A": {
+    "channel": "Business Buddy",
+    "title": "Toys wholesale market Delhi | Cheapest toys market delhi | Jhandewalan toy market|RC Car,Diecast car",
+    "verdict": {
+      "products_seen": [
+        "toy-grade RC monster trucks/crawlers",
+        "small toy drones"
+      ],
+      "grade": "toy-grade",
+      "scale_visible": "unknown",
+      "rc_present": true,
+      "non_rc_present": [
+        "general packaged toys/goods",
+        "pink backpack"
+      ],
+      "shop_signage_visible": false,
+      "shop_name_on_signage": "",
+      "bch_relevance_1_10": 1,
+      "verdict_one_line": "This shop primarily sells toy-grade RC cars and drones, offering no visible hobby-grade products, parts, or manufacturing leads relevant to BCH's Mini RC Drift Car SKU."
+    }
+  },
+  "T9xSU_tdQKI": {
+    "channel": "Nairatoystv",
+    "title": "Delhi Chor Bazaar RC car parts gear motor DC motor all parts",
+    "verdict": {
+      "products_seen": [
+        "small DC motors",
+        "battery holders (AA/AAA type)",
+        "alligator clips",
+        "small battery packs (cylindrical cells)",
+        "generic circuit boards",
+        "various wires and connectors",
+        "small switches"
+      ],
+      "grade": "parts-only",
+      "scale_visible": "n/a",
+      "rc_present": true,
+      "non_rc_present": [],
+      "shop_signage_visible": false,
+      "shop_name_on_signage": "",
+      "bch_relevance_1_10": 2,
+      "verdict_one_line": "This vendor offers generic electronic components like small motors, battery holders, and wires, which are not specific hobby-grade RC parts and thus have low relevance for BCH's aspirational sourcing needs."
+    }
+  },
+  "Ln_mdJQH8HY": {
+    "channel": "Vishal Creator ",
+    "title": "Drift Rc Car Unboxing 🤩 #rc #rccar #drift #driftcar #unboxing #car #remotecontrol",
+    "verdict": {
+      "products_seen": [
+        "RC drift car (black, 4WD, LED lights)",
+        "RC pistol-grip remote control",
+        "friction toy cars",
+        "giraffe toy",
+        "ride-on scooter/bike"
+      ],
+      "grade": "mixed",
+      "scale_visible": "unknown",
+      "rc_present": true,
+      "non_rc_present": [
+        "friction toy cars",
+        "giraffe toy",
+        "ride-on scooter/bike"
+      ],
+      "shop_signage_visible": true,
+      "shop_name_on_signage": "TEEN WISDOM",
+      "bch_relevance_1_10": 8,
+      "verdict_one_line": "This shop sells a highly relevant mini RC drift car (4WD, LED, aspirational hobby-grade) alongside general toy-grade products, making it a potential lead for BCH's SKU sourcing."
+    }
+  },
+  "ceggzOHAOBU": {
+    "channel": "Game 3D King",
+    "title": "off roading rc car under 2000 #toys #shorts #short #rccars",
+    "verdict": {
+      "products_seen": [
+        "A red RC rock crawler with large tires, visible suspension, a cage-like body, and a blue light/smoke effect from the front"
+      ],
+      "grade": "toy-grade",
+      "scale_visible": "unknown",
+      "rc_present": true,
+      "non_rc_present": [],
+      "shop_signage_visible": false,
+      "shop_name_on_signage": "",
+      "bch_relevance_1_10": 1,
+      "verdict_one_line": "The video displays a toy-grade RC rock crawler with a smoke effect, offering no visible information about shops, suppliers, or hobby-grade products relevant to BCH's needs."
+    }
+  },
+  "t7ft1g-t1hg": {
+    "channel": "AC Delhi shorts",
+    "title": "Biggest toy car &amp; bike factory warehouse in Delhi | battery operated car and bike holesaller delhi",
+    "verdict": {
+      "products_seen": [
+        "toy electric motorcycles",
+        "toy electric jeeps",
+        "toy electric truck",
+        "toy metal cars"
+      ],
+      "grade": "toy-grade",
+      "scale_visible": "unknown",
+      "rc_present": false,
+      "non_rc_present": [
+        "toy electric motorcycles",
+        "toy electric jeeps",
+        "toy electric truck",
+        "toy metal cars"
+      ],
+      "shop_signage_visible": false,
+      "shop_name_on_signage": "",
+      "bch_relevance_1_10": 1,
+      "verdict_one_line": "The video shows toy-grade electric ride-on vehicles and toy metal cars, which are not relevant for BCH's hobby-grade RC drift car SKU."
+    }
+  },
+  "TGzf5B9Gsrg": {
+    "channel": "Explore Vlogs AR",
+    "title": "Toys wholesale market Delhi | Cheapest toys market delhi | Jhandewalan toy market|RC Car,Diecast car",
+    "verdict": {
+      "products_seen": [
+        "large scale RC monster truck (Cybertruck style)",
+        "RC car in box (appears to be a rally or off-road style)",
+        "multiple boxed RC cars (various models, some appearing to be 1:10 scale)",
+        "toy storage units (dollhouse style)",
+        "tic-tac-toe game boards"
+      ],
+      "grade": "mixed",
+      "scale_visible": "1:10",
+      "rc_present": true,
+      "non_rc_present": [
+        "dolls",
+        "toy storage"
+      ],
+      "shop_signage_visible": true,
+      "shop_name_on_signage": "Jhandewalan imported Toys",
+      "bch_relevance_1_10": 6,
+      "verdict_one_line": "The shop offers a mix of toy-grade and potentially hobby-grade RC cars, with some larger scale models visible, making it a moderate lead for sourcing."
+    }
+  },
+  "F89Grq9WIa4": {
+    "channel": "Freddy Collector ",
+    "title": "TRX4m by TRAXXAS RC Land Rover Defender 1/18 scale #rc #rccar #traxxas #trx4 #118scale #modelcar",
+    "verdict": {
+      "products_seen": [
+        "Orange 1:18 scale hobby-grade RC crawler/truck (Traxxas TRX-4M)",
+        "Hobby-grade 2.4GHz RC remote controller (Traxxas TQi)"
+      ],
+      "grade": "hobby-grade",
+      "scale_visible": "1:18",
+      "rc_present": true,
+      "non_rc_present": [],
+      "shop_signage_visible": false,
+      "shop_name_on_signage": "",
+      "bch_relevance_1_10": 9,
+      "verdict_one_line": "This video showcases a hobby-grade 1:18 scale Traxxas TRX-4M RC crawler with LED lights and detailed suspension, highly relevant to BCH's aspirational mini RC car SKU."
+    }
+  },
+  "LhmiJv28yXs": {
+    "channel": "Electronic Tricks",
+    "title": "Watch This RC Car Smoke Performance looking awesome",
+    "verdict": {
+      "products_seen": [
+        "black RC rock crawler with knobby tires and yellow rims",
+        "pistol-grip remote control"
+      ],
+      "grade": "toy-grade",
+      "scale_visible": "unknown",
+      "rc_present": true,
+      "non_rc_present": [],
+      "shop_signage_visible": false,
+      "shop_name_on_signage": "",
+      "bch_relevance_1_10": 1,
+      "verdict_one_line": "The video displays a toy-grade RC rock crawler and its remote control, which is not relevant for BCH's hobby-grade mini RC drift car sourcing."
+    }
+  }
+}

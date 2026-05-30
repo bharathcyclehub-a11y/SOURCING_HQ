@@ -1,0 +1,741 @@
+[
+  {
+    "shop_id": "shop_02",
+    "shop_name_guess": "__________________________________________",
+    "address_guess": "",
+    "phones": [
+      "+91-83830-83760",
+      "+91-98996-18848"
+    ],
+    "creator_count": 4,
+    "creators": [
+      "Crazy Viner",
+      "Explore Vlogs AR",
+      "Manish Dilliwala",
+      "Srv Vlogs"
+    ],
+    "video_count": 5,
+    "total_views": 174638,
+    "mentions": [
+      {
+        "creator_channel": "Manish Dilliwala",
+        "creator_channel_url": "https://www.youtube.com/channel/UCW-GQfaLUnIg7f8lW3EPJKA",
+        "creator_subs": 47300,
+        "video_id": "y1OfDC0AHyE",
+        "video_url": "https://www.youtube.com/watch?v=y1OfDC0AHyE",
+        "video_title": "Toys wholesale market Delhi | Cheapest toys market delhi | Jhandewalan toy market|RC Car,Diecast car",
+        "video_views": 123158,
+        "video_thumb_url": "https://i.ytimg.com/vi/y1OfDC0AHyE/hqdefault.jpg",
+        "video_thumb_local": "",
+        "frames": [],
+        "context_snippet": "__________________________________________\nShop Details \nMilestone Impex \nContact \nRetail 8383083760",
+        "queries_matched": [
+          "rc cars market in Delhi",
+          "rc car manufacturer in Delhi",
+          "rc car wholesale in Delhi"
+        ],
+        "matched_phone": "+91-83830-83760"
+      },
+      {
+        "creator_channel": "Srv Vlogs",
+        "creator_channel_url": "https://www.youtube.com/channel/UCpjI5zDEMMc1rhC7mDkX30A",
+        "creator_subs": 546000,
+        "video_id": "NpeVu2Hmpf0",
+        "video_url": "https://www.youtube.com/watch?v=NpeVu2Hmpf0",
+        "video_title": "Starting from ₹12/- | Wholesale Toy Market In Delhi | Drone, Unique Toys, Rc car | Srv Vlogs",
+        "video_views": 24620,
+        "video_thumb_url": "https://i.ytimg.com/vi/NpeVu2Hmpf0/hqdefault.jpg",
+        "video_thumb_local": "",
+        "frames": [],
+        "context_snippet": "Description: \n       Milestone Impex\n☎️ 8383083760\n📍Shop no 58 & 114, Cycle Market, Jhandewalan, New Delhi - 110055",
+        "queries_matched": [
+          "rc car manufacturer in Delhi"
+        ],
+        "matched_phone": "+91-83830-83760"
+      },
+      {
+        "creator_channel": "Explore Vlogs AR",
+        "creator_channel_url": "https://www.youtube.com/channel/UCWHZKacGc8TNS9qtAvNpl5g",
+        "creator_subs": 235000,
+        "video_id": "TGzf5B9Gsrg",
+        "video_url": "https://www.youtube.com/watch?v=TGzf5B9Gsrg",
+        "video_title": "Toys wholesale market Delhi | Cheapest toys market delhi | Jhandewalan toy market|RC Car,Diecast car",
+        "video_views": 13922,
+        "video_thumb_url": "https://i.ytimg.com/vi/TGzf5B9Gsrg/hqdefault.jpg",
+        "video_thumb_local": "frames/explore_vlogs_ar/TGzf5B9Gsrg_thumb.jpg",
+        "frames": [
+          {
+            "path": "frames/explore_vlogs_ar/TGzf5B9Gsrg_f1.jpg",
+            "ts": 1.5
+          },
+          {
+            "path": "frames/explore_vlogs_ar/TGzf5B9Gsrg_f2.jpg",
+            "ts": 198.21
+          },
+          {
+            "path": "frames/explore_vlogs_ar/TGzf5B9Gsrg_f3.jpg",
+            "ts": 394.91
+          },
+          {
+            "path": "frames/explore_vlogs_ar/TGzf5B9Gsrg_f4.jpg",
+            "ts": 591.62
+          },
+          {
+            "path": "frames/explore_vlogs_ar/TGzf5B9Gsrg_f5.jpg",
+            "ts": 788.33
+          }
+        ],
+        "context_snippet": "Shop Details \nMilestone Impex \nContact \nRetail 8383083760\nWholesale 9899618848",
+        "queries_matched": [
+          "rc cars in Delhi",
+          "rc car manufacturer in Delhi"
+        ],
+        "matched_phone": "+91-83830-83760"
+      },
+      {
+        "creator_channel": "Explore Vlogs AR",
+        "creator_channel_url": "https://www.youtube.com/channel/UCWHZKacGc8TNS9qtAvNpl5g",
+        "creator_subs": 235000,
+        "video_id": "FFu7_qDFsYo",
+        "video_url": "https://www.youtube.com/watch?v=FFu7_qDFsYo",
+        "video_title": "Toys wholesale market Delhi | Cheapest toys market delhi | Jhandewalan toy market|RC Car,Diecast car",
+        "video_views": 7261,
+        "video_thumb_url": "https://i.ytimg.com/vi/FFu7_qDFsYo/hqdefault.jpg",
+        "video_thumb_local": "",
+        "frames": [],
+        "context_snippet": "Shop Details \nMilestone Impex \nContact \nRetail 8383083760\nWholesale 9899618848",
+        "queries_matched": [
+          "rc car wholesale in Delhi"
+        ],
+        "matched_phone": "+91-83830-83760"
+      },
+      {
+        "creator_channel": "Crazy Viner",
+        "creator_channel_url": "https://www.youtube.com/channel/UCmkozcGx8-DEyUnQtyUEadA",
+        "creator_subs": 36700,
+        "video_id": "bBLjuSUeCPI",
+        "video_url": "https://www.youtube.com/watch?v=bBLjuSUeCPI",
+        "video_title": "RC Cars Wholesale Market in Delhi😱🔥 indias Biggest toys importer in Delhi wholesale market😳🔥",
+        "video_views": 5677,
+        "video_thumb_url": "https://i.ytimg.com/vi/bBLjuSUeCPI/hqdefault.jpg",
+        "video_thumb_local": "frames/crazy_viner/bBLjuSUeCPI_thumb.jpg",
+        "frames": [
+          {
+            "path": "frames/crazy_viner/bBLjuSUeCPI_f1.jpg",
+            "ts": 1.5
+          },
+          {
+            "path": "frames/crazy_viner/bBLjuSUeCPI_f2.jpg",
+            "ts": 185.3
+          },
+          {
+            "path": "frames/crazy_viner/bBLjuSUeCPI_f3.jpg",
+            "ts": 369.1
+          },
+          {
+            "path": "frames/crazy_viner/bBLjuSUeCPI_f4.jpg",
+            "ts": 552.91
+          },
+          {
+            "path": "frames/crazy_viner/bBLjuSUeCPI_f5.jpg",
+            "ts": 736.71
+          }
+        ],
+        "context_snippet": "Shop Details \nMilestone Impex \nContact \nRetail 8383083760\nWholesale 9899618848",
+        "queries_matched": [
+          "rc cars market in Delhi",
+          "rc cars in Delhi",
+          "rc car manufacturer in Delhi",
+          "rc car wholesale in Delhi"
+        ],
+        "matched_phone": "+91-83830-83760"
+      }
+    ]
+  },
+  {
+    "shop_id": "shop_01",
+    "shop_name_guess": "2474, Bhagat Singh Market, Opp Shabban",
+    "address_guess": "2474, Bhagat Singh Market, Opp Shabban",
+    "phones": [
+      "+91-70428-97060",
+      "+91-70654-19045",
+      "+91-79829-28315",
+      "+91-81309-62388",
+      "+91-83839-94233",
+      "+91-85950-76806",
+      "+91-87000-76806",
+      "+91-87001-85715",
+      "+91-93107-73535",
+      "+91-95408-30834",
+      "+91-96256-72012",
+      "+91-97118-36137"
+    ],
+    "creator_count": 2,
+    "creators": [
+      "INFINITY VLOGS",
+      "VLOGSTAN"
+    ],
+    "video_count": 9,
+    "total_views": 715724,
+    "mentions": [
+      {
+        "creator_channel": "INFINITY VLOGS",
+        "creator_channel_url": "https://www.youtube.com/channel/UC5sAxbzXgEL1M5rnHqu6Ljg",
+        "creator_subs": 253000,
+        "video_id": "SUObgzwyOU4",
+        "video_url": "https://www.youtube.com/watch?v=SUObgzwyOU4",
+        "video_title": "Starting from ₹12/- | Wholesale Toy Market In Delhi | Drone, Unique Toys, Rc car | sai trading toy",
+        "video_views": 214920,
+        "video_thumb_url": "https://i.ytimg.com/vi/SUObgzwyOU4/hqdefault.jpg",
+        "video_thumb_local": "frames/infinity_vlogs/SUObgzwyOU4_thumb.jpg",
+        "frames": [
+          {
+            "path": "frames/infinity_vlogs/SUObgzwyOU4_f1.jpg",
+            "ts": 1.5
+          },
+          {
+            "path": "frames/infinity_vlogs/SUObgzwyOU4_f2.jpg",
+            "ts": 315.89
+          },
+          {
+            "path": "frames/infinity_vlogs/SUObgzwyOU4_f3.jpg",
+            "ts": 630.28
+          },
+          {
+            "path": "frames/infinity_vlogs/SUObgzwyOU4_f4.jpg",
+            "ts": 944.67
+          },
+          {
+            "path": "frames/infinity_vlogs/SUObgzwyOU4_f5.jpg",
+            "ts": 1259.07
+          }
+        ],
+        "context_snippet": "2474, Bhagat Singh Market, Opp Shabban\nLal Dhram Shala\nSadar Bazar, Delhi-06\nContact:- 9540830834, ‪7042897060\n———————————————————      👇🎬🎬🎬🎬📷📷👇",
+        "queries_matched": [
+          "rc car manufacturer in Delhi"
+        ],
+        "matched_phone": "+91-70428-97060"
+      },
+      {
+        "creator_channel": "INFINITY VLOGS",
+        "creator_channel_url": "https://www.youtube.com/channel/UC5sAxbzXgEL1M5rnHqu6Ljg",
+        "creator_subs": 253000,
+        "video_id": "K6ClTd5E_F0",
+        "video_url": "https://www.youtube.com/watch?v=K6ClTd5E_F0",
+        "video_title": "Starting from ₹12/- | Wholesale Toy Market In Delhi | Drone, Unique Toys, Rc car | sai trading toy",
+        "video_views": 212756,
+        "video_thumb_url": "https://i.ytimg.com/vi/K6ClTd5E_F0/hqdefault.jpg",
+        "video_thumb_local": "",
+        "frames": [],
+        "context_snippet": "———————————————————      👇🎬🎬🎬🎬📷📷👇\n (Contact me  for shoot)👇👇\nअपनी दुकान की video बनवाने के लिए हमें whatsapp msg या whatsaap call करे  7065419045\nVideo for shoot:- avinashavkc2000@gmail.com",
+        "queries_matched": [
+          "rc car manufacturer in Delhi"
+        ],
+        "matched_phone": "+91-70654-19045"
+      },
+      {
+        "creator_channel": "INFINITY VLOGS",
+        "creator_channel_url": "https://www.youtube.com/channel/UC5sAxbzXgEL1M5rnHqu6Ljg",
+        "creator_subs": 253000,
+        "video_id": "Qax4x5kRqrA",
+        "video_url": "https://www.youtube.com/watch?v=Qax4x5kRqrA",
+        "video_title": "Starting from ₹12/- | Wholesale Toy Market In Delhi | Drone, Unique Toys, Rc car",
+        "video_views": 134178,
+        "video_thumb_url": "https://i.ytimg.com/vi/Qax4x5kRqrA/hqdefault.jpg",
+        "video_thumb_local": "",
+        "frames": [],
+        "context_snippet": "———————————————————      👇🎬🎬🎬🎬📷📷👇\n (Contact me  for shoot)👇👇\nअपनी दुकान की video बनवाने के लिए हमें whatsapp msg या whatsaap call करे  7065419045\nVideo for shoot:- avinashavkc2000@gmail.com",
+        "queries_matched": [
+          "rc car manufacturer in Delhi",
+          "rc car wholesale in Delhi"
+        ],
+        "matched_phone": "+91-70654-19045"
+      },
+      {
+        "creator_channel": "INFINITY VLOGS",
+        "creator_channel_url": "https://www.youtube.com/channel/UC5sAxbzXgEL1M5rnHqu6Ljg",
+        "creator_subs": 253000,
+        "video_id": "-u990mKwgVs",
+        "video_url": "https://www.youtube.com/watch?v=-u990mKwgVs",
+        "video_title": "Starting from ₹12/- | Wholesale Toy Market In Delhi | Drone, Unique Toys, Rc car",
+        "video_views": 58083,
+        "video_thumb_url": "https://i.ytimg.com/vi/-u990mKwgVs/hqdefault.jpg",
+        "video_thumb_local": "",
+        "frames": [],
+        "context_snippet": "———————————————————      👇🎬🎬🎬🎬📷📷👇\n (Contact me  for shoot)👇👇\nअपनी दुकान की video बनवाने के लिए हमें whatsapp msg या whatsaap call करे  7065419045\nVideo for shoot:- avinashavkc2000@gmail.com",
+        "queries_matched": [
+          "rc car manufacturer in Delhi",
+          "rc car wholesale in Delhi"
+        ],
+        "matched_phone": "+91-70654-19045"
+      },
+      {
+        "creator_channel": "VLOGSTAN",
+        "creator_channel_url": "https://www.youtube.com/channel/UCotU5I29Ovp1FnNdsBECGLg",
+        "creator_subs": 194000,
+        "video_id": "fY6zePAgmYg",
+        "video_url": "https://www.youtube.com/watch?v=fY6zePAgmYg",
+        "video_title": "सबसे सास्ता Rs,25/- Gadgets Toy&#39;s , Drone Camera , Rc Car | Cheapest Toys Wholesale Market in Delhi",
+        "video_views": 25010,
+        "video_thumb_url": "https://i.ytimg.com/vi/fY6zePAgmYg/hqdefault.jpg",
+        "video_thumb_local": "frames/vlogstan/fY6zePAgmYg_thumb.jpg",
+        "frames": [
+          {
+            "path": "frames/vlogstan/fY6zePAgmYg_f1.jpg",
+            "ts": 1.5
+          },
+          {
+            "path": "frames/vlogstan/fY6zePAgmYg_f2.jpg",
+            "ts": 363.33
+          },
+          {
+            "path": "frames/vlogstan/fY6zePAgmYg_f3.jpg",
+            "ts": 725.16
+          },
+          {
+            "path": "frames/vlogstan/fY6zePAgmYg_f4.jpg",
+            "ts": 1086.99
+          },
+          {
+            "path": "frames/vlogstan/fY6zePAgmYg_f5.jpg",
+            "ts": 1448.82
+          }
+        ],
+        "context_snippet": "_________________________________________\nFor video Shoot Collaboration & Business Enquiry \n📩 E-mail - stylogang8@gmail.com\nContact : 8700185715\n ____________________________________",
+        "queries_matched": [
+          "rc cars market in Delhi",
+          "rc cars in Delhi",
+          "rc car wholesale in Delhi"
+        ],
+        "matched_phone": "+91-87001-85715"
+      },
+      {
+        "creator_channel": "VLOGSTAN",
+        "creator_channel_url": "https://www.youtube.com/channel/UCotU5I29Ovp1FnNdsBECGLg",
+        "creator_subs": 194000,
+        "video_id": "L2RMKcBWvlY",
+        "video_url": "https://www.youtube.com/watch?v=L2RMKcBWvlY",
+        "video_title": "सबसे सस्ता Drone Camera Toys Bazar Rs,30/- Starting🔥| RC Cars , Game Cheapest Toys Market in Delhi ",
+        "video_views": 22550,
+        "video_thumb_url": "https://i.ytimg.com/vi/L2RMKcBWvlY/hqdefault.jpg",
+        "video_thumb_local": "",
+        "frames": [],
+        "context_snippet": "_________________________________________\nFor video Shoot Collaboration & Business Enquiry \n📩 E-mail - stylogang8@gmail.com\nContact : 8700185715\n ____________________________________",
+        "queries_matched": [
+          "rc car wholesale in Delhi"
+        ],
+        "matched_phone": "+91-87001-85715"
+      },
+      {
+        "creator_channel": "VLOGSTAN",
+        "creator_channel_url": "https://www.youtube.com/channel/UCotU5I29Ovp1FnNdsBECGLg",
+        "creator_subs": 194000,
+        "video_id": "7tmEDKjD5uw",
+        "video_url": "https://www.youtube.com/watch?v=7tmEDKjD5uw",
+        "video_title": "Biggest Toy&#39;s Gadgets तहलका Rs,99/-🔥 Rc Car , Drone Camera | Cheapest Toys Wholesale Market in Delhi",
+        "video_views": 22165,
+        "video_thumb_url": "https://i.ytimg.com/vi/7tmEDKjD5uw/hqdefault.jpg",
+        "video_thumb_local": "",
+        "frames": [],
+        "context_snippet": "_________________________________________\nFor video Shoot Collaboration & Business Enquiry \n📩 E-mail - stylogang8@gmail.com\nContact : 8700185715\n ____________________________________",
+        "queries_matched": [
+          "rc cars market in Delhi",
+          "rc car manufacturer in Delhi",
+          "rc car wholesale in Delhi"
+        ],
+        "matched_phone": "+91-87001-85715"
+      },
+      {
+        "creator_channel": "INFINITY VLOGS",
+        "creator_channel_url": "https://www.youtube.com/channel/UC5sAxbzXgEL1M5rnHqu6Ljg",
+        "creator_subs": 253000,
+        "video_id": "otjRBpZTLlc",
+        "video_url": "https://www.youtube.com/watch?v=otjRBpZTLlc",
+        "video_title": "Starting from ₹12/- | Wholesale Toy Market In Delhi | Drone, Unique Toys, Rc car",
+        "video_views": 13246,
+        "video_thumb_url": "https://i.ytimg.com/vi/otjRBpZTLlc/hqdefault.jpg",
+        "video_thumb_local": "",
+        "frames": [],
+        "context_snippet": "———————————————————      👇🎬🎬🎬🎬📷📷👇\n (Contact me  for shoot)👇👇\nअपनी दुकान की video बनवाने के लिए हमें whatsapp msg या whatsaap call करे  7065419045\nVideo for shoot:- avinashavkc2000@gmail.com",
+        "queries_matched": [
+          "rc cars market in Delhi",
+          "rc car manufacturer in Delhi",
+          "rc car wholesale in Delhi"
+        ],
+        "matched_phone": "+91-70654-19045"
+      },
+      {
+        "creator_channel": "VLOGSTAN",
+        "creator_channel_url": "https://www.youtube.com/channel/UCotU5I29Ovp1FnNdsBECGLg",
+        "creator_subs": 194000,
+        "video_id": "NgmmR5YnvpI",
+        "video_url": "https://www.youtube.com/watch?v=NgmmR5YnvpI",
+        "video_title": "सबसे सास्ता Ai Robot Dog Rs,20/- Toy&#39;s Starting🔥| Rc Car 80₹/-😳 Toy&#39;s Wholesale Market in Delhi ",
+        "video_views": 12816,
+        "video_thumb_url": "https://i.ytimg.com/vi/NgmmR5YnvpI/hqdefault.jpg",
+        "video_thumb_local": "",
+        "frames": [],
+        "context_snippet": "_________________________________________\nAddress\n👇🏻\nContact-7982928315, 9540830834\nAddress-Shop No. 288, 1st Floor, Mahaveer Bazar, Teliwara. Sadar Bazar, Delhi-06",
+        "queries_matched": [
+          "rc cars market in Delhi",
+          "rc cars in Delhi",
+          "rc car manufacturer in Delhi",
+          "rc car wholesale in Delhi"
+        ],
+        "matched_phone": "+91-95408-30834"
+      }
+    ]
+  },
+  {
+    "shop_id": "shop_05",
+    "shop_name_guess": "Jumbo Cycle Co.",
+    "address_guess": "Shop no. 39, Qutub Road Chowk, Sadar Bazar, Delhi - 110006.",
+    "phones": [
+      "+91-92896-06439"
+    ],
+    "creator_count": 1,
+    "creators": [
+      "Peephole View Toys"
+    ],
+    "video_count": 1,
+    "total_views": 9750678,
+    "mentions": [
+      {
+        "creator_channel": "Peephole View Toys",
+        "creator_channel_url": "https://www.youtube.com/channel/UCr1X3n7TOReoPWwIKlXXJHQ",
+        "creator_subs": 846000,
+        "video_id": "bqJ15WeHUJs",
+        "video_url": "https://www.youtube.com/watch?v=bqJ15WeHUJs",
+        "video_title": "Remote Control Jeep 4x4 Unboxing and Test Ride #rccar #remotecontrolcar #rcjeep",
+        "video_views": 9750678,
+        "video_thumb_url": "https://i.ytimg.com/vi/bqJ15WeHUJs/hqdefault.jpg",
+        "video_thumb_local": "",
+        "frames": [],
+        "context_snippet": "Best Remote Control Jeep 4x4 Unboxing and Test Ride #rccar #remotecontrolcar #rcjeep\nFor purchase enquiry Contact:- 9289606439\nJumbo Cycle Co.\nShop no. 39, Qutub Road Chowk, Sadar Bazar, Delhi - 110006.",
+        "queries_matched": [
+          "rc cars in Delhi"
+        ],
+        "matched_phone": "+91-92896-06439"
+      }
+    ]
+  },
+  {
+    "shop_id": "shop_06",
+    "shop_name_guess": "",
+    "address_guess": "for Purchase enquiries: Anand Stores, Jwalapur Haridwar - 9837331512",
+    "phones": [
+      "+91-98373-31512"
+    ],
+    "creator_count": 1,
+    "creators": [
+      "Peephole View Toys"
+    ],
+    "video_count": 1,
+    "total_views": 2210671,
+    "mentions": [
+      {
+        "creator_channel": "Peephole View Toys",
+        "creator_channel_url": "https://www.youtube.com/channel/UCr1X3n7TOReoPWwIKlXXJHQ",
+        "creator_subs": 846000,
+        "video_id": "DEFCIRr7UZE",
+        "video_url": "https://www.youtube.com/watch?v=DEFCIRr7UZE",
+        "video_title": "High Speed RC Car 4WD Big RC Car Unboxing and Test #rctoys #rccar #remotecontrolcar",
+        "video_views": 2210671,
+        "video_thumb_url": "https://i.ytimg.com/vi/DEFCIRr7UZE/hqdefault.jpg",
+        "video_thumb_local": "",
+        "frames": [],
+        "context_snippet": "High Speed RC Car 4WD Big RC Car Unboxing and Test #rctoys #rccar #remotecontrolcar\nfor Purchase enquiries: Anand Stores, Jwalapur Haridwar - 9837331512\n#RCCarStunt  ",
+        "queries_matched": [
+          "rc cars market in Delhi",
+          "rc cars in Delhi",
+          "rc car wholesale in Delhi"
+        ],
+        "matched_phone": "+91-98373-31512"
+      }
+    ]
+  },
+  {
+    "shop_id": "shop_04",
+    "shop_name_guess": "Varatharajapuram Street",
+    "address_guess": "Coimbatore - 641109",
+    "phones": [
+      "+91-87781-12724"
+    ],
+    "creator_count": 1,
+    "creators": [
+      "Karthikeyan Stores"
+    ],
+    "video_count": 1,
+    "total_views": 581979,
+    "mentions": [
+      {
+        "creator_channel": "Karthikeyan Stores",
+        "creator_channel_url": "https://www.youtube.com/channel/UC3_ktszPomx-E7eCfqeRN-A",
+        "creator_subs": 15400,
+        "video_id": "HEcFQ7fyhPo",
+        "video_url": "https://www.youtube.com/watch?v=HEcFQ7fyhPo",
+        "video_title": "1:18 Scale Rock Crawler Rc Car 😱 | Metal Alloy 🔥 | Coimbatore| Toy Shop #trending #toys #shorts #yt",
+        "video_views": 581979,
+        "video_thumb_url": "https://i.ytimg.com/vi/HEcFQ7fyhPo/hqdefault.jpg",
+        "video_thumb_local": "frames/karthikeyan_stores/HEcFQ7fyhPo_thumb.jpg",
+        "frames": [
+          {
+            "path": "frames/karthikeyan_stores/HEcFQ7fyhPo_f1.jpg",
+            "ts": 1.14
+          },
+          {
+            "path": "frames/karthikeyan_stores/HEcFQ7fyhPo_f2.jpg",
+            "ts": 3.41
+          },
+          {
+            "path": "frames/karthikeyan_stores/HEcFQ7fyhPo_f3.jpg",
+            "ts": 5.69
+          },
+          {
+            "path": "frames/karthikeyan_stores/HEcFQ7fyhPo_f4.jpg",
+            "ts": 7.96
+          },
+          {
+            "path": "frames/karthikeyan_stores/HEcFQ7fyhPo_f5.jpg",
+            "ts": 10.24
+          }
+        ],
+        "context_snippet": "Varatharajapuram Street \nThondamuthur \nCoimbatore - 641109\nFor Toys Catlogue: Say Hi On Watsapp 👇🏻👇🏻👇🏻👇🏻👇🏻\nContact Number: 8778112724\nAll Over Tamilnadu Shipping Available 📢📢📢 ",
+        "queries_matched": [
+          "rc car wholesale in Delhi"
+        ],
+        "matched_phone": "+91-87781-12724"
+      }
+    ]
+  },
+  {
+    "shop_id": "shop_08",
+    "shop_name_guess": "Best gift for kids. Battery Operated Toys Ab Le Skte Hai Sidha Factory Se 🚘✅",
+    "address_guess": "Address:- 📍 31/12, Khatu Shyam Mandir Gate no 5, Village Zindpur, Alipur Delhi 110036.",
+    "phones": [
+      "+91-90888-91113",
+      "+91-90888-91116",
+      "+91-92113-34077"
+    ],
+    "creator_count": 1,
+    "creators": [
+      "AC Delhi shorts"
+    ],
+    "video_count": 1,
+    "total_views": 108862,
+    "mentions": [
+      {
+        "creator_channel": "AC Delhi shorts",
+        "creator_channel_url": "https://www.youtube.com/channel/UC5nkhoT3x18fHV6ky6i0TzQ",
+        "creator_subs": 93100,
+        "video_id": "t7ft1g-t1hg",
+        "video_url": "https://www.youtube.com/watch?v=t7ft1g-t1hg",
+        "video_title": "Biggest toy car &amp; bike factory warehouse in Delhi | battery operated car and bike holesaller delhi",
+        "video_views": 108862,
+        "video_thumb_url": "https://i.ytimg.com/vi/t7ft1g-t1hg/hqdefault.jpg",
+        "video_thumb_local": "frames/ac_delhi_shorts/t7ft1g-t1hg_thumb.jpg",
+        "frames": [
+          {
+            "path": "frames/ac_delhi_shorts/t7ft1g-t1hg_f1.jpg",
+            "ts": 1.5
+          },
+          {
+            "path": "frames/ac_delhi_shorts/t7ft1g-t1hg_f2.jpg",
+            "ts": 10.06
+          },
+          {
+            "path": "frames/ac_delhi_shorts/t7ft1g-t1hg_f3.jpg",
+            "ts": 18.62
+          },
+          {
+            "path": "frames/ac_delhi_shorts/t7ft1g-t1hg_f4.jpg",
+            "ts": 27.18
+          },
+          {
+            "path": "frames/ac_delhi_shorts/t7ft1g-t1hg_f5.jpg",
+            "ts": 35.74
+          }
+        ],
+        "context_snippet": "Best gift for kids. Battery Operated Toys Ab Le Skte Hai Sidha Factory Se 🚘✅\n.\nFollow - @dolphintoysimport\n.\nCall us on :-  9088891116 /9088891113 / 9211334077\n.\nAddress:- 📍 31/12, Khatu Shyam Mandir Gate no 5, Village Zindpur, Alipur Delhi 110036.",
+        "queries_matched": [
+          "rc car manufacturer in Delhi",
+          "rc car wholesale in Delhi"
+        ],
+        "matched_phone": "+91-90888-91113"
+      }
+    ]
+  },
+  {
+    "shop_id": "shop_03",
+    "shop_name_guess": "Order Now",
+    "address_guess": "Cheapest RC Car market Delhi || Cheapest Toys Market in Delhi || Toys Wholesale Market in Delhi",
+    "phones": [
+      "+91-95996-26661"
+    ],
+    "creator_count": 1,
+    "creators": [
+      "Fun Nation Toys"
+    ],
+    "video_count": 2,
+    "total_views": 30572,
+    "mentions": [
+      {
+        "creator_channel": "Fun Nation Toys",
+        "creator_channel_url": "https://www.youtube.com/channel/UC0c8qSIworCFn2Lhb4FNG9w",
+        "creator_subs": 465,
+        "video_id": "IOj211MIypE",
+        "video_url": "https://www.youtube.com/watch?v=IOj211MIypE",
+        "video_title": "Cheapest RC Car market Delhi || Cheapest Toys Market in Delhi || Toys Wholesale Market in Delhi",
+        "video_views": 20282,
+        "video_thumb_url": "https://i.ytimg.com/vi/IOj211MIypE/hqdefault.jpg",
+        "video_thumb_local": "frames/fun_nation_toys/IOj211MIypE_thumb.jpg",
+        "frames": [
+          {
+            "path": "frames/fun_nation_toys/IOj211MIypE_f1.jpg",
+            "ts": 1.5
+          },
+          {
+            "path": "frames/fun_nation_toys/IOj211MIypE_f2.jpg",
+            "ts": 169.08
+          },
+          {
+            "path": "frames/fun_nation_toys/IOj211MIypE_f3.jpg",
+            "ts": 336.67
+          },
+          {
+            "path": "frames/fun_nation_toys/IOj211MIypE_f4.jpg",
+            "ts": 504.25
+          },
+          {
+            "path": "frames/fun_nation_toys/IOj211MIypE_f5.jpg",
+            "ts": 671.83
+          }
+        ],
+        "context_snippet": "Cheapest RC Car market Delhi || Cheapest Toys Market in Delhi || Toys Wholesale Market in Delhi\nOrder Now \nWebsite - www.funnation.in\n call -  9599626661\nkey points. ",
+        "queries_matched": [
+          "rc cars market in Delhi",
+          "rc car manufacturer in Delhi",
+          "rc car wholesale in Delhi"
+        ],
+        "matched_phone": "+91-95996-26661"
+      },
+      {
+        "creator_channel": "Fun Nation Toys",
+        "creator_channel_url": "https://www.youtube.com/channel/UC0c8qSIworCFn2Lhb4FNG9w",
+        "creator_subs": 465,
+        "video_id": "vDO8OLVbDrs",
+        "video_url": "https://www.youtube.com/watch?v=vDO8OLVbDrs",
+        "video_title": "Cheapest Toys Market in Delhi || Toys Factory in Delhi || Toys Wholesale Market in Delhi || Rc cars",
+        "video_views": 10290,
+        "video_thumb_url": "https://i.ytimg.com/vi/vDO8OLVbDrs/hqdefault.jpg",
+        "video_thumb_local": "",
+        "frames": [],
+        "context_snippet": "Cheapest Toys Market in Delhi || Toys Factory in Delhi || Toys Wholesale Market in Delhi || Rc cars \nOrder Now : https://funnation.in/\n Call for bulk -  9599626661\nkey points. ",
+        "queries_matched": [
+          "rc car manufacturer in Delhi"
+        ],
+        "matched_phone": "+91-95996-26661"
+      }
+    ]
+  },
+  {
+    "shop_id": "shop_09",
+    "shop_name_guess": "please my channel subscribe Baby toy rideon 007",
+    "address_guess": "TOY Market Delhi JEEP & BIKES Luxury 2026 battery operated remote control 4X4 JEEP",
+    "phones": [
+      "+91-97164-78282"
+    ],
+    "creator_count": 1,
+    "creators": [
+      "Baby toy rideon 007"
+    ],
+    "video_count": 1,
+    "total_views": 9778,
+    "mentions": [
+      {
+        "creator_channel": "Baby toy rideon 007",
+        "creator_channel_url": "https://www.youtube.com/channel/UCkfqFFf1S0Cky0GV0HpOPtg",
+        "creator_subs": 104000,
+        "video_id": "sFgKxbLP-Ic",
+        "video_url": "https://www.youtube.com/watch?v=sFgKxbLP-Ic",
+        "video_title": "Luxury Car 🚗 rolls-Royce Best ￼￼🔥 Toy Market Jhandewalan ￼Delhi battery operated Car and bike THAR ",
+        "video_views": 9778,
+        "video_thumb_url": "https://i.ytimg.com/vi/sFgKxbLP-Ic/hqdefault.jpg",
+        "video_thumb_local": "",
+        "frames": [],
+        "context_snippet": "TOY Market Delhi JEEP & BIKES Luxury 2026 battery operated remote control 4X4 JEEP \nplease my channel subscribe Baby toy rideon 007\nAddress jhandewalan cycle market Delhi\nShop no 22A Venus trading company\nmohd Salman WhatsApp 9716478282\n********************************************\nBranded Toys | Battery Operated Luxury 4×4 Cars , Jeep , | Toy Car | Mercedes , BMW , Rolls-Royce",
+        "queries_matched": [
+          "rc car wholesale in Delhi"
+        ],
+        "matched_phone": "+91-97164-78282"
+      }
+    ]
+  },
+  {
+    "shop_id": "shop_10",
+    "shop_name_guess": "Battery Operated Cars & bike Wholesale Toy Market in Delhi Jeep 4×4 Video",
+    "address_guess": "Battery Operated Cars & bike Wholesale Toy Market in Delhi Jeep 4×4 Video",
+    "phones": [
+      "+91-92136-45705"
+    ],
+    "creator_count": 1,
+    "creators": [
+      "Pk Vloger Zone"
+    ],
+    "video_count": 1,
+    "total_views": 4019,
+    "mentions": [
+      {
+        "creator_channel": "Pk Vloger Zone",
+        "creator_channel_url": "https://www.youtube.com/channel/UCrVwzRX12P1Fgh-rlDBMQMA",
+        "creator_subs": 10700,
+        "video_id": "1JhPfWRYo2M",
+        "video_url": "https://www.youtube.com/watch?v=1JhPfWRYo2M",
+        "video_title": "Battery Operated Cars &amp; bike Wholesale Toy Market in Delhi Jeep 4×4 Video ",
+        "video_views": 4019,
+        "video_thumb_url": "https://i.ytimg.com/vi/1JhPfWRYo2M/hqdefault.jpg",
+        "video_thumb_local": "",
+        "frames": [],
+        "context_snippet": "Battery Operated Cars & bike Wholesale Toy Market in Delhi Jeep 4×4 Video\n#video #vlog #latest #viral\nBawana Chowk Toy Market in Delhi Jeep & bikes battery iuxry Remote control operation 4×4 \nMobile no 9213645705",
+        "queries_matched": [
+          "rc car manufacturer in Delhi"
+        ],
+        "matched_phone": "+91-92136-45705"
+      }
+    ]
+  },
+  {
+    "shop_id": "shop_07",
+    "shop_name_guess": "",
+    "address_guess": "",
+    "phones": [
+      "+91-98112-34038",
+      "+91-99587-15467"
+    ],
+    "creator_count": 1,
+    "creators": [
+      "ROHAN K VLOGS"
+    ],
+    "video_count": 1,
+    "total_views": 1337,
+    "mentions": [
+      {
+        "creator_channel": "ROHAN K VLOGS",
+        "creator_channel_url": "https://www.youtube.com/channel/UC0eG7DYikVaJUUX4HCxB0hw",
+        "creator_subs": 11900,
+        "video_id": "lK-DKO5dayg",
+        "video_url": "https://www.youtube.com/watch?v=lK-DKO5dayg",
+        "video_title": "Cheapest wholesale Toys Market in Delhi | Drone, Unique Toys, Rc car | Starting ₹10 only ",
+        "video_views": 1337,
+        "video_thumb_url": "https://i.ytimg.com/vi/lK-DKO5dayg/hqdefault.jpg",
+        "video_thumb_local": "",
+        "frames": [],
+        "context_snippet": "Shop Location - https://maps.app.goo.gl/hetiCGcYTjkEBkzi6\nJoin What's App Group - https://chat.whatsapp.com/Ctd1xEsLhQt8MlBvnUhKED?mode=ems_copy_t\nContact number 9811234038  9958715467",
+        "queries_matched": [
+          "rc car wholesale in Delhi"
+        ],
+        "matched_phone": "+91-98112-34038"
+      }
+    ]
+  }
+]
