@@ -82,8 +82,11 @@ def yt_search(api_key, query, max_results=25):
     out = []
     for it in data.get("items", []):
         sn = it.get("snippet", {})
+        vid = it.get("id", {}).get("videoId") if isinstance(it.get("id"), dict) else None
+        if not vid:
+            continue  # skip non-video results (channels, playlists) that occasionally slip through type=video
         out.append({
-            "videoId": it["id"]["videoId"],
+            "videoId": vid,
             "title": sn.get("title", ""),
             "channelId": sn.get("channelId", ""),
             "channelTitle": sn.get("channelTitle", ""),

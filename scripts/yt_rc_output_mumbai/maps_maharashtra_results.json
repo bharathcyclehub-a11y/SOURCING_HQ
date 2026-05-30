@@ -1,0 +1,2283 @@
+{
+  "Mumbai::rc car shop Mumbai": [
+    {
+      "name": "21 RCDC",
+      "address": "Room no. 1, Nirmal niwas, 17th, St John Baptist Rd, opp. Taj house, Mount Mary, Bandra West, Mumbai, Maharashtra 400050, India",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "postal_code": "400050",
+      "category": "Hobby store",
+      "categories": [
+        "Hobby store"
+      ],
+      "phone": "+91 96967 00021",
+      "phones": [],
+      "website": "http://www.21rcdc.com/",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=21%20RCDC&query_place_id=ChIJlbakQFDJ5zsRoMbOhoot7LA",
+      "place_id": "ChIJlbakQFDJ5zsRoMbOhoot7LA",
+      "rating": 5,
+      "reviews_count": 8,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {}
+    },
+    {
+      "name": "Automania",
+      "address": "Shop No. 8, Prabhavinayak, New Prabhadevi Road, Prabhadevi, Mumbai, Maharashtra 400025, India",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "postal_code": "400025",
+      "category": "Toy store",
+      "categories": [
+        "Toy store",
+        "Scale model club"
+      ],
+      "phone": "+91 99874 17000",
+      "phones": [],
+      "website": "http://www.automania.co.in/",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Automania&query_place_id=ChIJ_WoPhr_O5zsR6vPlCvX2ojg",
+      "place_id": "ChIJ_WoPhr_O5zsR6vPlCvX2ojg",
+      "rating": 4.5,
+      "reviews_count": 120,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "In-store pickup": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": false
+          }
+        ],
+        "Amenities": [
+          {
+            "Wi-Fi": true
+          },
+          {
+            "Free Wi-Fi": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cinerigs",
+      "address": "Malad, Evershine Nagar, Malad West, Mumbai, Maharashtra 400064, India",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "postal_code": "400064",
+      "category": "Hobby store",
+      "categories": [
+        "Hobby store"
+      ],
+      "phone": "+91 93722 16165",
+      "phones": [],
+      "website": "https://www.cinerigs.in/",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cinerigs&query_place_id=ChIJj1LT0Zq35zsR7fteoK2auQM",
+      "place_id": "ChIJj1LT0Zq35zsR7fteoK2auQM",
+      "rating": 4.8,
+      "reviews_count": 23,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Toy Collectors India",
+      "address": "Shop no 413 4th Floor, HillView Industrial Estate, inside Siddhpura Industrial, behind R City Mall, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086, India",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "postal_code": "400086",
+      "category": "Hobby store",
+      "categories": [
+        "Hobby store",
+        "Scale model club",
+        "Toy store",
+        "Trading card store"
+      ],
+      "phone": "+91 85918 58513",
+      "phones": [],
+      "website": "https://toycollectorsindia.in/",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Toy%20Collectors%20India&query_place_id=ChIJ3bSLm6jH5zsRyyz1sC6-ryQ",
+      "place_id": "ChIJ3bSLm6jH5zsRyyz1sC6-ryQ",
+      "rating": 4.7,
+      "reviews_count": 921,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Curbside pickup": true
+          },
+          {
+            "Delivery": true
+          },
+          {
+            "In-store pickup": true
+          },
+          {
+            "In-store shopping": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          },
+          {
+            "Wi-Fi": true
+          },
+          {
+            "Free Wi-Fi": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          },
+          {
+            "On-site parking": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Hobby Central",
+      "address": "ground floor, Lords Plaza, Hobby Central, Shop no, 06, Mira Road East, opposite Wockhardt Hospital, Mumbai, Maharashtra 401107, India",
+      "city": "Mumbai, Mira Bhayandar",
+      "state": "Maharashtra",
+      "postal_code": "401107",
+      "category": "Hobby store",
+      "categories": [
+        "Hobby store"
+      ],
+      "phone": "+91 99675 44443",
+      "phones": [],
+      "website": "https://www.hobbycentral.co.in/",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hobby%20Central&query_place_id=ChIJT28OSyO25zsRSzRdKbVHe94",
+      "place_id": "ChIJT28OSyO25zsRSzRdKbVHe94",
+      "rating": 4.6,
+      "reviews_count": 114,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "MRC Hobbies",
+      "address": "2nd Floor, PN Kothari Industrial Estate, 201, Lal Bahadur Shastri Marg, near navkar Hospital, Sonapur, Bhandup West, Mumbai, Maharashtra 400078, India",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "postal_code": "400078",
+      "category": "Hobby store",
+      "categories": [
+        "Hobby store"
+      ],
+      "phone": "+91 88501 07241",
+      "phones": [
+        "+917784093093"
+      ],
+      "website": "https://mrchobbies.com/",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=MRC%20Hobbies&query_place_id=ChIJ8cGu5BHP5zsR5CoCHcwTSW4",
+      "place_id": "ChIJ8cGu5BHP5zsR5CoCHcwTSW4",
+      "rating": 4.7,
+      "reviews_count": 31,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "In-store shopping": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Riddhi Toy",
+      "address": "Shop No G -1 Plot No 14 Laxmi Niwas Jawahar Nagar S.V ROAD Goregaon, West, Goregaon West, Mumbai, Maharashtra 400104, India",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "postal_code": "400104",
+      "category": "Toy store",
+      "categories": [
+        "Toy store",
+        "Educational supply store",
+        "Game store",
+        "Gift shop",
+        "Soccer store"
+      ],
+      "phone": "+91 80 6506 6013",
+      "phones": [
+        "08065066013"
+      ],
+      "website": "http://riddhitoygoregaon.in/",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Riddhi%20Toy&query_place_id=ChIJzZdLULvO5zsRA-me_kItljU",
+      "place_id": "ChIJzZdLULvO5zsRA-me_kItljU",
+      "rating": 4.7,
+      "reviews_count": 636,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "In-store shopping": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible seating": true
+          },
+          {
+            "Wheelchair accessible entrance": false
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          },
+          {
+            "Wi-Fi": true
+          },
+          {
+            "Free Wi-Fi": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          }
+        ],
+        "Planning": [
+          {
+            "Appointment required": true
+          },
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Children": [
+          {
+            "Discounts for kids": true
+          },
+          {
+            "Family discount": true
+          },
+          {
+            "Kid-friendly activities": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          },
+          {
+            "Free street parking": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "DMart LB Nagar",
+      "address": "Metro Station L B Nagar, NH 65, near Metro Station, Snehapuri Colony, L. B. Nagar, Hyderabad, Telangana 500074, India",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "postal_code": "500074",
+      "category": "Hypermarket",
+      "categories": [
+        "Hypermarket",
+        "Grocery store",
+        "Store"
+      ],
+      "phone": "+91 22 3340 0500",
+      "phones": [],
+      "website": "http://www.dmartindia.com/",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=DMart%20LB%20Nagar&query_place_id=ChIJqxE_NKOYyzsRpg_g-kFtuMc",
+      "place_id": "ChIJqxE_NKOYyzsRpg_g-kFtuMc",
+      "rating": 4.1,
+      "reviews_count": 22581,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "No-contact delivery": true
+          },
+          {
+            "Delivery": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Highlights": [
+          {
+            "Great produce": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Restroom": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ],
+        "Parking": [
+          {
+            "Paid parking lot": true
+          },
+          {
+            "Paid street parking": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "TOYS UNLIMITED",
+      "address": "Marrichettu junction, Manikonda Rd, beside Domino’s pizza, Shirdi Sai Nagar, Manikonda, Hyderabad, Telangana 500089, India",
+      "city": "Manikonda, Hyderabad",
+      "state": "Telangana",
+      "postal_code": "500089",
+      "category": "Toy store",
+      "categories": [
+        "Toy store",
+        "Baby store",
+        "Gift shop",
+        "Stationery store"
+      ],
+      "phone": "+91 77993 39099",
+      "phones": [],
+      "website": "",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=TOYS%20UNLIMITED&query_place_id=ChIJeffv3nKVyzsR3Xv3s-h2GPs",
+      "place_id": "ChIJeffv3nKVyzsR3Xv3s-h2GPs",
+      "rating": 4.5,
+      "reviews_count": 59,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Curbside pickup": true
+          },
+          {
+            "Delivery": true
+          },
+          {
+            "In-store pickup": true
+          },
+          {
+            "In-store shopping": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Assistive hearing loop": false
+          },
+          {
+            "Wheelchair accessible entrance": false
+          },
+          {
+            "Wheelchair accessible parking lot": false
+          },
+          {
+            "Wheelchair accessible restroom": false
+          },
+          {
+            "Wheelchair accessible seating": false
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          },
+          {
+            "Wi-Fi": true
+          },
+          {
+            "Free Wi-Fi": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          }
+        ],
+        "Planning": [
+          {
+            "Appointment required": true
+          },
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Children": [
+          {
+            "Discounts for kids": true
+          },
+          {
+            "Family discount": true
+          },
+          {
+            "Kid-friendly activities": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free street parking": true
+          },
+          {
+            "On-site parking": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Daddy Drones Mumbai",
+      "address": "84/670, off New Link Road, behind Zebra Showroon, Motilal Nagar III, Goregaon West, Mumbai, Maharashtra 400104, India",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "postal_code": "400104",
+      "category": "Drone shop",
+      "categories": [
+        "Drone shop",
+        "Bicycle Shop",
+        "Hobby store",
+        "Toy store"
+      ],
+      "phone": "+91 72082 04541",
+      "phones": [
+        "7208204541"
+      ],
+      "website": "https://www.daddydrones.in/",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Daddy%20Drones%20Mumbai&query_place_id=ChIJb-aTT1u25zsRnrQIMRWddNQ",
+      "place_id": "ChIJb-aTT1u25zsRnrQIMRWddNQ",
+      "rating": 4.4,
+      "reviews_count": 1789,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "In-store pickup": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible restroom": false
+          },
+          {
+            "Wheelchair accessible seating": false
+          }
+        ],
+        "Offerings": [
+          {
+            "Assembly service": true
+          },
+          {
+            "Repair services": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          },
+          {
+            "Wi-Fi": true
+          },
+          {
+            "Free Wi-Fi": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Jai Ramdev Sports Gifts & Toys",
+      "address": "3rd phase, Rishi Complex, Plot No-13, Kukatpally Housing Board Colony, KPHB Phase 2, Kukatpally, Hyderabad, Telangana 500072, India",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "postal_code": "500072",
+      "category": "Toy store",
+      "categories": [
+        "Toy store"
+      ],
+      "phone": "+91 94945 65545",
+      "phones": [],
+      "website": "",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jai%20Ramdev%20Sports%20Gifts%20%26%20Toys&query_place_id=ChIJTV2mEauRyzsR6EO6qU3ep5I",
+      "place_id": "ChIJTV2mEauRyzsR6EO6qU3ep5I",
+      "rating": 4.6,
+      "reviews_count": 1290,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "In-store shopping": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": false
+          },
+          {
+            "Wheelchair accessible parking lot": false
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          },
+          {
+            "Free street parking": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Veels on 5er Racing & Hobbies",
+      "address": "Sultan Nagar, Ameerpet, Hyderabad, Telangana 500114, India",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "postal_code": "500114",
+      "category": "Hobby store",
+      "categories": [
+        "Hobby store"
+      ],
+      "phone": "+91 90002 32464",
+      "phones": [],
+      "website": "https://www.instagram.com/veelson5er/?hl=en",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Veels%20on%205er%20Racing%20%26%20Hobbies&query_place_id=ChIJDxlYCbiQyzsRKHMygr3pqyM",
+      "place_id": "ChIJDxlYCbiQyzsRKHMygr3pqyM",
+      "rating": 4.6,
+      "reviews_count": 28,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Planning": [
+          {
+            "Appointment required": true
+          },
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Cash-only": true
+          },
+          {
+            "Google Pay": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free street parking": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "OGMini | Die Cast Collectibles Store | Gachibowli",
+      "address": "Shop No.2, 1st Floor, Preston Prime Mall, Lumbini Avenue, Gachibowli, Hyderabad, Telangana 500032, India",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "postal_code": "500032",
+      "category": "Hobby store",
+      "categories": [
+        "Hobby store",
+        "Collectibles store"
+      ],
+      "phone": "+91 86884 62189",
+      "phones": [],
+      "website": "https://www.ogmini.com/",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=OGMini%20%7C%20Die%20Cast%20Collectibles%20Store%20%7C%20Gachibowli&query_place_id=ChIJay9_NQCNyzsRkyha7x00LZk",
+      "place_id": "ChIJay9_NQCNyzsRkyha7x00LZk",
+      "rating": 4.7,
+      "reviews_count": 192,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Curbside pickup": true
+          },
+          {
+            "Delivery": true
+          },
+          {
+            "In-store pickup": true
+          },
+          {
+            "In-store shopping": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Wi-Fi": true
+          },
+          {
+            "Free Wi-Fi": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          }
+        ]
+      }
+    }
+  ],
+  "Mumbai::remote control car dealer Mumbai": [
+    {
+      "name": "RAJA PLASTIC",
+      "address": "Bahadurgarh Road, 1444/45, Main Gali, Fyaz Ganj, New Delhi, Delhi 110006, India",
+      "city": "New Delhi, Delhi",
+      "state": "Delhi",
+      "postal_code": "110006",
+      "category": "Toy store",
+      "categories": [
+        "Toy store"
+      ],
+      "phone": "+91 98994 35380",
+      "phones": [],
+      "website": "https://www.rajaplastic.co.in/",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=RAJA%20PLASTIC&query_place_id=ChIJQ52gMXH9DDkRy_h55tPn6Tc",
+      "place_id": "ChIJQ52gMXH9DDkRy_h55tPn6Tc",
+      "rating": 4.5,
+      "reviews_count": 33,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "In-store pickup": true
+          },
+          {
+            "In-store shopping": true
+          }
+        ],
+        "Planning": [
+          {
+            "Appointment required": true
+          },
+          {
+            "Quick visit": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Auto Music Emporium - Karol Bagh",
+      "address": "10172, Abdul Aziz Rd, Block 15, WEA, Karol Bagh, New Delhi, Delhi, 110005, India",
+      "city": "New Delhi, Delhi",
+      "state": "Delhi",
+      "postal_code": "110005",
+      "category": "Car stereo store",
+      "categories": [
+        "Car stereo store"
+      ],
+      "phone": "+91 98100 20606",
+      "phones": [],
+      "website": "http://www.automusicemporium.com/?fbclid=IwAR2ZkwR2LwY7tWwBIHzIp_Dzh_gboKqP4-ZNV85AG2GQHBoV_1h-iRdVuQ8",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Auto%20Music%20Emporium%20-%20Karol%20Bagh&query_place_id=ChIJi4H1SZ4CDTkRUpjt5WaYNbg",
+      "place_id": "ChIJi4H1SZ4CDTkRUpjt5WaYNbg",
+      "rating": 4.2,
+      "reviews_count": 914,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": false
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Paid parking lot": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "MRC Hobbies",
+      "address": "2nd Floor, PN Kothari Industrial Estate, 201, Lal Bahadur Shastri Marg, near navkar Hospital, Sonapur, Bhandup West, Mumbai, Maharashtra 400078, India",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "postal_code": "400078",
+      "category": "Hobby store",
+      "categories": [
+        "Hobby store"
+      ],
+      "phone": "+91 88501 07241",
+      "phones": [
+        "+917784093093"
+      ],
+      "website": "https://mrchobbies.com/",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=MRC%20Hobbies&query_place_id=ChIJ8cGu5BHP5zsR5CoCHcwTSW4",
+      "place_id": "ChIJ8cGu5BHP5zsR5CoCHcwTSW4",
+      "rating": 4.7,
+      "reviews_count": 31,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "In-store shopping": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Hobby Central",
+      "address": "ground floor, Lords Plaza, Hobby Central, Shop no, 06, Mira Road East, opposite Wockhardt Hospital, Mumbai, Maharashtra 401107, India",
+      "city": "Mumbai, Mira Bhayandar",
+      "state": "Maharashtra",
+      "postal_code": "401107",
+      "category": "Hobby store",
+      "categories": [
+        "Hobby store"
+      ],
+      "phone": "+91 99675 44443",
+      "phones": [],
+      "website": "https://www.hobbycentral.co.in/",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hobby%20Central&query_place_id=ChIJT28OSyO25zsRSzRdKbVHe94",
+      "place_id": "ChIJT28OSyO25zsRSzRdKbVHe94",
+      "rating": 4.6,
+      "reviews_count": 114,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pick Best Toys",
+      "address": "D 135, Dhobi Ghat Gali, near vivek vihar police station, Block D, Jhilmil Colony, Delhi, 110095, India",
+      "city": "Delhi",
+      "state": "Delhi",
+      "postal_code": "110095",
+      "category": "Toy store",
+      "categories": [
+        "Toy store"
+      ],
+      "phone": "+91 96540 09915",
+      "phones": [],
+      "website": "https://pickbesttoys.com/",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pick%20Best%20Toys&query_place_id=ChIJJcffhHf7DDkR1KOyjVtPWq0",
+      "place_id": "ChIJJcffhHf7DDkR1KOyjVtPWq0",
+      "rating": 4.9,
+      "reviews_count": 269,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Khushi roys",
+      "address": "Cycle Market, 99A, Block E, Jhandewalan Extension, Jhandewalan, New Delhi, Delhi 110055, India",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "postal_code": "110055",
+      "category": "Toy store",
+      "categories": [
+        "Toy store"
+      ],
+      "phone": "+91 98681 57711",
+      "phones": [],
+      "website": "",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Khushi%20roys&query_place_id=ChIJ9--1fjj9DDkRjZNJZ-1kGjg",
+      "place_id": "ChIJ9--1fjj9DDkRjZNJZ-1kGjg",
+      "rating": 2.7,
+      "reviews_count": 44,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "The dream toyz",
+      "address": "B31, opp. petrol pump shell, Block B, Vishal Enclave, Rajouri Garden, New Delhi, Delhi, 110027, India",
+      "city": "New Delhi, Delhi",
+      "state": "Delhi",
+      "postal_code": "110027",
+      "category": "Car dealer",
+      "categories": [
+        "Car dealer"
+      ],
+      "phone": "+91 80080 07003",
+      "phones": [],
+      "website": "",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20dream%20toyz&query_place_id=ChIJRz6g3QoDDTkRRx68CLrMANU",
+      "place_id": "ChIJRz6g3QoDDTkRRx68CLrMANU",
+      "rating": 4,
+      "reviews_count": 60,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Motor Concept",
+      "address": "A-12, Left lane, near renault service, next to Nexa showroom, Mayapuri Industrial Area Phase II, Mayapuri, New Delhi, Delhi, 110064, India",
+      "city": "New Delhi, Delhi",
+      "state": "Delhi",
+      "postal_code": "110064",
+      "category": "Car stereo store",
+      "categories": [
+        "Car stereo store"
+      ],
+      "phone": "+91 88261 69942",
+      "phones": [
+        "+91 88261 69942"
+      ],
+      "website": "http://www.facebook.com/motorconcept",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Motor%20Concept&query_place_id=ChIJX1N2yZEDDTkRU3XA_08vr_o",
+      "place_id": "ChIJX1N2yZEDDTkRU3XA_08vr_o",
+      "rating": 4.3,
+      "reviews_count": 673,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Automania",
+      "address": "Shop No. 8, Prabhavinayak, New Prabhadevi Road, Prabhadevi, Mumbai, Maharashtra 400025, India",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "postal_code": "400025",
+      "category": "Toy store",
+      "categories": [
+        "Toy store",
+        "Scale model club"
+      ],
+      "phone": "+91 99874 17000",
+      "phones": [],
+      "website": "http://www.automania.co.in/",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Automania&query_place_id=ChIJ_WoPhr_O5zsR6vPlCvX2ojg",
+      "place_id": "ChIJ_WoPhr_O5zsR6vPlCvX2ojg",
+      "rating": 4.5,
+      "reviews_count": 120,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "In-store pickup": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": false
+          }
+        ],
+        "Amenities": [
+          {
+            "Wi-Fi": true
+          },
+          {
+            "Free Wi-Fi": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Toy Collectors India",
+      "address": "Shop no 413 4th Floor, HillView Industrial Estate, inside Siddhpura Industrial, behind R City Mall, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086, India",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "postal_code": "400086",
+      "category": "Hobby store",
+      "categories": [
+        "Hobby store",
+        "Scale model club",
+        "Toy store",
+        "Trading card store"
+      ],
+      "phone": "+91 85918 58513",
+      "phones": [],
+      "website": "https://toycollectorsindia.in/",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Toy%20Collectors%20India&query_place_id=ChIJ3bSLm6jH5zsRyyz1sC6-ryQ",
+      "place_id": "ChIJ3bSLm6jH5zsRyyz1sC6-ryQ",
+      "rating": 4.7,
+      "reviews_count": 921,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Curbside pickup": true
+          },
+          {
+            "Delivery": true
+          },
+          {
+            "In-store pickup": true
+          },
+          {
+            "In-store shopping": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          },
+          {
+            "Wi-Fi": true
+          },
+          {
+            "Free Wi-Fi": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          },
+          {
+            "On-site parking": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sumitra Enterprises",
+      "address": "Plot no-432 Main Road Sant Nagar, Ekta Society Wali Gali, Burari, Delhi, 110084, India",
+      "city": "Delhi",
+      "state": "Delhi",
+      "postal_code": "110084",
+      "category": "Drone shop",
+      "categories": [
+        "Drone shop",
+        "Drone service"
+      ],
+      "phone": "+91 95554 04400",
+      "phones": [],
+      "website": "https://www.sumitraenterprises.in/",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sumitra%20Enterprises&query_place_id=ChIJix1iSSX-DDkRicAo9LHsSzk",
+      "place_id": "ChIJix1iSSX-DDkRicAo9LHsSzk",
+      "rating": 4.8,
+      "reviews_count": 248,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "In-store shopping": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Assistive hearing loop": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Assembly service": true
+          },
+          {
+            "Repair services": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          },
+          {
+            "Wi-Fi": true
+          },
+          {
+            "Free Wi-Fi": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Recycling": [
+          {
+            "Batteries": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking garage": true
+          },
+          {
+            "Free parking lot": true
+          },
+          {
+            "Free street parking": true
+          },
+          {
+            "On-site parking": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "PATOYS",
+      "address": "Madhav Traders Electric bike dealer, katori School, C/o, Goverdhan Rd, near Ratan Lal fool, Mathura, Girdharpur, Uttar Pradesh 281004, India",
+      "city": "Mathura, Girdharpur",
+      "state": "Uttar Pradesh",
+      "postal_code": "281004",
+      "category": "Toy store",
+      "categories": [
+        "Toy store",
+        "Toy manufacturer"
+      ],
+      "phone": "+91 80101 10811",
+      "phones": [
+        "8010110811",
+        "+918010110811"
+      ],
+      "website": "https://www.patoys.in/",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=PATOYS&query_place_id=ChIJp01Ei15xczkRpZdhCCVr3Tw",
+      "place_id": "ChIJp01Ei15xczkRpZdhCCVr3Tw",
+      "rating": 4.2,
+      "reviews_count": 116,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Debit cards": true
+          },
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Gomani Rideon Toys | kids battery cars, jeep and bikes, Dirt bike and petrol bike.",
+      "address": "D-block, street no. 11, Rajendra Park Extension, Nangloi Extension, Nangloi, New Delhi, Delhi, 110041, India",
+      "city": "New Delhi, Delhi",
+      "state": "Delhi",
+      "postal_code": "110041",
+      "category": "Toy store",
+      "categories": [
+        "Toy store"
+      ],
+      "phone": "+91 84471 96201",
+      "phones": [],
+      "website": "https://www.gomanirideon.com/",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Gomani%20Rideon%20Toys%20%7C%20kids%20battery%20cars%2C%20jeep%20and%20bikes%2C%20Dirt%20bike%20and%20petrol%20bike.&query_place_id=ChIJT5wBPTUEDTkRJpdTfcnnU4U",
+      "place_id": "ChIJT5wBPTUEDTkRJpdTfcnnU4U",
+      "rating": 4.7,
+      "reviews_count": 237,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "In-store pickup": true
+          },
+          {
+            "In-store shopping": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Wi-Fi": true
+          },
+          {
+            "Free Wi-Fi": true
+          }
+        ],
+        "Planning": [
+          {
+            "Appointment required": true
+          }
+        ],
+        "Payments": [
+          {
+            "Debit cards": true
+          },
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "TRD Enterprises",
+      "address": "28D, Janakpuri Rd, BB Block, Janakpuri, New Delhi, Delhi, 110058, India",
+      "city": "New Delhi, Delhi",
+      "state": "Delhi",
+      "postal_code": "110058",
+      "category": "Hobby store",
+      "categories": [
+        "Hobby store",
+        "Aerial photographer",
+        "Drone shop",
+        "Toy store"
+      ],
+      "phone": "+91 84477 78475",
+      "phones": [],
+      "website": "http://www.trdestore.com/",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=TRD%20Enterprises&query_place_id=ChIJ74hz-aIEDTkRu3QQ1ph0yZ0",
+      "place_id": "ChIJ74hz-aIEDTkRu3QQ1ph0yZ0",
+      "rating": 4.7,
+      "reviews_count": 268,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Curbside pickup": true
+          },
+          {
+            "Delivery": true
+          },
+          {
+            "In-store pickup": true
+          },
+          {
+            "In-store shopping": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Repair services": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Wi-Fi": true
+          },
+          {
+            "Free Wi-Fi": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          }
+        ],
+        "Planning": [
+          {
+            "Appointment required": true
+          },
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          },
+          {
+            "Free street parking": true
+          },
+          {
+            "On-site parking": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Karz and dolls",
+      "address": "313, main road, dhakka village, Kingsway Camp, Delhi, 110033, India",
+      "city": "Delhi",
+      "state": "Delhi",
+      "postal_code": "110033",
+      "category": "Toy store",
+      "categories": [
+        "Toy store"
+      ],
+      "phone": "+91 75319 42529",
+      "phones": [],
+      "website": "http://www.karzanddolls.com/",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Karz%20and%20dolls&query_place_id=ChIJq00rfzD9DDkR3y7k4Dir-zo",
+      "place_id": "ChIJq00rfzD9DDkR3y7k4Dir-zo",
+      "rating": 4.5,
+      "reviews_count": 210,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      }
+    }
+  ],
+  "Mumbai::hobby shop Mumbai": [
+    {
+      "name": "Ajay trading company",
+      "address": "dhobi choraha, Front of patel marriage garden, Agra - Mumbai Hwy, opposite Patel marrige gardan, Irrigation Colony, Shajapur, Madhya Pradesh 465001, India",
+      "city": "Shajapur",
+      "state": "Madhya Pradesh",
+      "postal_code": "465001",
+      "category": "Hardware store",
+      "categories": [
+        "Hardware store",
+        "Portable toilet supplier",
+        "PVC windows supplier",
+        "Seat dealer",
+        "Stationery store",
+        "Toiletries store"
+      ],
+      "phone": "+91 98260 38145",
+      "phones": [],
+      "website": "",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ajay%20trading%20company&query_place_id=ChIJNRefQsRRYzkRDJpclxR3OSg",
+      "place_id": "ChIJNRefQsRRYzkRDJpclxR3OSg",
+      "rating": 5,
+      "reviews_count": 2,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "Same-day delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          },
+          {
+            "Free street parking": true
+          },
+          {
+            "On-site parking": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Hamleys- The finest toy shop in the world",
+      "address": "Survey No 248, Phoenix Citadel, Shop No F53, 1st Floor, 1/1, next to Agra - Mumbai Highway, Khajrana, Indore, Madhya Pradesh 452016, India",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "postal_code": "452016",
+      "category": "Toy store",
+      "categories": [
+        "Toy store",
+        "Baby store",
+        "Game store",
+        "Gift shop",
+        "Stationery store"
+      ],
+      "phone": "+91 88798 83796",
+      "phones": [
+        "+918879883796",
+        "+917314999560",
+        "+919343481472"
+      ],
+      "website": "https://stores.hamleys.in/hamleys-the-finest-toy-shop-in-the-world-citadel-indore-toy-shop-khajrana-indore-299131/Home",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hamleys-%20The%20finest%20toy%20shop%20in%20the%20world&query_place_id=ChIJSafH-nPjYjkRe8fxtI7d8Zs",
+      "place_id": "ChIJSafH-nPjYjkRe8fxtI7d8Zs",
+      "rating": 4.8,
+      "reviews_count": 492,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "In-store shopping": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mumbai Market",
+      "address": "FIRST FLOOR, CENTRE SQUARE MALL, Gujarat 390023, India",
+      "city": "Vadodara",
+      "state": "Gujarat",
+      "postal_code": "390023",
+      "category": "Gift shop",
+      "categories": [
+        "Gift shop",
+        "Artificial plant supplier",
+        "Belt shop",
+        "Handbags shop",
+        "Perfume store",
+        "Toy store"
+      ],
+      "phone": "",
+      "phones": [],
+      "website": "",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mumbai%20Market&query_place_id=ChIJoQNx_vfJXzkRyI0iJdItyYw",
+      "place_id": "ChIJoQNx_vfJXzkRyI0iJdItyYw",
+      "rating": 4.5,
+      "reviews_count": 52,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "GUNNO TOYS",
+      "address": "opp. navchetana School, Tayde Colony, Yadav Colony, Ashoknagar, Madhya Pradesh 473331, India",
+      "city": "Ashoknagar",
+      "state": "Madhya Pradesh",
+      "postal_code": "473331",
+      "category": "Toy store",
+      "categories": [
+        "Toy store"
+      ],
+      "phone": "+91 78982 51151",
+      "phones": [],
+      "website": "https://pragyan.ct.ws/",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=GUNNO%20TOYS&query_place_id=ChIJn__XzGAxejkR9JGadOoZ21w",
+      "place_id": "ChIJn__XzGAxejkR9JGadOoZ21w",
+      "rating": 5,
+      "reviews_count": 13,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      }
+    }
+  ],
+  "Mumbai::scale model store Mumbai": [
+    {
+      "name": "Aircraft model store",
+      "address": "Saint Peters Road, Hill Rd, Bandra West, Mumbai, Maharashtra 400050, India",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "postal_code": "400050",
+      "category": "Hobby store",
+      "categories": [
+        "Hobby store"
+      ],
+      "phone": "+91 83692 86214",
+      "phones": [],
+      "website": "",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Aircraft%20model%20store&query_place_id=ChIJjzjPrD_J5zsRBIP0m10S_QE",
+      "place_id": "ChIJjzjPrD_J5zsRBIP0m10S_QE",
+      "rating": 4.8,
+      "reviews_count": 67,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Onsite services": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Toy Collectors India",
+      "address": "Shop no 413 4th Floor, HillView Industrial Estate, inside Siddhpura Industrial, behind R City Mall, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086, India",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "postal_code": "400086",
+      "category": "Hobby store",
+      "categories": [
+        "Hobby store",
+        "Scale model club",
+        "Toy store",
+        "Trading card store"
+      ],
+      "phone": "+91 85918 58513",
+      "phones": [],
+      "website": "https://toycollectorsindia.in/",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Toy%20Collectors%20India&query_place_id=ChIJ3bSLm6jH5zsRyyz1sC6-ryQ",
+      "place_id": "ChIJ3bSLm6jH5zsRyyz1sC6-ryQ",
+      "rating": 4.7,
+      "reviews_count": 921,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Curbside pickup": true
+          },
+          {
+            "Delivery": true
+          },
+          {
+            "In-store pickup": true
+          },
+          {
+            "In-store shopping": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          },
+          {
+            "Wi-Fi": true
+          },
+          {
+            "Free Wi-Fi": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          },
+          {
+            "On-site parking": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Maadhu Train Miniatures - Train Miniatures Shop in Mumbai | Train Scale Model Shop | Buy Train Miniature Models",
+      "address": "Gala No. 13 & 14, Sheetal Industrial 3, Fire Brigade, near Navghar Road, Sinnerphata, Samarth Krupa Nagar, Vasai East, Vasai-Virar, Maharashtra 401202, India",
+      "city": "Vasai-Virar",
+      "state": "Maharashtra",
+      "postal_code": "401202",
+      "category": "Model train store",
+      "categories": [
+        "Model train store",
+        "Miniatures store"
+      ],
+      "phone": "+91 90289 58299",
+      "phones": [],
+      "website": "https://trainscalemodel.com/",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maadhu%20Train%20Miniatures%20-%20Train%20Miniatures%20Shop%20in%20Mumbai%20%7C%20Train%20Scale%20Model%20Shop%20%7C%20Buy%20Train%20Miniature%20Models&query_place_id=ChIJZc3Ru7Cv5zsRuf9eb8CzeYU",
+      "place_id": "ChIJZc3Ru7Cv5zsRuf9eb8CzeYU",
+      "rating": 5,
+      "reviews_count": 1,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Automania",
+      "address": "Shop No. 8, Prabhavinayak, New Prabhadevi Road, Prabhadevi, Mumbai, Maharashtra 400025, India",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "postal_code": "400025",
+      "category": "Toy store",
+      "categories": [
+        "Toy store",
+        "Scale model club"
+      ],
+      "phone": "+91 99874 17000",
+      "phones": [],
+      "website": "http://www.automania.co.in/",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Automania&query_place_id=ChIJ_WoPhr_O5zsR6vPlCvX2ojg",
+      "place_id": "ChIJ_WoPhr_O5zsR6vPlCvX2ojg",
+      "rating": 4.5,
+      "reviews_count": 120,
+      "permanently_closed": false,
+      "temporary_closed": false,
+      "claimed": false,
+      "additional_info": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "In-store pickup": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": false
+          }
+        ],
+        "Amenities": [
+          {
+            "Wi-Fi": true
+          },
+          {
+            "Free Wi-Fi": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      }
+    }
+  ],
+  "Mumbai::drift rc Mumbai": [],
+  "Pune::rc car shop Pune": [],
+  "Pune::hobby shop Pune": [],
+  "Pune::toy wholesaler Pune": [],
+  "Pune::rc drift car Pune": [],
+  "Thane::rc car shop Thane": [],
+  "Thane::hobby shop Thane": [],
+  "Thane::toy wholesaler Thane": [],
+  "Bhiwandi::toy wholesaler Bhiwandi": [],
+  "Bhiwandi::rc car wholesale Bhiwandi": [],
+  "Bhiwandi::toy warehouse Bhiwandi": [],
+  "Mira Road::rc car shop Mira Road": [],
+  "Mira Road::hobby shop Mira Road": [],
+  "Navi Mumbai::rc car shop Navi Mumbai": [],
+  "Navi Mumbai::hobby shop Navi Mumbai": []
+}
