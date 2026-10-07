@@ -145,6 +145,7 @@ SOURCING_HQ/
 | [OTHER_CATEGORIES/MENS_FABRIC_RESEARCH.md](OTHER_CATEGORIES/MENS_FABRIC_RESEARCH.md) | Research | Premium fabric sources — Indian + imported, suits/shirts/pants |
 | [OTHER_CATEGORIES/AUTO_ACCESSORIES_RESEARCH.md](OTHER_CATEGORIES/AUTO_ACCESSORIES_RESEARCH.md) | Research | Automobile accessories — categories + sourcing |
 | [OTHER_CATEGORIES/TIRUPPUR_TSHIRT_RESEARCH.md](OTHER_CATEGORIES/TIRUPPUR_TSHIRT_RESEARCH.md) | Research | Direct manufacturers, 1000 units, under ₹100/piece |
+| [OTHER_CATEGORIES/GS5_RETRO_CONSOLE_SOUTH/SOUTH_INDIA_GS5_REPORT.md](OTHER_CATEGORIES/GS5_RETRO_CONSOLE_SOUTH/SOUTH_INDIA_GS5_REPORT.md) | COMPLETE (Oct 2026) | GS5 retro console: 81 South India supply-side leads (TN/TG/AP/KL), 7 grade-A numbers, 0 EXACT GS5 in South; xlsx + CSV call sheet |
 
 ---
 
